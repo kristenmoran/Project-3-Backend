@@ -1,0 +1,272 @@
+[
+	{
+		"name": "Axe, boarding",
+		"description": "Axe, boarding",
+		"value": 6,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Axe, boarding",
+		"description": "Axe, boarding",
+		"value": 8,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Blade boot",
+		"description": "Blade boot",
+		"value": 25,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Cat-o’-nine-tails",
+		"description": "Cat-o’-nine-tails",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Claw blades",
+		"description": "Claw blades",
+		"value": 305,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Dagger, dueling",
+		"description": "Dagger, dueling",
+		"value": 12,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Dogslicer",
+		"description": "Dogslicer",
+		"value": 8,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Hammer, light",
+		"description": "Hammer, light",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Gladius",
+		"description": "Gladius",
+		"value": 15,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Handaxe",
+		"description": "Handaxe",
+		"value": 6,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Katar, tri-bladed",
+		"description": "Katar, tri-bladed",
+		"value": 6,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Knife, switchblade",
+		"description": "Knife, switchblade",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Kobold tail attachment, long lash",
+		"description": "Kobold tail attachment, long lash",
+		"value": 15,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kobold tail attachment, (pounder)",
+		"description": "Kobold tail attachment, (pounder)",
+		"value": 1,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kobold tail attachment, (razored)",
+		"description": "Kobold tail attachment, (razored)",
+		"value": 3,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kobold tail attachment, (razored)",
+		"description": "Kobold tail attachment, (razored)",
+		"value": 3,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kobold tail attachment, (spiked)",
+		"description": "Kobold tail attachment, (spiked)",
+		"value": 3,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kobold tail attachment, (sweeper)",
+		"description": "Kobold tail attachment, (sweeper)",
+		"value": 7,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kukri",
+		"description": "Kukri",
+		"value": 8,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Machete",
+		"description": "Machete",
+		"value": 10,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Pick, light",
+		"description": "Pick, light",
+		"value": 4,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Ratfolk tailblade",
+		"description": "Ratfolk tailblade",
+		"value": 11,
+		"weight": 0.5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Sap",
+		"description": "Sap",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Sea-knife",
+		"description": "Sea-knife",
+		"value": 8,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Starknife",
+		"description": "Starknife",
+		"value": 24,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Sword, short",
+		"description": "Sword, short",
+		"value": 10,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "War razor",
+		"description": "War razor",
+		"value": 8,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO9226"
+	}
+]

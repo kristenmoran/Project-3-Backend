@@ -386,7 +386,7 @@
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1110"
 	},
 	{
@@ -396,7 +396,7 @@
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1123"
 	},
 	{
@@ -406,7 +406,7 @@
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1123"
 	},
 	{
@@ -416,7 +416,7 @@
 		"weight": 0,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1123"
 	},
 	{
@@ -426,7 +426,7 @@
 		"weight": 1.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1123"
 	},
 	{
@@ -436,7 +436,7 @@
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1123"
 	},
 	{
@@ -446,7 +446,7 @@
 		"weight": 0,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1123"
 	},
 	{
@@ -456,7 +456,7 @@
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1123"
 	},
 	{
@@ -466,7 +466,7 @@
 		"weight": 0,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1110"
 	},
 	{
@@ -476,7 +476,7 @@
 		"weight": 0,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1110"
 	},
 	{
@@ -486,7 +486,7 @@
 		"weight": 0,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1110"
 	},
 	{
@@ -496,7 +496,7 @@
 		"weight": 0,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1110"
 	},
 	{
@@ -506,7 +506,7 @@
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1110"
 	},
 	{
@@ -516,7 +516,7 @@
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1123"
 	},
 	{
@@ -526,7 +526,7 @@
 		"weight": 1,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Ration",
 		"source": "PZO1123"
 	},
 	{
@@ -536,7 +536,7 @@
 		"weight": 1.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Ration",
 		"source": "PZO1123"
 	},
 	{
@@ -546,7 +546,7 @@
 		"weight": 1,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Ration",
 		"source": "PZO1123"
 	},
 	{
@@ -556,7 +556,7 @@
 		"weight": 1,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Ration",
 		"source": "PZO1123"
 	},
 	{
@@ -566,7 +566,7 @@
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Ration",
 		"source": "PZO1123"
 	},
 	{
@@ -576,7 +576,7 @@
 		"weight": 1,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Ration",
 		"source": "PZO1123"
 	},
 	{
@@ -586,7 +586,7 @@
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Ration",
 		"source": "PPZO9410"
 	},
 	{
@@ -596,7 +596,7 @@
 		"weight": 1,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Ration",
 		"source": "PZO1123"
 	},
 	{
@@ -606,7 +606,7 @@
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PZO1123"
 	},
 	{
@@ -616,7 +616,7 @@
 		"weight": 1,
 		"categoryOne": "Food and Drink",
 		"categoryTwo": "Food",
-		"categoryThree": "",
+		"categoryThree": "Fresh",
 		"source": "PPC:MM"
 	}
 ]
