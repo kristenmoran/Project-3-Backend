@@ -26,6 +26,8 @@ const ItemSchema = new mongoose.Schema(
 		},
 		categoryTwo: String,
 		categoryThree: String,
+        categoryFour: String,
+        categoryMagical: String,
 		image: String,
 		source: String,
 		owner: {
