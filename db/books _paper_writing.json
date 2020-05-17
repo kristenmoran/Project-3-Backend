@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Books test",
+		"description": "A Books test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Inks and Writing Utensils test",
+		"description": "A Inks and Writing Utensils test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Things to Write, Paint, or Draw On test",
+		"description": "A Things to Write, Paint, or Draw On test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Things to Write, Paint, or Draw On",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Other Writing Supplies and Tools test",
+		"description": "A Other Writing Supplies and Tools test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Other Writing Supplies and Tools",
+		"categoryThree": "",
+		"source": "PZO1123"
+	}
+]

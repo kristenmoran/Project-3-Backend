@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Reagents test",
+		"description": "A Reagents test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Alchemical  Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},{
+        "name": "Oils and Flammables test",
+        "description": "A Oils and Flammables test ",
+        "value": 0.02,
+        "weight": 1,
+        "categoryOne": "Alchemical  Items",
+        "categoryTwo": "Oils and Flammables",
+        "categoryThree": "",
+        "source": "PZO1123"
+    },{
+        "name": "Tools, Devices and Kits test",
+        "description": "A Tools, Devices and Kits ",
+        "value": 0.02,
+        "weight": 1,
+        "categoryOne": "Alchemical  Items",
+        "categoryTwo": "Tools, Devices and Kits",
+        "categoryThree": "",
+        "source": "PZO1123"
+    },{
+        "name": "Misc. Substances test",
+        "description": "A Misc. Substances ",
+        "value": 0.02,
+        "weight": 1,
+        "categoryOne": "Alchemical  Items",
+        "categoryTwo": "Misc. Substances",
+        "categoryThree": "",
+        "source": "PZO1123"
+    },{
+        "name": "Balms, Medicines and Tonics test",
+        "description": "A Balms, Medicines and Tonics test ",
+        "value": 0.02,
+        "weight": 1,
+        "categoryOne": "Alchemical  Items",
+        "categoryTwo": "Balms, Medicines and Tonics",
+        "categoryThree": "",
+        "source": "PZO1123"
+    },{
+        "name": "Hunting Aids test",
+        "description": "A Hunting Aids test ",
+        "value": 0.02,
+        "weight": 1,
+        "categoryOne": "Alchemical  Items",
+        "categoryTwo": "Hunting Aids",
+        "categoryThree": "",
+        "source": "PZO1123"
+    },{
+        "name": "Herbs and Plants test",
+        "description": "A Herbs and Plants ",
+        "value": 0.02,
+        "weight": 1,
+        "categoryOne": "Alchemical  Items",
+        "categoryTwo": "Herbs and Plants",
+        "categoryThree": "",
+        "source": "PZO1123"
+    },{
+        "name": "Special Equipment test",
+        "description": "A Special Equipment ",
+        "value": 0.02,
+        "weight": 1,
+        "categoryOne": "Alchemical  Items",
+        "categoryTwo": "Special Equipment",
+        "categoryThree": "",
+        "source": "PZO1123"
+    }
+]
