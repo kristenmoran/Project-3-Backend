@@ -1022,7 +1022,7 @@
 	},
 	{
 		"name": "Arrow, trip (1)",
-		"description": "Benefit: If the arrow hits, it makes a trip attack against the target with a CMB of +5; the target falls prone if it fails its check, but if it succeeds it cannot attempt to trip you in return.",
+		"deArrow, trip (1)scription": "Benefit: If the arrow hits, it makes a trip attack against the target with a CMB of +5; the target falls prone if it fails its check, but if it succeeds it cannot attempt to trip you in return.",
 		"value": 25,
 		"weight": 0.15,
 		"categoryOne": "Weapon",

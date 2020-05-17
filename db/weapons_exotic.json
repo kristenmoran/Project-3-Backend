@@ -1,0 +1,1162 @@
+[
+	{
+		"name": "Aklys",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Range Increment 20 ft. (thrown) Category light Proficiency exotic Weapon Groups hammers, thrown Special performance, trip; The aklys is a hooked throwing club with a 20-foot-long cord, usually of woven leather. Some aklyses have holes drilled through them and whistle when flung. You can retrieve the aklys after throwing it as a move action. The hook allows you to make trip attacks at range.",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Axe-Gauntlet, Dwarven Light",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x3 Type slashing Category light Proficiency exotic Weapon Groups axes, close Special blocking, disarm; An axe-gauntlet is a locked gauntlet covering the hand and forearm up to and over the elbow, with an axe blade built around the gauntlet’s permanently closed fist. Axe-gauntlets were developed during the long Quest for Sky, when dwarven warriors often had to engage in running fights against larger, stronger opponents in areas the dwarves did not intend to ever return to. Losing a weapon in such circumstances often made it irretrievable, and the axe-gauntlet became popular with rearguard warriors. Though these weapons have seen significantly less use since the dwarves reached the surface, some dwarven warriors still appreciate the reliability of such designs. An axe-gauntlet takes a full-round action to don, and it gives you a +10 bonus to your CMD against disarm attempts. You can’t use the hand on which an axe-gauntlet is worn for anything else.",
+		"value": 16,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPC:HftF"
+	},
+	{
+		"name": "Axe, knuckle",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x3 Type slashing Category light Proficiency exotic Weapon Group axes Special monk, performance; Knuckle axes, usually used in pairs, resemble axe blades mounted on brass knuckles. You may hold, but not wield, a weapon or other object in a hand wearing a knuckle axe. Unlike when wearing brass knuckles, you cannot use a hand wearing a knuckle axe for spellcasting.",
+		"value": 9,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Barbazu beard",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type slashing Category light Proficiency exotic; A barbazu beard is an intimidating helm with a full facemask wrought to look like a snarling barbazu’s head. Extending from the chin area of the face guard is a razor-sharp blade much like an actual barbazu’s beard, usually 8 inches long but sometimes longer. A barbazu beard can be used as an off-hand weapon that requires no hands to use; thus, a warrior could combine use of a barbazu beard with a two-handed weapon. Attacking with a barbazu beard provokes an attack of opportunity. Because it is so close to the wearer’s face, using a barbazu beard against creatures harmful to touch (such as fire elementals and acidic oozes) has the same risks as using a natural weapon or unarmed strike against these creatures.",
+		"value": 25,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPC:Devils"
+	},
+	{
+		"name": "Battle poi",
+		"description": "Damage 1d3 (fire) (small), 1d4 (fire) (medium) Critical x2 Type fire Category light Proficiency exotic Weapon Group flails; The weight of the poi is insufficient to deal physical damage, but the burning fuel deals fire damage. If you are proficient in battle poi, you are treated as if you have the Two-Weapon Fighting feat for the purposes of making poi attacks. Poi can be extinguished by spending a full round action smothering them in sand or submerging them in water.",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Dagger, swordbreaker",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type slashing Category light Proficiency exotic Weapon Group light blades Special disarm, sunder; If you are proficient with this weapon, add +4 on your disarm or sunder attempts against bladed weapons.",
+		"value": 10,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Flying Talon",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type piercing Range Increment 10 ft. (thrown) Category light Proficiency exotic Weapon Group flails Special disarm, trip; This weapon consists of a three-pronged, barbed hook attached to a length of chain. Due to the weapon’s unwieldiness, you cannot make attacks of opportunity with a flying talon and do not threaten any squares with it.",
+		"value": 15,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Gnome pincher",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Category light Proficiency exotic Weapon Group flails Special disarm; This odd weapon is a 2-foot rod topped with four blunt claws. Squeezing the handle causes the claws to close. You can use the gnome pincher to attempt a disarm or steal combat maneuver with a +2 bonus. You can transfer an object from the pincher to your free hand as a free action. Gnomes treat gnome pinchers as martial weapons.",
+		"value": 10,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Halfling rope-shot",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Category light Proficiency exotic Weapon Group flails Special disarm; One end of this short rope has a sling bullet wrapped in a monkey’s fist knot, and the other end is tied in a small loop. You wrap the loop around your wrist as a full-round action and swing the weighted end like a flail. If the loop is properly attached to your wrist and you drop the rope-shot or are disarmed, you can recover it as a swift action. Removing the weapon’s loop is a full-round action. You get a +2 bonus on Sleight of Hand checks made to conceal a rope-shot on your body. Halflings treat rope-shots as martial weapons.",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Helmet, dwarven boulder",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning Category light Proficiency exotic; This heavy, reinforced helmet can be used to make melee attacks. The wearer may use the helmet when attempting bull rush maneuvers, granting a +2 circumstance bonus on the check, but after completing the maneuver (whether successful or not), the wearer is staggered until the end of his next turn. In addition, a dwarven boulder helmet grants a +2 circumstance bonus to the wearer’s AC against critical hit confirmation rolls. A dwarven boulder helmet can be enchanted as a weapon (not as armor, despite providing some protection). A dwarven boulder helmet adds 20% to the wearer’s arcane spell failure chance. It occupies the head slot and is made of metal, not stone, meaning that it can be crafted from unusual materials as a metal weapon.",
+		"value": 20,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kama",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type slashing Category light Proficiency exotic Weapon Groups light blades, monk Special monk, trip; Similar to a sickle—and in some regions still used to reap grain—a kama is a short, curved blade attached to a simple handle, usually made of wood. It is sometimes also referred to as a kai, and is frequently used in pairs by martial artists.",
+		"value": 2,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Knife, butterfly",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19-20/x2 Type piercing or slashing Category light Proficiency exotic Weapon Group light blades; A butterfly knife has a blade concealed between two halves of the handle that can be brought to bear quickly. If you are proficient with the butterfly knife (or have the Quick Draw feat) and are holding it in your hand, you may open it as a free action; a nonproficient user must spend a move action to open it. Otherwise, treat this weapon as a dagger. When it’s closed, you gain a +2 bonus on Sleight of Hand checks made to conceal it on your body.",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Knife, deer horn",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x3 Type piercing Range Increment 20 ft. (thrown) Category light Proficiency exotic Weapon Groups light blades, monk, thrown Special blocking, monk; This flat, metal weapon consists of two joined crescent-shaped blades overlapping to form a hollow center with four projecting points. The blades can differ in length. One side of the center is wrapped to serve as a grip while the other acts as a guard. Deer horn knives are traditionally used in pairs.",
+		"value": 10,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Maulaxe, dwarven",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x3 Type bludgeoning or slashing Range Increment 10 ft. (thrown) Category light Proficiency exotic; This versatile weapon appears like a heavy-headed axe, but a skilled wielder can strike equally well with its chopping edge as with the forged sledge that backs the blade. A dwarven maulaxe is a martial weapon for dwarves and an exotic weapon for members of other races. It is not a double weapon, and any enchantments applied to the weapon operate normally regardless of which part of the weapon’s head is used to deliver the blow, except for enhancements that apply only to blunt or sharp weapons. Such enhancements apply only to attacks dealing the appropriate type of damage.",
+		"value": 25,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Nunchaku",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Category light Proficiency exotic Weapon Groups flails, monk Special disarm, monk; A nunchaku is made up of two wooden or metal bars connected by a small length of rope or chain. ",
+		"value": 2,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Quadrens",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 19-20/x2 Type piercing Category light Proficiency exotic Weapon Group light blades Special performance; A quadrens looks similar to a sturdy dagger, but with four spikes mounted in a square pattern in place of a blade. When you score a critical hit with a quadrens, the resulting gaping wound causes 1 point of bleed damage. In addition to punching through hide and armor, the spikes can also be used to snag opponents’ blades and twist them out of their grips.",
+		"value": 8,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Razor, drow",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 18–20/×2 Type slashing Category light Proficiency exotic Weapon Group light blades; Meant for quick strikes and slashes, this long, slender knife is incredibly sharp along one edge. Drow swashbucklers and assassins are particularly fond of these weapons. A confirmed critical hit or successful sneak attack with a drow razor deals an additional 2 points of damage; this damage is precision damage and is not multiplied on a critical hit. A character with the drow’s weapon familiarity racial trait treats the drow razor as a martial weapon.",
+		"value": 25,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Rope gauntlet",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning (or slashing) Category light Proficiency exotic Weapon Group close; By wrapping your hands and forearms in thin but tough hemp ropes and then soaking the makeshift gloves in water for weight and expansion, you can transform your fists into rockhard weapons easily capable of killing in a fistfight. Description: Each rope gauntlet takes a full minute to wrap and another minute to soak, but once applied can be worn for a day; removing a rope gauntlet takes 1 full round. When wearing rope gauntlets, you are considered armed and your attacks deal normal damage. If you are proficient with rope gauntlets, you may use the rough edges of the ropes to deal slashing damage rather than bludgeoning damage. Your fingers are mostly exposed, allowing you to wield or carry items in your hands while wearing rope gauntlets, but the constriction of the weapon at your knuckles gives you a –2 penalty on all precision based tasks involving your hands (such as opening locks).",
+		"value": 2,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Sabre, sawtooth",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type slashing Category light Proficiency exotic Weapon Groups heavy blades, light blades; A sawtooth sabre may be used as a Martial Weapon (in which case it functions identically to a longsword). If you have the Exotic Weapon Proficiency (sawtooth sabre) feat, for the purpose of two-weapon fighting you can treat it as a light melee weapon; for all other purposes, it is a one-handed melee weapon. Note: Adventurer’s Armory 1 (2010) has the weapon listed as a light weapon for all purposes if you possess the Exotic Weapon Proficiency (sawtooth sabre) feat.",
+		"value": 35,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Sai",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning Category light Proficiency exotic Weapon Group monk Special disarm, monk; A sai is a metal spike flanked by a pair of prongs used to trap an enemy’s weapon. Though pointed, a sai is not usually used for stabbing. Instead, it is used primarily to bludgeon foes, punching with the hilt, or else to catch and disarm weapons between its tines. Sais are often wielded in pairs. When wielding a sai, you get a +2 bonus on combat maneuver checks to sunder an enemy’s weapon.",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Sanpkhang",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19–20/×2 Type piercing or slashing Category light Proficiency exotic Weapon Groups light blades, monk Special monk; This elaborate knife is carved with special barbs and grooves, meant to channel toxins into the bloodstream. Any injury poison delivered with a sanpkhang has its DC increased by 1, or by 2 if delivered as part of a critical hit or sneak attack. The vishkanya’s weapon familiarity racial trait grants proficiency with the sanpkhang.",
+		"value": 60,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Sica",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type slashing Category light Proficiency exotic Weapon Group light blades Special performance; This blade is a smaller, lighter version of the shotel. You gain a +1 bonus on attack rolls with a sica against opponents using bucklers, light shields, or heavy shields. ",
+		"value": 10,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Thorn bracer",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type piercing Category light Proficiency exotic; A thorn bracer can be used to make an offhand attack if you aren’t wielding a weapon or shield in that hand. You can attack with these bracers even while holding objects in your hands. When attacking with thorn bracers, you lose any shield bonus to AC gained from a readied shield until your next action.",
+		"value": 30,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PCS"
+	},
+	{
+		"name": "War-shield, dwarven",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical ×2 Type piercing or slashing Category light Proficiency exotic Weapon Group close; This shield’s sides are cut into jagged angles and honed to razor sharpness. Dwarven skirmishers often wield these shields in pairs, savagely hacking opponents to pieces, while some dwarven scoundrels enjoy the shields’ imposing appearance and ease of use. If you have the Two-Weapon Fighting feat and are wielding two dwarven war-shields, increase the higher of the two shield bonuses by 1. You lose this benefit for 1 round when you make a shield bash with one or both dwarven war-shields (unless you have the Improved Shield Bash feat or a similar benefit). A hand holding a dwarven war-shield can’t be used for anything else. A dwarven war-shield gains no benefit from shield spikes.",
+		"value": 50,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Waveblade",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 18–20/×2 Type piercing or slashing Category light Proficiency exotic Weapon Group close, monk Special monk; Also known as a “scorpion’s tail” due to its unique, stinger-like shape, this short, double-curved blade has no hilt but features a knuckle guard. You gain a +2 bonus to your CMD against disarm attempts made to disarm you of a waveblade.",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Whip, scorpion",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type slashing Category light Proficiency exotic Weapon Group flails Special disarm, performance, reach, trip; This whip has a series of razor-sharp blades and fangs inset along its tip. It deals lethal damage, even to creatures with armor bonuses. If you are proficient with both the scorpion whip and whip, you can use a scorpion whip in either the normal way (as a light performance weapon) or as a whip. When you use a scorpion whip as a whip, it is equivalent to a whip, but deals lethal damage and can harm creatures regardless of their armor bonus.",
+		"value": 5,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Light",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Axe-Gauntlet, Dwarven Heavy",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type slashing Category one-handed Proficiency exotic Weapon Groups axes, close Special blocking, disarm; An axe-gauntlet is a locked gauntlet covering the hand and forearm up to and over the elbow, with an axe blade built around the gauntlet’s permanently closed fist. Axe-gauntlets were developed when dwarven warriors often had to engage in running fights against larger, stronger opponents in areas the dwarves did not intend to ever return to. Losing a weapon in such circumstances often made it irretrievable, and the axe-gauntlet became popular with rearguard warriors. Though these weapons have seen significantly less use since the dwarves reached the surface, some dwarven warriors still appreciate the reliability of such designs. An axe-gauntlet takes a full-round action to don, and it gives you a +10 bonus to your CMD against disarm attempts. You can’t use the hand on which an axe-gauntlet is worn for anything else.",
+		"value": 21,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PPC:HftF"
+	},
+	{
+		"name": "Axe, hooked",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type slashing Category one-handed Proficiency exotic Weapon Group axes Special disarm, performance, trip; The hooked end of this axe’s blade can be used to disarm foes or pull them off balance. A hooked axe can be used as a martial weapon (in which case it functions like a battleaxe).",
+		"value": 20,
+		"weight": 7,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Broken-back seax",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical 19-20/x2 Type piercing & slashing Range Increment – Proficiency exotic Weapon Groups light blades Special See Text; Seaxes are straight, single-edged blades. The broken-back seax is the size of a short sword, and has a broad blade with a distinctive trapezoidal shape. If your Strength score is less than 15, you take a –2 penalty on attack rolls with a broken-back seax, as you’re unable to put enough force into the blows to land them effectively.",
+		"value": 40,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PPC:MAH"
+	},
+	{
+		"name": "Estoc",
+		"description": "Damage 2d3 (small), 2d4 (medium) Critical 18–20/x2 Type piercing Category one-handed Proficiency exotic Weapon Group heavy blades; An estoc is a sword about as long as a bastard sword, but designed exclusively for thrusting attacks. Its “blade” is a steel spike with a triangular, square, or hexagonal cross-section. Like the bastard sword, an estoc requires special training to use it one handed, but it can also be wielded as a two-handed martial weapon. When you wield an estoc with one hand, treat it as a one-handed weapon; when you wield an estoc with two hands, treat it as a two-handed weapon. If you can use the estoc proficiently with one hand, you can also use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier on attack rolls when wielding an estoc sized for you with one or two hands, even though it isn’t a light weapon.",
+		"value": 50,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Falcata",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x3 Type slashing Category one-handed Proficiency exotic Weapon Group heavy blades; The falcata has a single-edged blade that pitches forward towards the point, the edge being concave near the hilt, but convex near the point. This shape distributes the weight in such a way that the falcata is capable of delivering a blow with the momentum of an axe, while maintaining the longer cutting edge of a sword and some facility to execute a thrust. The grip is typically hook-shaped, the end often stylized in the shape of a horse or a bird. There is often a thin chain connecting the hooked butt with the hilt. Although usually a single-edged weapon, double-edged falcatas have been found.",
+		"value": 18,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Flickmace",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type bludgeoning Category one-handed Proficiency exotic Special reach, trip; The innovation behind a flick-mace, which has an ordinary mace head, lies within its spring-loaded haft and protruding handles. When the mace is compressed, removing the handles instantly springs the mace to its full size. While it is extended, a quick flick of the wrist allows the weapon to be compressed.",
+		"value": 20,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PC:GoG"
+	},
+	{
+		"name": "Flindbar",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type bludgeoning and piercing Category one-handed Proficiency exotic Special disarm, trip; This one-handed weapon is similar to a nunchaku in that it consists of a pair of bars linked with heavy chain. However, a flindbar’s bars are made of iron and are capped with a ring of spikes or studs. Since it’s much heaver than a nunchaku, it is not a light weapon.",
+		"value": 9,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "MC"
+	},
+	{
+		"name": "Khopesh",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type slashing Category one-handed Proficiency exotic Weapon Group heavy blades Special trip; This heavy blade has a convex curve near the end, making its overall shape similar to that of a battleaxe. A typical khopesh is 20 to 24 inches in length. Its curved shape allows the wielder to hook around defenses and trip foes. The elegant shape of a khopesh leads some artisans to cover them in ornate decorations.",
+		"value": 20,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Knobkerrie",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Range Increment 20 ft. (thrown) Category one-handed Proficiency exotic; A knobkerrie, or iwisa, is carved from a single piece of hardwood with a shaft 2 to 4 feet long surmounted by a bulbous knob. The knobkerrie is a traditional hunting weapon, but it’s also used as a symbol of authority. Many tribal elders use decorated knobkerries as scepters or canes. A knobkerrie is thrown end-over-end. If you are proficient, you gain a +1 bonus on ranged attack rolls with a knobkerrie against opponents using bucklers, light shields, or heavy shields. If you aren’t proficient with a knobkerrie, treat it as a club.",
+		"value": 5,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Ram Hammer, Dwarven",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type bludgeoning Range Increment 10 ft. (thrown) Category one-handed Proficiency exotic Weapon Groups hammers, thrown; The dwarven ram hammer is designed to be thrown or used in melee, with a long leather strap that is wrapped around the wrist when used to deliver blows in close combat but unfurled to aid in swinging the weapon when the hammer is thrown.",
+		"value": 25,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PPC:HftF"
+	},
+	{
+		"name": "Rapier, spiral",
+		"description": "Category one-handed Proficiency exotic Weapon Group light blades Special blocking, disarm; This rapier like weapon has a thicker blade than normal, which is shaped into a corkscrewing spiral of sharpened edges. These edges can catch enemy weapons, making it ideal for disarming or parrying. You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a spiral rapier sized for you, even though it isn’t a light weapon. You can’t wield a spiral rapier in two hands in order to apply 1-1/2 times your Strength modifier to its damage. Any effects that apply to rapiers also apply to a spiral rapier.",
+		"value": 80,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Rhoka",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 18-20/x2 Type slashing Category one-handed Proficiency exotic Weapon Group heavy blades; This sword is used almost exclusively by the urdefhan, life-hating quasi-daemonic underground dwelling creatures. The sword is the size of a longsword but consists of two serrated blades placed side by side, each ending in a cruel hook.",
+		"value": 5,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Sabre, sawtooth",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type slashing Category light Proficiency exotic Weapon Groups heavy blades, light blades; A sawtooth sabre may be used as a Martial Weapon (in which case it functions identically to a longsword). If you have the Exotic Weapon Proficiency (sawtooth sabre) feat, for the purpose of two-weapon fighting you can treat it as a light melee weapon; for all other purposes, it is a one-handed melee weapon. Note: Adventurer’s Armory 1 (2010) has the weapon listed as a light weapon for all purposes if you possess the Exotic Weapon Proficiency (sawtooth sabre) feat.",
+		"value": 35,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO9226"
+	},
+	{
+		"name": "Shotel",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Category one-handed Proficiency exotic Weapon Group heavy blades Special performance; The shotel is a downward-curving sword designed to reach over or around an opponent’s shield. The curve of a shotel’s blade varies from sword to sword, and some models are double-edged, while others are single-edged, with the back edge able to be braced against a shield for additional power. Shotels are particularly useful for hooking mounted combatants and ripping them from their steeds. You gain a +1 bonus on attack rolls with a shotel against opponents using bucklers, light shields, or heavy shields.",
+		"value": 30,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Sickle-sword",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19–20/×2 Type slashing Category one-handed Proficiency exotic Weapon Group heavy blades Special distracting; Favored by those with no talent for witchcraft, this exotic blade curves multiple times along its 3-1/2 feet. The sickle-sword’s hilt is long and curved, and its blade bears a small secondary grip partway up its length. These allow a wielder with a free hand to rapidly twist the sword in unpredictable ways. When wielding a sickle-sword in one hand and nothing in the other, you can spend a swift action to gain a +2 bonus on your next attack roll before the end of your turn.",
+		"value": 20,
+		"weight": 24,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Split-blade sword",
+		"description": "Damage 1d10 (small), 2d6 (medium) Critical x2 Type slashing Range Increment – Proficiency exotic Weapon Groups heavy swords Special Disarm, Trip, See text; Patterned after the fiery blades masterfully wielded by some angels, the split-blade sword is both a holy symbol and a difficult-yet-effective weapon. A split-blade sword resembles a large scimitar whose blade splits into two about two-thirds of the way toward the tip. If your Dexterity score is less than 15, you take a –2 penalty on attacks rolls with a split-blade sword, as you’re unable to maneuver its unusual blade.",
+		"value": 200,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PPC:MAH"
+	},
+	{
+		"name": "Sword, dueling",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type slashing Category one-handed Proficiency exotic Weapon Group heavy blades; These slightly curved swords measure just over 3 feet in length. An dueling sword can be used as a martial weapon (in which case it functions as a longsword), but if you have the feat Exotic Weapon Proficiency (dueling sword), you can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a dueling sword sized for you, even though it isn’t a light weapon. You can also wield a dueling sword in two hands to apply 1-1/2 times your Strength bonus to damage rolls.",
+		"value": 20,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO9226"
+	},
+	{
+		"name": "Sword, bastard",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical 19-20/x2 Type slashing Category one-handed Proficiency exotic Weapon Group heavy blades; A bastard sword is about 4 feet in length, making it too large to use in one hand without special training; thus, it is an exotic weapon. A character can use a bastard sword two-handed as a martial weapon.",
+		"value": 35,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Tongi",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 19-20/x3 Type piercing Category one-handed Proficiency exotic Weapon Group axes; This rare weapon resembles a battleaxe with wedges cut out of the head, presenting four sharp points that splay from the handle rather than a single convex blade.",
+		"value": 18,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Waraxe, dwarven",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type slashing Category one-handed Proficiency exotic Weapon Group axes; A dwarven waraxe has a large, ornate head mounted to a thick handle, making it too large to use in one hand without special training. Due to its size, a dwarven waraxe is an exotic weapon. A Medium character can use a dwarven waraxe two-handed as a martial weapon, or a Large creature can use it one-handed in the same way. A dwarf treats a dwarven waraxe as a martial weapon even when using it in one hand.",
+		"value": 30,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Waraxe, dwarven double",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type slashing Category one-handed Proficiency exotic This hefty waraxe is similar to the common dwarven waraxe, but its recurved blade spans forward and back from its head like a deadly butterfly. A dwarven double waraxe grants a +1 bonus on all attack rolls after the first when using Cleave or Great Cleave.",
+		"value": 60,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Whip",
+		"description": "Damage 1d2 (small), 1d3 (medium) Critical x2 Type slashing Category one-handed Proficiency exotic Weapon Group flails Special disarm, nonlethal, reach, trip; A whip deals no damage to any creature with an armor bonus of +1 or higher or a natural armor bonus of +3 or higher. The whip is treated as a melee weapon with 15-foot reach, though you don’t threaten the area into which you can make an attack. In addition, unlike most other weapons with reach, you can use it against foes anywhere within your reach (including adjacent foes). Using a whip provokes an attack of opportunity, just as if you had used a ranged weapon. You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a whip sized for you, even though it isn’t a light weapon. Wielding a whip in two hands does not add 1-1/2 times your Strength modifier to damage rolls as with other weapons (UE update).",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Axe, Orc Double",
+		"description": "Damage 1d6/1d6 (small), 1d8/1d8 (medium) Critical x3 Type slashing Category two-handed Proficiency exotic Weapon Groups axes, double Special double; A cruel weapon with blades placed at opposite ends of a long haft, an orc double axe is a double weapon. Though invented by and traditionally associated with orcs, the double axe can be crafted and wielded by other races as well, though many disdain it for its extreme weight and clumsiness. Because of the blades at either end of the axe, the wielder must hold an orc double axe in the middle of its haft, and utilize a weaving, slashing fighting style more akin to that of a quarterstaff than to that of a greataxe or battleaxe.",
+		"value": 60,
+		"weight": 15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Axe, Butchering",
+		"description": "Damage 1d12 (small), 3d6 (medium) Critical ×3 Type slashing Category two-handed Proficiency exotic Weapon Group axes; A creation of orc smiths, this axe has an oversized head bristling with spikes and a long, thick haft that only barely counterbalances its weight. If your Strength is less than 19 (or 17 for a Small or smaller butchering axe), you take a –2 penalty on attacks with it, as you’re unable to maneuver its daunting size and weight.",
+		"value": 65,
+		"weight": 25,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Battle Ladder, gnome",
+		"description": "Damage 1d4/1d4 (small), 1d6/1d6 (medium) Critical x2 Type bludgeoning Category two-handed Proficiency exotic Weapon Group double Special trip; Gnomes use these narrow, reinforced, 4-foot ladders as weapons. Fighting with a battle ladder is like fighting with a quarterstaff, except that the spaces in the ladder can be used to entangle limbs, granting the ladder the trip weapon feature.",
+		"value": 20,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Boarding gaff",
+		"description": "Damage 1d4/1d4 (small), 1d6/1d6 (medium) Critical x2 Type slashing Category two-handed Proficiency exotic Weapon Groups double, polearms Special double, reach, trip; A gaff hook is a long pole with a hook on one end for spearing fish. Pirates often add extra, heavier hooks to both ends of gaff hooks to assist with boarding actions. After the pirates use grappling hooks to draw ships close together, they hook the gunwales together with boarding gaffs to prevent the ships from drifting. Small crafts often use boarding gaffs in place of grappling hooks. Boarding gaffs bite deeply into the wood of the railing. It takes 1 minute to pry a boarding gaff loose. Most pirates use a boarding axe or cutlass to cut through boarding gaffs rather than trying to unhook them one by one. The gaff can also be used for fishing when not in combat.",
+		"value": 8,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Chain-hammer",
+		"description": "Damage 1d4/1d4 (small), 1d6/1d6 (medium) Critical ×2 Type bludgeoning Range Increment 20 ft. (thrown) Category two-handed Proficiency exotic Weapon Groups double, hammers, thrown Special double; This pair of hammers is linked by a loose chain. While the two hammers are balanced to wield in melee together, the chain is long enough that you can throw one hammer a short distance and then pull it back; pulling the chain to retrieve the thrown hammer is a move action. The chain-hammer’s maximum throwing range is 10 feet. Dwarf rangers are fond of using chain-hammers, often using a locked gauntlet to make sure one of the hammers remains secure.",
+		"value": 35,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Chain, spiked",
+		"description": "Damage 1d6 (small), 2d4 (medium) Critical x2 Type piercing Category two-handed Proficiency exotic Weapon Group flails Special disarm, trip; A spiked chain is about 4 feet in length, covered in wicked barbs. You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a spiked chain sized for you, even though it isn’t a light weapon.",
+		"value": 25,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Crook",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Category two-handed Proficiency exotic Weapon Group polearms Special reach, trip; This common herder’s tool is a wooden pole with a hooked end. When using a crook, you can ignore the penalty for not having two hands free when making a combat maneuver check to initiate a grapple against a creature you threaten.",
+		"value": 1,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Curve blade, elven",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical 18–20/x2 Type slashing Category two-handed Proficiency exotic Weapon Group heavy blades; Essentially a longer version of a scimitar, but with a thinner blade, the elven curve blade is exceptionally rare. You receive a +2 circumstance bonus to your Combat Maneuver Defense whenever a foe attempts to sunder your elven curve blade due to its flexible metal. You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with an elven curve blade sized for you, even though it isn’t a light weapon.",
+		"value": 80,
+		"weight": 7,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Dorn-Dergar, dwarven",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x2 Type bludgeoning Category two-handed Proficiency exotic Weapon Group flails Special reach; This 10-foot-long chain is weighted at the end by a ball of solid iron the size of a large fist. By adjusting the slack of the chain, the weapon can be used either with or without reach. Changing between using it as a normal weapon and a reach weapon is a move action.",
+		"value": 50,
+		"weight": 15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Double spear",
+		"description": "Damage 1d6/1d6 (small), 1d8/1d8 (medium) Critical x3 Type piercing Range Increment – Proficiency exotic Weapon Groups Spears Special Double; This long, heavy spear has a point at each end, allowing it to be used as a double weapon.",
+		"value": 25,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPC:MAH"
+	},
+	{
+		"name": "Elven branched spear",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Category two-handed Proficiency exotic Weapon Group spears Special brace, reach; Behind this long pole weapon’s spearhead, several short branches project from the shaft at irregular intervals, each angled forward and tipped with a smaller leaf-like blade. When you make attacks of opportunity provoked by movement, you gain a +2 bonus on attack rolls. You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier on attack rolls with an elven branched spear sized for you, even though it isn’t a light weapon. Elves treat elven branched spears as martial weapons.",
+		"value": 20,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Fauchard",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical 18-20/x2 Type slashing Category two-handed Proficiency exotic Weapon Group polearms Special reach, trip; Like a glaive, the fauchard is a curved blade at the end of a pole. However, the cutting edge of a fauchard is along the concave side, like that of a sickle or scythe.",
+		"value": 14,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Flail, dire",
+		"description": "Damage 1d6/1d6 (small), 1d8/1d8 (medium) Critical x2 Type bludgeoning Category two-handed Proficiency exotic Weapon Groups double, flails Special disarm, double, trip; A dire flail consists of two spheres of spiked iron dangling from chains at opposite ends of a long haft. This weapon excels at short but powerful strikes, and is typically swung in a constant churning motion. The wielder of a dire flail must have great strength, both to use the weapon effectively and to keep from tiring out.",
+		"value": 90,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Flailpole",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type bludgeoning Category two-handed Proficiency exotic Special disarm, reach, trip; This is simply a heavy flail mounted on the end of a long polearm.",
+		"value": 15,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PC:GoG"
+	},
+	{
+		"name": "Flambard",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical 19-20/x2 Type slashing Category two-handed Proficiency exotic Weapon Group heavy blades Special sunder; This two-handed sword has a wavy blade that is especially useful for cutting through wooden weapons. If you are proficient with this weapon, you gain a +4 bonus on any sunder attempts made against weapons with a wooden haft; otherwise you may use this sword as a bastard sword.",
+		"value": 50,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Flying blade",
+		"description": "Damage 1d10 (small), 1d12 (medium) Critical x3 Type slashing Category two-handed Proficiency exotic Special performance, reach; A flying blade is a large, crescent-shaped blade anchored to a 10-foot chain. You fight with a flying blade by spinning it about your head or by snapping it toward an opponent. The flying blade is a clumsy weapon and receives a –2 penalty on attack rolls, but when you make attacks of opportunity provoked by movement, you receive a +2 bonus on attack rolls instead of the penalty.",
+		"value": 40,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Garrote",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type slashing Category two-handed Proficiency exotic Special grapple; In order to use a garrote, your opponent must be helpless or unaware of you. You must make a grapple check (though you avoid the –4 penalty for not having two hands free) to successfully begin garroting your opponent. Sneak attack damage does not apply to a garrote. Your garroted opponent must make a concentration check (DC 20 + your CMB + level of the spell he’s casting) to cast a spell with a verbal component, use a command word item, or use any magic requiring speech. You gain the following additional option when grappling with a garrote. Choke: You cut off your target’s air supply so he has to hold his breath (see Suffocation, and the Swim skill for additional information). Any round you do not maintain the choke, your opponent can take a breath and restart when he has to begin making Constitution checks.",
+		"value": 3,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Giant-Sticker, Dwarven",
+		"description": "Damage 1d8 (small), 2d6 (medium) Critical x3 Type piercing or slashing Category two-handed Proficiency exotic Weapon Group polearms Special brace, reach; This heavy bladed spear is specifically designed for use against giants, who have long reach and the ability to soak up large amounts of damage.",
+		"value": 25,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPC:HftF"
+	},
+	{
+		"name": "Hammer, Gnome hooked",
+		"description": "Damage 1d6/1d4 (small), 1d8/1d6 (medium) Critical x3/x4 Type bludgeoning or piercing Category two-handed Proficiency exotic Weapon Group double Special double, trip; A gnome hooked hammer is a double weapon—an ingenious tool with a hammer head at one end of its haft and a long, curved pick at the other. The hammer’s blunt head is a bludgeoning weapon that deals 1d6 points of damage (crit ×3). Its hook is a piercing weapon that deals 1d4 points of damage (crit ×4). You can use either head as the primary weapon. Gnomes treat hooked hammers as martial weapons.",
+		"value": 20,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Harpoon",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Range Increment 10 ft. (thrown) Category two-handed Proficiency exotic Weapon Groups spears, thrown Special grapple; A harpoon is a barbed spear with an attached rope 50 feet or less in length. Most harpoons have metal points, but some use ivory or are made entirely of wood. If you are proficient in the harpoon, it is a grappling weapon. A harpoon’s weight includes 10 pounds for the weight of 50 feet of hemp rope. The weight can be reduced by using shorter or lighter rope. If you are not proficient with a harpoon, treat it like a spear.",
+		"value": 5,
+		"weight": 16,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPC:Pirates"
+	},
+	{
+		"name": "Longaxe, dwarven",
+		"description": "Damage 1d10 (small), 1d12 (medium) Critical x3 Type slashing Category two-handed Proficiency exotic Special reach; These ornate and heavy blades are mounted atop a long, steel-shod haft for greater reach. They are rare among cave-dwelling dwarves but common in mountain dwarf clans that commonly feud with giants.",
+		"value": 50,
+		"weight": 14,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Longhammer, dwarven",
+		"description": "Damage 1d10 (small), 2d6 (medium) Critical x3 Type bludgeoning Category two-handed Proficiency exotic Special reach; These heavy-headed bludgeons are often carved or cast with monstrous faces or drilled with tiny holes to create a menacing whistling as they are swung through the air.",
+		"value": 70,
+		"weight": 20,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Mancatcher",
+		"description": "Damage 1 (small), 1d2 (medium) Critical x2 Type piercing Category two-handed Proficiency exotic Weapon Group polearms Special grapple, reach; This polearm consists of two curved metal bands that close around a target when you attack, allowing you to bind an opponent. A mancatcher is built to capture a creature of a particular size category (such as Small or Medium) and doesn’t work on creatures of the wrong size. Make a touch attack to hit an opponent and a combat maneuver check to grapple him (without the –4 penalty for not having two hands free); success means you and the target are grappled. Once the target is grappled, you can perform a move or damage grapple action against him. The mancatcher has hardness 10 and 5 hit points; breaking it requires a DC 26 Strength check. If you drop the mancatcher, the target can free himself as a standard action.",
+		"value": 15,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Orc skull ram",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type bludgeoning Category two-handed Proficiency exotic Weapon Group spears Special reach; This weapon consists of a wooden log with a shoulder strap to carry some of the weight. The name comes from the orc tradition of making the ram’s head out of a large skull. On a successful critical hit with a skull ram, you can attempt a combat maneuver check to bull rush your opponent as a free action.",
+		"value": 15,
+		"weight": 20,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Piston maul, gnome",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x2 Type bludgeoning Category two-handed Proficiency exotic Weapon Group hammers; An alchemically fired piston in the head of this two-handed hammer strikes targets with astounding force. Successful sunder attacks made with a piston maul deal an additional 4 points of damage. A piston maul requires a thunderstone to function; otherwise, it functions as a greatclub. Inserting a thunderstone into the weapon’s compartment is a standard action, and powers the weapon for 24 hours, after which the thunderstone is consumed.",
+		"value": 70,
+		"weight": 15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Ripsaw glaive, gnome",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type slashing Category two-handed Proficiency exotic Weapon Group polearms Special reach; The blade of this glaive is serrated and mounted on an axle, around which a heavy cord is wrapped. When the cord is pulled as a move action, the blade spins rapidly for a number of rounds equal to your Strength bonus. While the blade is spinning, you gain a +2 bonus on damage rolls with the weapon. When the blade is not spinning, treat this weapon as a glaive.",
+		"value": 30,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Scarf, bladed",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type slashing Category two-handed Proficiency exotic Weapon Group flails Special disarm, trip; The skill required in using bladed scarves effectively and not revealing their deadly nature makes them exotic weapons. If you are proficient with a bladed scarf, you deal 1d4 points of slashing damage to any creature that makes a successful grapple check against you while you wield the scarf. You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier on attack rolls with a bladed scarf sized for you, even though it isn’t a light weapon.",
+		"value": 12,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO9226"
+	},
+	{
+		"name": "Spear, totem",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type piercing or slashing Range Increment 10 ft. (thrown) Category two-handed Proficiency exotic Weapon Group spears; If the user is trained in the spear’s use, a totem spear can be used by bards to create bardic music effects using Perform (wind instrument). The spear itself has a strong, flexible shaft, and in the hands of one trained in its use, grants a +2 circumstance bonus on Acrobatics checks. The spear’s relatively wide head allows it to be used as a slashing weapon, swung side to side, or as a piercing weapon in a more traditional spear-fighting technique.",
+		"value": 25,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Sphinx Hammer, Dwarven",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type bludgeoning Range Increment 20 ft. (thrown) Category two-handed Proficiency exotic Weapon Groups hammers, thrown; The dwarven sphinx hammer is a long-handled hammer with a striking head that is artfully designed to look like a ram-headed criosphinx. Most commonly found among the Pahmet, the dwarven sphinx hammer is balanced for use as both a melee weapon and a thrown weapon.",
+		"value": 45,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPC:HftF"
+	},
+	{
+		"name": "Switchscythe",
+		"description": "Damage 1d6 (small), 2d4 (medium) Critical ×4 Type piercing or slashing Category two-handed Proficiency exotic Weapon Group heavy blades Special trip; This scythe has a spring-loaded blade that folds down into the weapon’s handle. Opening the scythe blade is a swift action, and closing it again is a standard action. You can use Bluff or Sleight of Hand to treat a closed switchscythe as a hidden weapon; the apparatus can be disguised with 1 minute of work, which grants a +5 bonus on such checks. This disguise is ruined when the weapon is opened and must be reapplied to hide the weapon again. Any effects that apply to a scythe also apply to a switchscythe.",
+		"value": 18,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Sword, two-bladed",
+		"description": "Damage 1d6/1d6 (small), 1d8/1d8 (medium) Critical 19-20/x2 Type slashing Category two-handed Proficiency exotic Weapon Groups double, heavy blades Special double; A two-bladed sword is a double weapon—twin blades extend from either side of a central, short haft, allowing the wielder to attack with graceful but deadly flourishes.",
+		"value": 100,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Urgrosh, dwarven",
+		"description": "Damage 1d6/1d4 (small), 1d8/1d6 (medium) Critical x3 Type piercing or slashing Category two-handed Proficiency exotic Weapon Group double Special brace, double; A dwarven urgrosh is a double weapon—an axe head and a spear point on opposite ends of a long haft. The urgrosh’s axe head is a slashing weapon that deals 1d8 points of damage. Its spear head is a piercing weapon that deals 1d6 points of damage. You can use either head as the primary weapon. The other becomes the off-hand weapon. If you use an urgrosh against a charging character, the spear head is the part of the weapon that deals damage. Dwarves treat dwarven urgroshes as martial weapons.",
+		"value": 50,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Darts, featherweight (10)",
+		"description": "These extremely small and lightweight darts function like blowgun darts, except they are used to deliver poisons surreptitiously instead of dealing damage. When you hit with a dart, the poison is injected into the target while the dart breaks off and falls away, leaving the wound hard to spot. Any amount of damage reduction, hardness, or similar protection prevents the featherweight dart from delivering its injected poison. Anyone examining the target must succeed at a DC 20 Perception check to find the puncture wound, while finding the dart itself at the location where it fell requires a successful DC 15 Perception check. This ammunition can be used in both blowguns and wrist launchers.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Misc",
+		"source": "PZO1134"
+	},
+	{
+		"name": "Bola",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning Range Increment 10 ft. (thrown) Category ranged Proficiency exotic Weapon Group thrown Special nonlethal, trip; A bolas is a pair of wooden, stone, or metal weights connected by a thin rope or cord. You can whirl and throw this weapon to make a ranged trip attack against an opponent. You can’t be tripped during your own trip attempt when using a bolas.",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Bola, Brutal",
+		"description": "amage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning and piercing Range Increment 10 ft. (thrown) Category ranged Proficiency exotic Weapon Group thrown Special trip; These bolas function as standard bolas, but they deal lethal damage rather than nonlethal damage.",
+		"value": 15,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO9226"
+	},
+	{
+		"name": "Boomerang",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Range Increment 30 ft. (projectile) Category ranged Proficiency exotic Weapon Group thrown; The boomerang is primarily a hunting tool, but it is not uncommon for these versatile thrown weapons to be carried into battle. A boomerang is made of wood and is flat, with a long haft, a pronounced forward curve, and a sharp backward bend at the head. A hunting boomerang does not fly in a returning path.",
+		"value": 3,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Bow, thorn",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x3 Type piercing Range Increment 40 ft. (projectile) Category ranged Proficiency exotic Weapon Group bows; This polished rosewood bow is studded with thorns and tiny flowers. Treat this weapon as a shortbow.",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Crossbow, crank (heavy)",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical 19-20/x2 Type piercing Range Increment 120 ft. (projectile) Category ranged Proficiency exotic Weapon Group crossbows; This heavy crossbow has a winch mounted below the stock. Up to 50 feet of silk rope can be wound onto the winch as a full-round action that provokes attacks of opportunity. The wound rope can be attached to a barbed bolt or grappling bolt as part of a loading action. After firing such a bolt, the wielder can use the winch to retract the rope or pull herself along the rope if the bolt is secure. When used with a barbed bolt, the winch provides a +2 bonus on grapple combat maneuver checks to pull the target toward you. When used with a grappling bolt, the winch provides a +2 bonus on Climb checks.",
+		"value": 400,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Crossbow, crank (light)",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type piercing Range Increment 80 ft. (projectile) Category ranged Proficiency exotic Weapon Group crossbows; This weapon functions as a heavy crank crossbow, except that its damage, critical, and range values are equivalent to those of a light crossbow. Its lighter construction means it provides only a +1 bonus on Climb checks and grapple combat maneuver checks to pull the target toward you.",
+		"value": 250,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Crossbow, double",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type piercing Range Increment 80 ft. (projectile) Category ranged Proficiency exotic Weapon Group crossbows; This heavy weapon fires a pair of iron-tipped bolts with a single squeeze of the trigger. Due to its size and weight, you take a –4 penalty on your attack roll if you’re proficient with it, or –8 if you’re not. If the attack hits, the target takes damage from both bolts. Critical hits, sneak attack damage, and other precision-based damage apply to only the first bolt. Reloading one bolt is a standard action; the Rapid Reload feat reduces this to a move action. Crossbow Mastery allows you to reload both bolts as a move action. A double crossbow fires crossbow bolts.",
+		"value": 300,
+		"weight": 18,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Crossbow, hand",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19-20/x2 Type piercing Range Increment 30 ft. (projectile) Category ranged Proficiency exotic Weapon Group crossbows; You can draw a hand crossbow back by hand. Loading a hand crossbow is a move action that provokes attacks of opportunity. You can shoot, but not load, a hand crossbow with one hand at no penalty. You can shoot a hand crossbow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons.",
+		"value": 100,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Crossbow, launching",
+		"description": "Range Increment 30 ft. (projectile) Category ranged Proficiency exotic Weapon Group crossbows; A launching crossbow is designed to launch splash weapons. Loading a launching crossbow is a full-round action that provokes attacks of opportunity.",
+		"value": 75,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Crossbow, repeating heavy",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical 19-20/x2 Type piercing Range Increment 120 ft. (projectile) Category ranged Proficiency exotic Weapon Group crossbows; The repeating heavy crossbow holds 5 repeating crossbow bolts. As long as it holds bolts, you can reload it by pulling the reloading lever (a free action). Loading a new case of 5 bolts is a full-round action that provokes attacks of opportunity. You can fire a repeating crossbow with one hand or fire a repeating crossbow in each hand in the same manner as you would a normal crossbow of the same size. However, you must fire the weapon with two hands in order to use the reloading lever, and you must use two hands to load a new case of bolts.",
+		"value": 400,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Crossbow, repeating light",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type piercing Range Increment 80 ft. (projectile) Category ranged Proficiency exotic Weapon Group crossbows; This weapon functions identically to a repeating heavy crossbow, except that its damage, critical, and range values are equivalent to those of a light crossbow instead of a heavy crossbow. Its significantly lighter construction and pull make it both more portable and more useful to those who rely on stealth or speed.",
+		"value": 250,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Flask Thrower",
+		"description": "Range Increment 20 ft. (thrown) Category ranged Proficiency exotic Weapon Group thrown; This staff has a cradle at the end, designed to hold alchemical weapons such as acid. A flask thrower significantly extends the range of thrown substances that deal splash damage, such as acid, alchemist’s fire, or holy water, as well as that of tools such as tanglefoot bags, thunderstones, or caltrops.",
+		"value": 25,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Hornbow, orc",
+		"description": "Damage 1d8 (small), 2d6 (medium) Critical ×3 Type piercing Range Increment 80 ft. (projectile) Category ranged Proficiency exotic Weapon Group bows; Larger even than a longbow, these bows are often made from the horns of great beasts. Though they have a shorter range than other bows, their greater destructive power is highly favored by orcs and their kin. All hornbows are composite bows and can be modified to benefit from high Strength scores in the same way as other composite bows. Any effect that applies to both longbows and shortbows also applies to hornbows.",
+		"value": 130,
+		"weight": 7,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Javelin, stormshaft",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical ×2 Type piercing Range Increment 30 ft. (projectile) Category ranged Proficiency exotic Weapon Groups spears, thrown; This single-use javelin bears a thunderstone just behind the head. If you successfully strike a target with one of these javelins, the creature takes damage as normal and is the center of the thunderstone’s effect. If you miss, roll to see where the javelin lands (as if determining a miss with a splash weapon); that square becomes the center of the thunderstone’s effect.",
+		"value": 35,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Lasso",
+		"description": "Category ranged Proficiency exotic Weapon Group thrown; This thrown weapon is a length of rope with a simple open knot on one end that allows you to entangle a foe like you would using a net. On a successful hit, the lasso tightens; to use it again you must spend a standard action sliding the knot to enlarge the loop. The DC to cast a spell while entangled with a lasso is 10 + the spell level being cast. An entangled creature can slip free with a successful DC 15 Escape Artist check as a full-round action. The lasso has 2 hit points and AC 10, and requires a DC 23 Strength check to break.",
+		"value": 0.1,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Net",
+		"description": "Range Increment 10 ft. (projectile) Category ranged Proficiency exotic Weapon Group thrown; When you throw a net, you make a ranged touch attack against your target. A net’s maximum range is 10 feet. If you hit, the target is entangled. If you control the trailing rope by succeeding on an opposed Strength check while holding it, the entangled creature can move only within the limits that the rope allows. If the entangled creature attempts to cast a spell, it must make a concentration check with a DC of 15 + the spell’s level or be unable to cast the spell. An entangled creature can escape with a DC 20 Escape Artist check (a full-round action). The net has 5 hit points and can be burst with a DC 25 Strength check (also a full-round action). A net is useful only against creatures within one size category of you. A net must be folded to be thrown effectively. The first time you throw your net in a fight, you make a normal ranged touch attack roll. After the net is unfolded, you take a –4 penalty on attack rolls with it. It takes 2 rounds for a proficient user to fold a net and twice that long for a non-proficient one to do so.",
+		"value": 20,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Net, snag",
+		"description": "Damage see text (small), see text (medium) Critical — Type piercing Range Increment 10 ft. (projectile) Category ranged Proficiency exotic Weapon Group thrown Special trip; This short, wide net is covered in barbed loops and slipknots. Benefit: A snag net works like a typical net exotic weapon, except it has the trip weapon special feature. If you entangle an opponent and hold the trailing rope, on your turn in place of a melee attack you may make a trip combat maneuver check against that opponent; if you succeed, you may trip the opponent or deal 1 point of piercing damage to the opponent. The concentration DC to cast while entangled in a snag net is 17 + the spell’s level. The Escape Artist DC to escape a snag net is 22.",
+		"value": 30,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Pelletbow, Dwarven Heavy",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 19-20/x3 Type bludgeoning Range Increment 60 ft. (projectile) Category ranged Proficiency exotic Weapon Group crossbows; The dwarven pelletbow is a crossbowlike weapon that is loaded with and fires sling bullets rather than bolts. A dwarven heavy pelletbow takes the same amount of time and effort to load as a light crossbow (normally a move action). Normally a pelletbow takes two hands to operate, but you can shoot (but not load) a pelletbow with one hand by taking a –2 penalty on attack rolls. You can shoot one pelletbow with each hand, but you take a penalty on attack rolls for attacking with two one-handed weapons. Feats and special abilities that don’t involve proficiency (that don’t depend on dealing piercing damage or firing bolts) that apply to a heavy crossbow also apply to a dwarven heavy pelletbow.",
+		"value": 75,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPC:HftF"
+	},
+	{
+		"name": "Pelletbow, Dwarven Light",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19-20/x3 Type bludgeoning Range Increment 40 ft. (projectile) Category ranged Proficiency exotic Weapon Group crossbows; The dwarven pelletbow is a crossbowlike weapon that is loaded with and fires sling bullets rather than bolts. A dwarven light pelletbow can be reloaded as a free action (allowing characters to attack with it multiple times in a round). Normally a pelletbow takes two hands to operate, but you can shoot (but not load) a pelletbow with one hand by taking a –2 penalty on attack rolls. You can shoot one pelletbow with each hand, but you take a penalty on attack rolls for attacking with two light weapons. Feats and special abilities that don’t involve proficiency (that don’t depend on dealing piercing damage or firing bolts) that apply to a light crossbow also apply to a dwarven light pelletbow.",
+		"value": 50,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPC:HftF"
+	},
+	{
+		"name": "Shield, throwing (add on)",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Range Increment 20 ft. (projectile) Category ranged Proficiency exotic Weapon Group thrown Special performance, trip; This shield is designed for throwing and has specially designed straps allowing you to unclasp and throw it as a free action. Tower shields cannot be throwing shields. Neither a shield’s enhancement bonus to AC nor its shield spikes apply on your attack or damage rolls. Added in Ultimate Equipment: A throwing shield can’t be disarmed.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Shrillshaft javelin",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type piercing Range Increment 30 ft. (projectile) Category ranged Proficiency exotic Weapon Groups spears, thrown; This single-use javelin bears a thunderstone just behind the head. If you successfully strike a target with one of these javelins, the creature takes damage as normal and is the center of the thunderstone’s effect. If you miss, roll to see where the javelin lands (as if determining a miss with a splash weapon); that square becomes the center of the thunderstone’s effect.",
+		"value": 35,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPC:Goblins"
+	},
+	{
+		"name": "Shuriken (5)",
+		"description": "Damage 1 (small), 1d2 (medium) Critical x2 Type piercing Range Increment 10 ft. (projectile) Category ranged Proficiency exotic Weapon Groups monk, thrown Special monk; A shuriken is a small piece of metal with sharpened edges, designed for throwing. A shuriken can’t be used as a melee weapon. Although they are thrown weapons, shuriken are treated as ammunition for the purposes of drawing them and crafting masterwork or otherwise special versions of them, and of what happens to them after they are thrown.",
+		"value": 1,
+		"weight": 0.5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Trown",
+		"source": "CRB"
+	},
+	{
+		"name": "Sling, double",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning Range Increment 50 ft. (projectile) Category ranged Proficiency exotic Weapon Group thrown Special double; At first glance resembling a baton-like stick with a sling dangling from each end, this weapon requires extraordinary skill, or halfling acrobatics, to use to full effect. You can use a double sling as a normal sling, or use the second end to make one additional ranged attack each round. You take the normal penalties for fighting with two weapons when you use both ends of a double sling (as if it were a double weapon); the Two- Weapon Fighting feat reduces these penalties as normal. Reloading one end of a double sling is a move action ( just like a normal sling), so unless you have an ability or feat (such as Ammo Drop) that allows you to quickly reload a sling, you cannot normally make multiple attacks per round for several consecutive rounds with this weapon. You can hurl ordinary stones with a double sling, but stones are not as dense or as round as bullets. Thus, such an attack deals damage as if the weapon were designed for a creature one size category smaller than you, and you take a –1 penalty on attack rolls.",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPC:Halflings"
+	},
+	{
+		"name": "Sling glove",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning Range Increment 50 ft. (projectile) Category ranged Proficiency exotic Weapon Group thrown; Loading a sling glove is a free action that does not provoke an attack of opportunity so long as you have a free hand. You take –4 penalty when throwing a stone at an adjacent target and cannot use the weapon to attack creatures in your space. ",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Sling staff, halfling",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type bludgeoning Range Increment 80 ft. (projectile) Category ranged Proficiency exotic Weapon Group thrown; Made from a specially designed sling attached to a short club, a halfling sling staff can be used by a proficient wielder to devastating effect. Your Strength modifier applies to damage rolls when you use a halfling sling staff just as it does for thrown weapons. You can fire, but not load, a halfling sling staff with one hand. You can hurl ordinary stones with a halfling sling staff, but stones are not as dense or as round as bullets. Thus, such an attack deals damage as if the weapon were designed for a creature one size category smaller than you and you take a –1 penalty on attack rolls. A halfling sling staff can be used as a simple weapon that deals bludgeoning damage equal to that of a club of its size. Loading a halfling sling staff is a move action that requires two hands and provokes attacks of opportunity. Halflings treat halfling sling staves as martial weapons.",
+		"value": 20,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Sling, stitched",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Category ranged Proficiency exotic Weapon Group thrown Special disarm, trip; Technically not a unique kind of weapon, a stitched sling is a sling, staff sling, or double sling whose cup is sewn closed around the ammunition, creating a weak sort of light flail. The ammunition sewn into the sling is irrelevant to the type and amount of damage it causes. A stitched sling cannot be used to fire ammunition unless the thread or cord holding the cup closed is cut open (a full-round action that provokes attacks of opportunity).",
+		"value": 0,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PPC:Halflings"
+	},
+	{
+		"name": "Wrist launcher",
+		"description": "Damage — (small), — (medium) Critical — Type piercing Range Increment 20 ft. (projectile) Category ranged Proficiency exotic; This slender tube is strapped to one forearm and designed to be concealed beneath the sleeve, where the wielder can fire a featherweight dart with a twist of the wrist. The launcher functions by means of a tightly compressed spring, and must be reloaded and re-cocked with a separate ramrod as a full-round action. After firing, the wearer can attempt a Sleight of Hand check opposed by opponents’ Perception checks to keep the wrist launcher concealed. If you are proficient with hand crossbows, you are also proficient with wrist launchers.",
+		"value": 200,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1134"
+	},
+	{
+		"name": "Wrist launcher, heavy",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19–20/x2 Type piercing Range Increment 30 ft. (projectile) Category ranged Proficiency exotic; A larger version of the wrist launcher, this device fires a single crossbow bolt instead of a featherweight dart. If you are proficient with hand crossbows, you are also proficient with heavy wrist launchers. ",
+		"value": 250,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1134"
+	},
+	{
+		"name": "Wrist launcher, heavy",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19–20/x2 Type piercing Range Increment 30 ft. (projectile) Category ranged Proficiency exotic; A larger version of the wrist launcher, this device fires a single crossbow bolt instead of a featherweight dart. If you are proficient with hand crossbows, you are also proficient with heavy wrist launchers. ",
+		"value": 250,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Exotic",
+		"categoryThree": "Ranged",
+		"source": "PZO1134"
+	},
+	{
+		"name": "Crossbow bolt(s), repeating, heavy/light (5)",
+		"description": "Bolts come in a case or quiver that holds 10 bolts (or 5 for a repeating crossbow). A crossbow bolt used as a melee weapon is treated as a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (crit ×2).",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunitation",
+		"categoryThree": "Bolt",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Little starstones (10)",
+		"description": "Damage 1 (small), 1 (medium) Critical – Type bludgeoning; Though they are technically sling ammunition, these thread- or cloth-wrapped pebbles are mainly used for signaling or celebration rather than battle, as they barely hit hard enough to sting. When soaked in oil or strong alcohol, they burn brightly for 1 round, illuminating an area like a candle and creating brief streaks of light as they fly through the air. They generally aren’t hot enough and burn out too quickly to ignite combustibles.",
+		"value": 0.05,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunitation",
+		"categoryThree": "Bullet",
+		"source": "PPC:Halflings"
+	},
+	{
+		"name": "Sharpstones (10)",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical – Range – Type piercing or slashing; A thin layer of baked clay covers the spikes and jagged ridges covering this specially designed bullet. A proficient user knows how to crack the clay (a free action) so that it peels off from either the spikes or ridges when fired, dealing either piercing or slashing damage.",
+		"value": 1,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunitation",
+		"categoryThree": "Bullet",
+		"source": "PPC:Halflings"
+	},
+	{
+		"name": "Softstones (10)",
+		"description": "Softstones (10)",
+		"value": 0.1,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunitation",
+		"categoryThree": "Bolt",
+		"source": "PPC:Halflings"
+	},
+	{
+		"name": "Spongestones (10)",
+		"description": "These tight bundles of elastic fibers deal nonlethal damage when fired from a sling.",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunitation",
+		"categoryThree": "Bullet",
+		"source": "PPC:Halflings"
+	},
+	{
+		"name": "Soakstones (10)",
+		"description": "Soakstones are often used to deliver poison or burning oil. A flask of oil completely saturates 10 soakstones. When ignited (a free action if fire is available), a burning, oil-soaked soakstone deals +1d2 fire damage and can ignite combustible materials (such as a thatched roof ). Allowing a soakstone to burn in a sling’s cup for more than 1d3 rounds gives the sling the broken condition. ",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunitation",
+		"categoryThree": "Bullet",
+		"source": "PPC:Halflings"
+	}
+]
