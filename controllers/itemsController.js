@@ -8,6 +8,21 @@ router.get('/', (req, res) => {
 	Item.find().then((items) => res.json(items));
 });
 
+//Search/text
+router.get('/search/:text', (req, res) => {
+	Item.find()
+		.or([
+			{
+				name: { $regex: req.params.text, $options: 'i' },
+			},
+			{
+				description: { $regex: req.params.text, $options: 'i' },
+			},
+		])
+
+		.then((items) => res.json(items));
+});
+
 //Adventuring Gear
 router.get('/adventuring', (req, res) => {
 	Item.find({ categoryOne: 'Adventuring Gear' }).then((items) =>
