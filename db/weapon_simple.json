@@ -1,0 +1,502 @@
+[
+	{
+		"name": "Gauntlet",
+		"description": "Damage 1d2 (small), 1d3 (medium); Critical x2; Type bludgeoning; Category unarmed; Proficiency simple; Weapon Group close; This metal glove lets you deal lethal damage rather than nonlethal damage with unarmed strikes. A strike with a gauntlet is otherwise considered an unarmed attack. Your opponent cannot use a disarm action to disarm you of gauntlets. The cost and weight given are for a single gauntlet. Medium and heavy armors (except breastplate) come with gauntlets.",
+		"value": 2,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Unarmed",
+		"source": "PPZO1110"
+	},
+	{
+		"name": "Unarmed strike",
+		"description": "Damage 1d2 (small), 1d3 (medium); Critical x2; Type Bludgeoning; Category Light; Proficiency Simple; Weapon Group Close; An unarmed strike is always considered a light weapon. Therefore, you can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with an unarmed strike. Unarmed strikes do not count as natural weapons (see Combat). The damage from an unarmed strike is considered weapon damage for the purposes of effects that give you a bonus on weapon damage rolls. A monk or any character with the Improved Unarmed Strike feat can deal lethal or nonlethal damage with unarmed strikes, at his discretion.",
+		"value": 0,
+		"weight": 0,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Unarmed",
+		"source": "PPZO1110"
+	},
+	{
+		"name": "Battle aspergillum",
+		"description": "Damage 1d4 (small), 1d6 (medium); Critical x2; Type bludgeoning; Category light; Proficiency simple; Weapon Group hammers; Named for the common aspergillum, a mace-like tool used by priests to sprinkle holy water, this light mace has a hollow head and a metal plug to fit the hollow’s neck. Benefit: When the mace strikes a creature, holy water sprinkles out through tiny holes throughout the weapon’s head; creatures subject to damage from holy water take 1 point of damage in addition to the normal effect of being struck by the mace (a nonmagical aspergillum can deal holy water damage to an incorporeal creature in this manner, even if the mace itself deals no damage). After 5 hits, the battle aspergillum is empty and needs to be refilled. Filling it with holy water is a standard action that provokes an attack of opportunity (like drinking a potion). A filled aspergillum is normally carried upright, otherwise the holy water leaks out as the weapon moves.",
+		"value": 5,
+		"weight": 4,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPZO1115"
+	},
+	{
+		"name": "Brass knife",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19-20/x2 Type piercing or slashing; Range Increment 10 ft. (thrown);  Category light Proficiency simple; Weapon Groups light blades, thrown; Special fragile; Pirates often carry long brass knives for working aboard a ship. Though brass doesn’t hold as sharp an edge as steel, it isn’t vulnerable to rust like steel is. In a pinch, a pirate can use his brass knife as a weapon. Mostly, though, they are used for cutting ropes, cleaning fish, and other sundry tasks.",
+		"value": 2,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPC:Pirates"
+	},
+	{
+		"name": "Brass knuckles",
+		"description": "Damage 1d2 (small), 1d3 (medium) Critical x2 Type bludgeoning; Category light Proficiency simple; Weapon Groups close, monk; Special monk; These close combat weapons are designed to fit comfortably around the knuckles, narrowing the contact area and therefore magnifying the amount of force delivered by a punch. Benefit: Brass knuckles allow you to deal lethal damage. Drawback: You may hold, but not wield, a weapon or other object in a hand wearing brass knuckles. You may cast a spell with a somatic component while wearing brass knuckles if you make a concentration check (DC 10 + the level of the spell you’re casting).",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPZO1115"
+	},
+	{
+		"name": "Cestus",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19-20/x2 Type bludgeoning or piercing; Category light Proficiency simple; Weapon Groups close, monk; Special monk; The cestus is a glove of leather or thick cloth that covers the wielder from mid-finger to mid-forearm. The close combat weapon is reinforced with metal plates over the fingers and often lined with wicked spikes along the backs of the hands and wrists. Benefit: While wearing a cestus, you are considered armed and your unarmed attacks deal normal damage. If you are proficient with a cestus, your unarmed strikes may deal bludgeoning or piercing damage. Monks are proficient with the cestus. Drawback: When using a cestus, your fingers are mostly exposed, allowing you to wield or carry items in that hand, but the constriction of the weapon at your knuckles gives you a –2 penalty on all precision-based tasks involving that hand (such as opening locks).",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPZO1115"
+	},
+	{
+		"name": "Dagger",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19-20/x2 Type piercing or slashing; Range Increment 10 ft. (thrown); Category light Proficiency simple; Weapon Groups light blades, thrown, tribal; A dagger has a blade that is about 1 foot in length. Benefit: You get a +2 bonus on Sleight of Hand skill checks made to conceal a dagger on your body (see Using Skills).",
+		"value": 2,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPZO1110"
+	},
+	{
+		"name": "Dagger, punching",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x3 Type piercing; Category light Proficiency simple; Weapon Group close; A punching dagger’s blade is attached to a horizontal handle that projects out from the fist when held.",
+		"value": 2,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPZO1110"
+	},
+	{
+		"name": "Gauntlet, spiked",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type piercing; Category light Proficiency simple; Weapon Group close; Benefit: An attack with a spiked gauntlet is considered an armed attack. Your opponent cannot use a disarm action to disarm you of spiked gauntlets. Note: The cost and weight given are for a single gauntlet.",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPZO1110"
+	},
+	{
+		"name": "Handwraps",
+		"description": "Damage – Critical – Type – Range Increment – Weapon Groups – Special See text; Many unarmed fighters wrap their hands in cloth to minimize injuries to their fists. Some martial artists also weave small coins or metal bars into their handwraps, adding special material effects as well. Handwraps don’t alter the damage a character’s unarmed attacks deal. However, masterwork handwraps can be enchanted as weapons, providing their benefits on unarmed attacks the character makes with her hands. A character can’t benefit from both handwraps and other items that provide enhancement bonuses or weapon special abilities (such as an amulet of mighty fists) on the same attack.",
+		"value": 0.1,
+		"weight": 0,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPC:MAH"
+	},
+	{
+		"name": "Traveling kettle",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning; Category light Proficiency simple; Weapon Groups monk; Special monk; These small tea kettles are made with clamping lids and heavily reinforced handles, allowing them to be swung like a club. A traveling kettle with boiling water inside deals an additional 1 point of fire damage on a hit. Boiling water cools to a non-damaging temperature after 5 minutes.",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPC:MAH"
+	},
+	{
+		"name": "Hook hand",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type slashing; Category light Proficiency simple; Weapon Group close Special disarm; Pirates who lose a hand in the course of their adventures sometimes attach hooks to their wrists. Your opponent cannot use a disarm action to disarm you of a hook hand. Hook hands generally do not interfere with routine activities, but you cannot use another weapon two-handed if you have a hook hand attached. You cannot use any type of weapon if both your hands are hook hands, and you may have trouble with routine activities. Hook hands presume that the wrist joint is intact. If the wrist joint is not intact, use the prosthesis statistics instead. It takes 1 minute to attach or detach a hook hand.",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPC:Pirates"
+	},
+	{
+		"name": "Kunai",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type Bludgeoning or Piercing; Range Increment 10 ft. (thrown); Category light Proficiency simple; Weapon Group close, thrown; Crafted from a single piece of iron, a kunai has a leaf-shaped blade and a ring for a pommel. Adapted from the common trowel, the kunai has a thick blade that is sharpened only near the tip. Benefit: Unlike finer weapons, the kunai can readily substitute for a crowbar or piton without being damaged in the process.",
+		"value": 2,
+		"weight": 2,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Mace, light",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type Bludgeoning; Category light Proficiency simple; Weapon Group hammers; A light mace is made up of an ornate metal head attached to a simple wooden or metal shaft.",
+		"value": 5,
+		"weight": 4,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Sickle",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type slashing Category light Proficiency simple Weapon Group blades, light Special trip",
+		"value": 6,
+		"weight": 2,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Spring blade",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type piercing or slashing Range Increment 10 ft. (thrown); Category light Proficiency simple; Weapon Group blades, light; thrown This 4-inch blade is attached via a hinge to a wooden handle with a slot in the center, into which the blade can be folded. With a click of a switch, a spring thrusts the blade outward, where it locks into place until it is reset. Releasing the blade is a free action, and resetting it is a move action. The handle must be in your hand for the blade to be released; placing it in your hand requires the same type of action as drawing a weapon. A spring blade is easy to conceal: an observer must succeed at a DC 20 Perception check to notice the blade hidden within the wooden handle, and you gain a +4 bonus on Sleight of Hand checks to conceal a spring blade on your body.",
+		"value": 70,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PZO1134"
+	},
+	{
+		"name": "Wooden stake",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type piercing; Range Increment 10 ft. (thrown); Category light Proficiency simple; Weapon Group close; This close combat weapon is just a sharpened piece of wood. Note: Iron spikes used as weapons deal damage as wooden stakes.",
+		"value": 0,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Light",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Club",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Range Increment 10 ft. (thrown); Category one-handed Proficiency simple Weapon Groups hammers, tribal This weapon is usually just a shaped piece of wood, sometimes with a few nails or studs embedded in it.",
+		"value": 0,
+		"weight": 3,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "One-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Club, mere",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning or piercing Category one-handed Proficiency simple Weapon Groups close, hammers Special fragile Traditionally made of carved stone, the mere (MEH-reh) is a short, flat-sided, sharp-pointed club.",
+		"value": 2,
+		"weight": 2,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "One-handed",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Mace, heavy",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type bludgeoning Category one-handed Proficiency simple Weapon Group hammers A heavy mace has a larger head and a longer handle than a normal (light) mace.",
+		"value": 12,
+		"weight": 8,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "One-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Morningstar",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type bludgeoning and piercing Category one-handed Proficiency simple Weapon Group flails A morningstar is a spiked metal ball, affixed to the top of a long handle.",
+		"value": 8,
+		"weight": 6,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "One-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Shortspear",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type piercing Range Increment 20 ft. (thrown) Category one-handed Proficiency simple Weapon Groups spears, thrown, tribal A shortspear is about 3 feet in length, making it a suitable thrown weapon.",
+		"value": 1,
+		"weight": 3,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "One-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Bayonet",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type piercing Category two-handed Proficiency simple Weapon Groups blades, light; close Bayonets are close combat weapons designed to fit into the grooves or muzzles of crossbows and firearms. Bayonets allow you to make melee attacks with these weapons but render them temporarily useless as ranged weapons. Attaching or removing a bayonet is a move action.",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Boarding pike",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Category two-handed Proficiency simple Weapon Groups polearm Special brace, reach; A boarding pike is an 8-foot-long pole topped with a foot-long tapered metal tip. Boarding pikes look much like longspears, but the metal pike is designed to flow into the wooden haft, leaving no grooves, collars, or spikes that could trap salt water and cause rust. Boarding pikes are mainly used defensively, to repel boarding actions. The pikes are kept in brackets around the mast, so sailors can quickly grab pikes and brace them against the gunwale to repel boarders.",
+		"value": 8,
+		"weight": 9,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PPC:Pirates"
+	},
+	{
+		"name": "Kumade",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x3 Type piercing Category two-handed Proficiency simple Weapon Groups axes Special grapple; Adapted from a garden rake, the kumade consists of a wood or bamboo pole topped with a metal claw. The rake head doubles as a grappling hook. When a kumade is secured to a surface, such as a rafter or window sill, its handle can be climbed as a 5-foot length of rope.",
+		"value": 5,
+		"weight": 4,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Kumade, collapsible",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x3 Type piercing Category two-handed Proficiency simple Weapon Groups axes Special grapple; This weapon acts as a kumade, but the handle consists of bamboo sections held together by a taut rope running through the center. Releasing the rope is a standard action that provokes attacks of opportunity and causes the weapon to collapse into a bundle that fits into a backpack. Reassembling the collapsible kumade requires a full-round action that provokes attacks of opportunity.",
+		"value": 10,
+		"weight": 4,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Lantern staff",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical ×2 Type bludgeoning Category two-handed Proficiency simple Weapon Groups hammers; This long metal staff has reservoirs for lamp oil, and a lantern-like structure at its head. The lantern staff is fuelled as and provides light as a hooded lantern. While lit, attacks with the lantern staff deal 1 point of fire damage in addition to the normal damage. Any effects that apply to a quarterstaff, except those that require it be used as a double weapon, also apply to a lantern staff.",
+		"value": 15,
+		"weight": 9,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Longspear",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Category two-handed Proficiency simple Weapon Group spears Special brace, reach; A longspear is about 8 feet in length.",
+		"value": 5,
+		"weight": 9,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Quarterstaff",
+		"description": "Damage 1d4/1d4 (small), 1d6/1d6 (medium) Critical x2 Type bludgeoning Category two-handed Proficiency simple Weapon Groups double, monk Special double, monk; A quarterstaff is a simple piece of wood, about 5 feet in length.",
+		"value": 0,
+		"weight": 4,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Spear",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Range Increment 20 ft. (thrown) Category two-handed Proficiency simple Weapon Groups spears, thrown, tribal Special brace; A spear is 5 feet in length and can be thrown.",
+		"value": 2,
+		"weight": 6,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Spear, boar",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type piercing Category two-handed Proficiency simple Weapon Groups spears Special brace; This spear with a spiraling blade has a metal crossbar approximately halfway down its length. Benefit:If you ready a boar spear against a charge and your attack hits, you get a +2 shield bonus to your AC against that creature until your next turn.",
+		"value": 5,
+		"weight": 8,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Spear, weighted",
+		"description": "Damage 1d6/1d4 (small), 1d8/1d6 (medium) Critical x3/x2 Type bludeoning or slashing Category two-handed Proficiency simple Weapon Groups double, spears Special brace, double; This pole has a spear head at one end and a mace head at the other. It can be wielded like a standard spear (though it isn’t balanced for throwing), or it can be used as a double weapon, alternately thrusting and bashing.",
+		"value": 10,
+		"weight": 8,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Blowgun",
+		"description": "Damage 1 (small), 1d2 (medium) Critical x2 Type piercing Range Increment 20 ft. (projectile) Category ranged Proficiency simple Weapon Group thrown; Blowguns are generally used to deliver debilitating (but rarely fatal) poisons from a distance. They are nearly silent when fired.",
+		"value": 2,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Crossbow, heavy",
+		"description": "Damage 1d8 (small), 1d10 medium) Critical 19-20/x2 Type piercing Range Increment 20 ft. (projectile) Category ranged Proficiency simple Weapon Group crossbows; Load: Loading a heavy crossbow is a full-round action that provokes attacks of opportunity. You draw a heavy crossbow back by turning a small winch. Normally, operating a heavy crossbow requires two hands. However, you can shoot, but not load, a heavy crossbow with one hand at a –4 penalty on attack rolls. You can shoot a heavy crossbow with each hand, but you take a penalty on attack rolls as if attacking with two one-handed weapons. This penalty is cumulative with the penalty for one-handed firing.",
+		"value": 50,
+		"weight": 8,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Crossbow, heavy (underwater)",
+		"description": "CDamage 1d8 (small), 1d10 (medium) Critical 19-20/x2 Type piercing Range Increment 120 ft. (projectile) Category ranged Proficiency simple Weapon Group crossbows; Race Merfolk An underwater crossbow functions like its normal counterpart above water, and can be used underwater. When fired underwater, the crossbow has a range increment of 20 feet. Anyone proficient with a normal crossbow can use an underwater crossbow.",
+		"value": 100,
+		"weight": 8,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Crossbow, light",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type piercing Range Increment 80 ft. (projectile) Category ranged Proficiency simple Weapon Group crossbow; Load: Loading a light crossbow is a move action that provokes attacks of opportunity. You draw a light crossbow back by pulling a lever. Normally, operating a light crossbow requires two hands. However, you can shoot, but not load, a light crossbow with one hand at a –2 penalty on attack rolls. You can shoot a light crossbow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons. This penalty is cumulative with the penalty for one-handed firing.",
+		"value": 35,
+		"weight": 4,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Crossbow, light (underwater)",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type piercing Range Increment 80 ft. (projectile) Category ranged Proficiency simple Weapon Group crossbows; An underwater light crossbow functions like its normal counterpart above water, and can be used underwater. When fired underwater, the crossbow has a range increment of 20 feet. Anyone proficient with a normal light crossbow can use an underwater light crossbow.",
+		"value": 70,
+		"weight": 4,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Dart",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type piercing Range Increment 20 ft. (thrown) Category ranged Proficiency simple Weapon Group thrown; Darts are missile weapons, designed to fly such that a sharp, often weighted point will strike first. They can be distinguished from javelins by fletching (i.e., feathers on the tail) and a shaft that is shorter and/or more flexible, and from arrows by the fact that they are not of the right length to use with a normal bow.",
+		"value": 0.5,
+		"weight": 0.5,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Thrown",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Javelin",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type piercing Range Increment 30 ft. (thrown) Category ranged Proficiency simple Weapon Groups spears, thrown; A javelin is a thin throwing spear. Since a javelin is not designed for melee, you are treated as non-proficient with it and take a –4 penalty on attack rolls if you use a javelin as a melee weapon.",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Sling",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning Range Increment 50 ft. (projectile) Category ranged Proficiency simple Weapon Groups thrown; A sling is little more than a leather cup attached to a pair of strings. Your Strength modifier applies to damage rolls when you use a sling, just as it does for thrown weapons. You can fire, but not load, a sling with one hand. Loading a sling is a move action that requires two hands and provokes attacks of opportunity. You can hurl ordinary stones with a sling, but stones are not as dense or as round as bullets. Thus, such an attack deals damage as if the weapon were designed for a creature one size category smaller than you and you take a –1 penalty on attack rolls.",
+		"value": 0,
+		"weight": 0,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Stingchuck",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning Range Increment 10 ft. (thrown) Category ranged Proficiency simple Weapon Group thrown; A stingchuck is a foul bag made of a humanoid’s head with the brain removed and the skull heavily scored so that it bursts open when thrown. Normally filled with biting vermin, a stingchuck acts as a splash weapon. When it hits, the vermin bite and sting the target, dealing 1d6 points of damage and forcing a DC 11 Fortitude save to avoid being nauseated for 1d3 rounds. Each round a creature remains nauseated by a stingchuck, it takes 1 additional point of damage from the biting vermin. All creatures within the splash effect take 1 point of damage from the vermin but do not risk being nauseated.",
+		"value": 0,
+		"weight": 9,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Stonebow",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Range Increment 50 ft. (projectile) Category ranged Proficiency simple Weapon Groups bows; A stonebow, or bullet crossbow, resembles a light crossbow except for the distinct U-shaped bend in the stock. Instead of bolts, the stonebow shoots sling bullets. The bow has two strings with a leather pocket between them to hold the bullet. Loading: Loading a stonebow is a move action (a free action if you have the Rapid Reload feat) that provokes attacks of opportunity. Firing: You can shoot, but not load, a stonebow with one hand, but doing so imposes a –2 penalty on your attack rolls. You can shoot a stonebow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons. This penalty is cumulative with the penalty for firing one-handed. You can shoot ordinary stones with a stonebow, but stones aren’t as dense or as round as bullets. When using stones, you take a –1 penalty on attack rolls and deal damage as if the weapon were designed for a creature one size category smaller than you.",
+		"value": 35,
+		"weight": 4,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Simple",
+		"categoryThree": "Two-handed",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Bolt(s), crossbow (10)",
+		"description": "Bolts come in a case or quiver that holds 10 bolts (or 5 for a repeating crossbow). A crossbow bolt used as a melee weapon is treated as a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (crit ×2).",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapons",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Bolt",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Bolt(s), acid (1)",
+		"description": "These metal bolts have a glass section in the middle, filled with acid. On a successful hit, acid bolts deal normal damage and 1d4 points of additional acid damage. Acid bolts do not cause any splash damage.",
+		"value": 40,
+		"weight": 0.1,
+		"categoryOne": "Ammunition",
+		"categoryTwo": "Simple",
+		"categoryThree": "Bolt",
+		"source": "PAP15"
+	},
+	{
+		"name": "Bolt(s), Drow poison (1)",
+		"description": "Anyone struck by a drow poison bolt must make a DC 13 Fortitude save or become affected by drow poison. Those using drow poison bolts do not risk poisoning themselves. The strange tip affects the bolts’ accuracy. Double the range penalties when using a drow poison bolt.",
+		"value": 100,
+		"weight": 0.1,
+		"categoryOne": "Ammunition",
+		"categoryTwo": "Simple",
+		"categoryThree": "Bolt",
+		"source": "PAP15"
+	},
+	{
+		"name": "Bolt(s), fire (1)",
+		"description": "On a successful hit, fire bolts deal normal damage plus 1d4 points of fire damage. Alchemical fire bolts do not cause any splash damage, and the fire burst isn’t enough to ignite targets (unless they are particularly flammable).",
+		"value": 50,
+		"weight": 0.1,
+		"categoryOne": "Ammunition",
+		"categoryTwo": "Simple",
+		"categoryThree": "Bolt",
+		"source": "PAP15"
+	},
+	{
+		"name": "Bullet(s), groaning (10)",
+		"description": "These sling bullets are honeycombed with overlapping perforations that cause them to emit an eerie moan audible within 500 feet of their flight path.",
+		"value": 2,
+		"weight": 5,
+		"categoryOne": "Ammunition",
+		"categoryTwo": "Simple",
+		"categoryThree": "Bullet",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Bullet(s), sling (10)",
+		"description": "Bullets come in a leather pouch that holds 10 bullets.",
+		"value": 0.1,
+		"weight": 5,
+		"categoryOne": "Ammunition",
+		"categoryTwo": "Simple",
+		"categoryThree": "Bullet",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Bullet(s), smoke (10)",
+		"description": "Smoke bullets require only a successful touch attack to release the smoke. When they strike a target, they burst, releasing a cloud of noxious gas that requires the creature struck to attempt a DC 13 Fortitude save. If the save fails, the target is nauseated for 2 rounds.",
+		"value": 100,
+		"weight": 5,
+		"categoryOne": "Ammunition",
+		"categoryTwo": "Simple",
+		"categoryThree": "Bullet",
+		"source": "PCS"
+	},
+	{
+		"name": "Dart(s), blowgun (10)",
+		"description": "These light darts have tiny grooves behind the tips. A character can apply poison to a blowgun dart without risk of poisoning himself.",
+		"value": 0.5,
+		"weight": 1,
+		"categoryOne": "Ammunition",
+		"categoryTwo": "Simple",
+		"categoryThree": "Misc",
+		"source": "PZO1110"
+	}
+]

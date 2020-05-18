@@ -1,0 +1,612 @@
+[
+	{
+		"name": "Bathtub, Collapsible",
+		"description": "After 10 minutes of assembly, this collection of wooden slats provides support for a cylindrical watertight canvas cloth. It can hold enough water to allow 1 Medium creature to bathe in comfort without any of the risks that might come from entering lakes, rivers, or other bodies of water.",
+		"value": 15,
+		"weight": 20,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Bedroll",
+		"description": "This consists of two woolen sheets sewn together along the bottom and one side to create a bag for sleeping in. Some have cloth straps along the open side so the bedroll can be tied closed while you are sleeping. It can be rolled and tied into a tight coil for storage or transport. Most people use a blanket with the bedroll to stay warm or provide a ground cushion.",
+		"value": 0.1,
+		"weight": 5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Blanket",
+		"description": "This warm, woven blanket has straps so it can be rolled up and tied. Blankets are often used in conjunction with bedrolls to provide additional warmth or a ground cushion.",
+		"value": 0.5,
+		"weight": 3,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Chair, Folding",
+		"description": "This simple folding chair has a wooden frame and canvas seat and back, making it easy to transport and set up wherever you wish. It folds up easily and fits in a handy carrying bag. The chair can support up to 250 pounds with ease.",
+		"value": 2,
+		"weight": 10,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Ladder, Folding",
+		"description": "The hook, pole, and rungs of this 10-foot ladder are hinged, allowing you to fold it into a 3-foot-by-1-foot-by-1-foot bundle. Folding or unfolding it is a standard action.",
+		"value": 2,
+		"weight": 16,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Cot",
+		"description": "This elevated camp bed is made of wood and canvas, and is particularly useful when the ground is wet or rocky. It is large enough for a full-grown human, but folds down into a 4-foot-by-9-inch cylindrical bag.",
+		"value": 1,
+		"weight": 30,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Hammock",
+		"description": "This blanket or net is attached to strong ropes, allowing you to hang it from a heavy branch or two trees and sleep above the ground. Climbing into or out of a hammock is a full-round action. A successful DC 5 Dexterity check reduces this to a move action.",
+		"value": 0.1,
+		"weight": 3,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Soap",
+		"description": "You can use this thick block of soap to scrub clothes, pots, linens, or anything else that might be dirty. A bar of soap has approximately 50 uses.",
+		"value": 0.01,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Tent, small",
+		"description": "Tents come in a variety of sizes and accommodate between one and 10 people. Two Small creatures count as a Medium creature, and one Large creature counts as two Medium creatures. Packing up a tent takes half as long as assembling it. Small/Normal: A small tent holds one Medium creature and takes 20 minutes to assemble.",
+		"value": 10,
+		"weight": 20,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Tent, Medium",
+		"description": "Tents come in a variety of sizes and accommodate between one and 10 people. Two Small creatures count as a Medium creature, and one Large creature counts as two Medium creatures. Packing up a tent takes half as long as assembling it. Medium: A medium tent holds two creatures and takes 30 minutes to assemble.",
+		"value": 15,
+		"weight": 30,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Tent, Large",
+		"description": "Tents come in a variety of sizes and accommodate between one and 10 people. Two Small creatures count as a Medium creature, and one Large creature counts as two Medium creatures. Packing up a tent takes half as long as assembling it. Large: A large tent holds four creatures and takes 45 minutes to assemble.",
+		"value": 30,
+		"weight": 40,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Tent, Pavilion",
+		"description": "Tents come in a variety of sizes and accommodate between one and 10 people. Two Small creatures count as a Medium creature, and one Large creature counts as two Medium creatures. Packing up a tent takes half as long as assembling it. Pavilion: A huge open-air canopy, plus stakes, poles, and ropes. A pavilion holds 10 creatures and takes 90 minutes to assemble. Pavilion tents are large enough to accommodate a small fire in the center.",
+		"value": 100,
+		"weight": 50,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Tent, Hanging Tent",
+		"description": "Tents come in a variety of sizes and accommodate between one and 10 people. Two Small creatures count as a Medium creature, and one Large creature counts as two Medium creatures. Packing up a tent takes half as long as assembling it. Hanging Tent A hanging tent is a small tent (able to comfortably house a single Medium creature) with a teardrop shape, which hangs from a sturdy anchor rope. The rope can be tied to a tree limb, grappling hook, or even a piton hammered into a cliff side. Hanging tents are used primarily in mountainous terrain (where no flat surface may be available for camping) and swamps (where no dry ground may be available). Climbing in or out of a hanging tent is a full-round action that requires a DC 10 Climb check. Failure indicates another attempt must be made, while failure by 5 or more indicates the camper has fallen from the tent.",
+		"value": 20,
+		"weight": 15,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Comfort and Shelter",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Fishhook",
+		"description": "This metal hook is little more than a stiff, bent needle.",
+		"value": 0.1,
+		"weight": 0,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Hunting and Fishing",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Fishing Tackle",
+		"description": "More than a mere fishhook, this set includes birch poles, silk line, sinkers, hooks, lures, and tackle box. It grants a +1 circumstance bonus on Survival checks when gathering food around bodies of water that contain fish.",
+		"value": 20,
+		"weight": 5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Hunting and Fishing",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Fishing net, (25 sq. ft.)",
+		"description": "This net measures 5 feet by 5 feet, and can be used to cover a pit or to block Tiny or larger creatures from entering an area.",
+		"value": 4,
+		"weight": 5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Hunting and Fishing",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Fishing net, Bell",
+		"description": "Copper bells hang at each the corners of this 5-foot-by-5-foot wire net. A bell net is designed to blanket gear while you sleep, hunt, cook, or otherwise can’t give it your full attention, raising an alarm if your possessions are disturbed. Creatures attempting to access gear protected by a bell net must succeed at a DC 25 Sleight of Hand check to avoid chiming the bells. Hearing the chiming bells of a bell net requires a DC 0 Perception check. Because the many bells chime when you move, traveling with a bell net gives you a –2 penalty on Stealth checks. ",
+		"value": 2,
+		"weight": 2,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Hunting and Fishing",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Fishing net, Butterfly",
+		"description": "One end of this 6-foot-long pole supports a wide metal hoop covered by a thin mesh net. You can use this to sift objects from material capable of passing through the net, such as sand or water. You can also use a butterfly net to capture Fine or Diminutive creatures as if it were a net (weapon), though you don’t need to re-fold the butterfly net if you miss, and you use the handle of the butterfly net like you would the rope of a net weapon. ",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Hunting and Fishing",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Camouflage netting",
+		"description": "This loose mesh of twine and varicolored cloth is used to disguise the presence of creatures or large objects. Camouflage netting must be manufactured to provide camouflage in a single type of terrain, such as snow, sand, forest, grass, swamp, urban, or water. When you hide under the netting in the appropriate terrain, you gain a +4 circumstance bonus on Stealth checks as long as you remain immobile and prone. Covering up with camouflage netting is a full-round action requiring a DC 10 Survival check (failure means you do not cover yourself correctly with the netting and do not gain its bonus on Stealth checks). You have the entangled condition when using the netting, except your Dexterity penalty does not affect your initiative or Stealth checks. Taking off camouflage netting is a move action, or a swift action if combined with a move action to stand up from a prone position.You may spend 1 minute covering an object with camouflage netting. Make a Survival check with a –10 penalty and use the total as the Stealth check result for the object. Creatures who fail a Perception check against this Stealth DC do not recognize what the object is and usually treat it as a natural part of the terrain. For example, you can conceal a wagon as a rock or patch of brush. Covering a Large object requires two nets. Covering a Huge or Gargantuan object requires five nets and takes 10 minutes of work, and the Survival check penalty is –20 instead of –10. Camouflaging a Colossal object depends on its shape but generally requires at least 10 camouflage nets and takes 1 hour of work, and the Survival check penalty is –30 instead of –10. A creature with the scent ability ignores the effect of camouflage netting and makes checks against your actual Stealth roll when in scent range. Any creature within 10 feet of a Large or larger object hidden by camouflage netting automatically recognizes it as an object covered in camouflage.",
+		"value": 20,
+		"weight": 5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Hunting and Fishing",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Air Bladder",
+		"description": "Used by swimmers for longer dives, this bladder is similar to a waterskin, but is relatively airtight. If inflated, it holds enough air to sustain a Medium creature for 1 round or a Small creature for 2 rounds.",
+		"value": 0.1,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Animal Glue",
+		"description": "This simple glue is created by extensively boiling animal skin, bones, hooves, horn, and tendons until they turn into a ochre syrup that cools when it hardens. Before you use animal glue, you must heat it until it liquefies. You normally apply it with a brush and hold the pieces together for a minute, at which point it is cooled and hardened. The glue is sufficient to coat 1 square foot of surface, or (because of waste and spills) up to 40 smaller applications of approximately 2 square inches each. Pulling apart a large glued surface (at least 1 square foot) requires a DC 15 Strength check. Pulling apart a small glued surface (anything less than 1 square foot) requires a DC 10 Strength check. Animal glue slowly dissolves in water, reducing the Strength DC needed to break it by 1 per 10 minutes. It softens if heated, even with steam, reducing the Strength DC needed to break it by 1 per minute.",
+		"value": 0.5,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Compass",
+		"description": "An ordinary compass that points to the magnetic north pole grants you a +2 circumstance bonus on Survival checks made to avoid becoming lost. You can also use it to grant the same bonus on Knowledge (dungeoneering) checks made to navigate underground.",
+		"value": 10,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Animal-repellent sack",
+		"description": "Animal-repellent sack",
+		"value": 1,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Backpack, carrier",
+		"description": "Backpack, carrier",
+		"value": 25,
+		"weight": 5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Backpack, hydration",
+		"description": "Backpack, hydration",
+		"value": 40,
+		"weight": 4,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Backpack, weaponrack",
+		"description": "Backpack, weaponrack",
+		"value": 25,
+		"weight": 5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Bell",
+		"description": "Bell",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Buoy, common",
+		"description": "Buoy, common",
+		"value": 0.5,
+		"weight": 16,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Buoy, superior",
+		"description": "Buoy, superior",
+		"value": 10,
+		"weight": 30,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Cooler chest",
+		"description": "Cooler chest",
+		"value": 25,
+		"weight": 60,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Camouflaged canvas",
+		"description": "Camouflaged canvas",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Duo saw",
+		"description": "Duo saw",
+		"value": 100,
+		"weight": 20,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Efficient tent",
+		"description": "Efficient tent",
+		"value": 150,
+		"weight": 15,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Field survival guide",
+		"description": "Field survival guide",
+		"value": 20,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Goblin fishing lure",
+		"description": "Goblin fishing lure",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Hunting and Fishing",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Trap, Bear",
+		"description": "Although intended for trapping large animals, bear traps work as well for trapping humanoids or monsters. The hinged jaws of the trap are attached to a chain, which in turn is secured to a spike driven into the ground to ensure that the victim cannot simply crawl away. Prying open the jaws or pulling the spike from the ground requires a DC 20 Strength check. Type mechanical; Perception DC 15; Disable Device DC 20. Trigger location; Reset manual. Effects Sharp jaws (atk +10 melee 2d6+3); sharp jaws spring shut around the creature’s ankle and halve the creature’s base speed (or hold the creature immobile if the trap is attached to a solid object); the creature can escape with a DC 20 Disable Device check, DC 22 Escape Artist check, or DC 26 Strength check.",
+		"value": 2,
+		"weight": 10,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Hunting and Fishing",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Heatstone",
+		"description": "Heatstones are pieces of volcanic glass formed naturally in deserts that have the ability to keep an area pleasantly warm even in otherwise frigid conditions. Though these stones are often traded away to colder regions or used to keep tents comfortable during the desert nights, magicians and scientists both routinely find new ways to put heatstones to use. Some heatstones are alchemically treated to produce heat that lasts indefinitely or to be used in permanent items (see Heatstone Items). However, common heatstones found in the wilds can be made to function as described below with only a simple alchemical treatment and can be bought at the listed price. Alchemically treated to enhance their natural heat-generating properties, these round or ovoid stones of volcanic glass provide enough heat to keep chambers warm in the coldest winter. One heatstone keeps a 20-foot-square area comfortably warm even in extreme cold (be5low –20° F), or a 40-foot-square area in severe cold (between 0° F and –20° F). A single heatstone is activated by striking it against any hard surface, after which point it continues to provide heat for 24 hours. An active heatstone does not give off enough heat to cook food or cause damage.",
+		"value": 20,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "ISWG"
+	},
+	{
+		"name": "Horn, powder",
+		"description": "Horn, powder",
+		"value": 3,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Horn, signal",
+		"description": "Sounding a horn requires a DC 10 Perform (wind instruments) check and can convey concepts such as “Attack!”, “Help!”, “Advance!”, “Retreat!”, “Fire!”, and, “Alarm!” The report of a signal horn can be clearly heard (Perception DC 0) up to a half-mile distant. For each quarter-mile beyond, Perception checks to hear the horn suffer a –1 penalty.",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Hunter’s stand",
+		"description": "Hunter’s stand",
+		"value": 25,
+		"weight": 15,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Scent cloak",
+		"description": "Scent cloak",
+		"value": 20,
+		"weight": 2,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Insulated flask",
+		"description": "Insulated flask",
+		"value": 0.2,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Map",
+		"description": "A geographically relevant map grants a user a +1 circumstance bonus on Survival checks made to navigate in the wilderness. It also can be used to grant the same bonus on Knowledge (dungeoneering) checks made to navigate underground.",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Mirror, small steel",
+		"description": "A small steel mirror.",
+		"value": 10,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Nature climbing harness",
+		"description": "Nature climbing harness",
+		"value": 60,
+		"weight": 4,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Piton, silent",
+		"description": "Piton, silent",
+		"value": 0.5,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Privacy shelter",
+		"description": "Privacy shelter",
+		"value": 5,
+		"weight": 10,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Rope, hemp (50 ft.)",
+		"description": "Hempen The DC to escape hemp rope bonds is equal to 20 + the CMB of the creature that tied the bonds. Ropes do not need to make a check every round to maintain the pin. If the DC to escape is higher than 20 + the tying creatures CMB, the tied up creature cannot escape from the bonds, even with a natural 20 on the check. This rope has 2 hit points and can be burst with a DC 23 Strength check.",
+		"value": 1,
+		"weight": 10,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Rope, bloodvine",
+		"description": "This 50-foot length of tough, lightweight rope is made from alchemically treated bloodvine, a rare scarlet-colored vine that grows only in warm jungle environments. Though prized by climbers for its durability, bloodvine can also be used to bind creatures. Bloodvine rope has a hardness of 5 and 10 hit points, and can be broken with a DC 30 Strength check. A creature bound by bloodvine rope can escape with a DC 35 Escape Artist check or a DC 30 Strength check. The DC to create bloodvine rope with Craft (alchemy) is 30.",
+		"value": 200,
+		"weight": 5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PRG:ACG"
+	},
+	{
+		"name": "Rope, silk (50 ft.)",
+		"description": "This 50-foot length of silk rope has 4 hit points and can be broken with a DC 24 Strength check. Price 10 gp; Weight 5 lbs.",
+		"value": 10,
+		"weight": 5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Rope, spider’s silk (50 ft.)",
+		"description": "This 50-foot length of rope is woven of strands of silk from monstrous spiders. Rare to virtually nonexistent on the surface world, it is commonly used by the dark elves, though shorter spider’s silk rope scraps (generally no more than 10 feet long) occasionally appear among goblins. Spider’s silk rope has 6 hit points and can be broken with a DC 25 Strength check. ",
+		"value": 100,
+		"weight": 4,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Stretch cords",
+		"description": "Stretch cords",
+		"value": 0.5,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Tent cover",
+		"description": "Tent cover",
+		"value": 15,
+		"weight": 15,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Trekking pole",
+		"description": "Trekking pole",
+		"value": 15,
+		"weight": 2,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Windup music box",
+		"description": "Windup music box",
+		"value": 25,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Star Charts",
+		"description": "Many half-elves live in large cities or communities where they find it difficult to commune with nature. While some go on long sojourns to the wilderness, others spend their evenings on high, lonely rooftops, gazing at the stars. These lonely souls use star charts to track the movement of the stars and other celestial bodies. Anyone referencing one of these charts on a clear night can attempt a DC 20 Knowledge (geography) check to determine her approximate location and the month. In addition, these charts grant a +2 circumstance bonus on Survival checks made to avoid getting lost at night with a clear sky.",
+		"value": 200,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "String or twine (50 ft.)",
+		"description": "Sold in balls or spools of 50 feet, string and twine are useful for rigging traps and alarms and are a vital component of grappling bolts and arrows. String or twine has hardness 0, 1 hit point, and a break DC of 14.",
+		"value": 0.01,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Whetstone",
+		"description": "A whetstone allows you to sharpen a blade by sliding it against the stone at a precise angle. Honing a blade with a whetstone requires about 15 minutes of work and grants the weapon a +1 bonus on your damage roll the first time you hit with it. This only works on nonmagical blades.",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Whistle, beast",
+		"description": "This small wooden whistle emits a high-pitched sound like that of a signal whistle, except the signal is audible only to a specific type of creature—other types of creatures hear only a quiet hissing sound. Beast whistles come in six different varieties: avian, canine, feline, rodent, reptile, and ungulate (other varieties may be available at the GM’s discretion). Animals and magical beasts that match a beast whistle’s type can hear the whistle as a human hears a signal whistle. Creatures that fit into multiple categories (such as griffons) can usually hear the call of multiple types of whistles, though magical beasts who don’t fit into any of the above categories cannot hear a beast whistle. Beast whistles don’t function underwater, except if surrounded by an air bubble or similar effect, though creatures underwater may hear a beast whistle sounded from above the surface if they are close enough. ",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "FF"
+	},
+	{
+		"name": "Whistle, signal",
+		"description": "With a DC 5 Perform (wind instruments) check, you can use a whistle to signal the same sorts of situations as signal horns. A whistle’s piercing report can be clearly heard (Perception DC 0) up to a quarter-mile away. For each quarter-mile beyond, Perception checks to hear a whistle take a –2 penalty. Silent whistles that only animals and other creatures with keen hearing can hear also exist. ",
+		"value": 0.8,
+		"weight": 0,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Whistle, silent",
+		"description": "Only animals and other creatures with keen hearing can hear this whistle. ",
+		"value": 0.9,
+		"weight": 0,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Misc. Outdoors Gear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	}
+]

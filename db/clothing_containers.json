@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Outfits test",
+		"description": "A Outfits test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Footwear test",
+		"description": "A Footwear test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Footwear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Face, Head and Neck test",
+		"description": "A Face, Head and Neck test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Bodywear test",
+		"description": "A Bodywear test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Jewelry, Perfumes and other Decorative Accessories test",
+		"description": "A Jewelry, Perfumes and other Decorative Accessories test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Bags and Pouches test",
+		"description": "A Bags and Pouches test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Barrels, Boxes, and Chests test",
+		"description": "A Barrels, Boxes, and Chests test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Other Containers test",
+		"description": "A Other Containers test ",
+		"value": 0.02,
+		"weight": 1,
+		"categoryOne": "Containers",
+		"categoryTwo": "Other Containers",
+		"categoryThree": "",
+		"source": "PZO1123"
+	}
+]

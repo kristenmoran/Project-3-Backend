@@ -1,0 +1,192 @@
+[
+	{
+		"name": "Candle",
+		"description": "A candle dimly illuminates a small area, increasing the light level in a 5-foot radius by one step (darkness becomes dim light and dim light becomes normal light). A candle cannot increase the light level above normal light. A candle burns for 1 hour.",
+		"value": 0.01,
+		"weight": 0,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Candle, helmet",
+		"description": "This device consists of a helmet with a short, thin spike on top upon which a candle is stuck, freeing your hands for other tasks.",
+		"value": 2,
+		"weight": 4,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Candle lamp",
+		"description": "A candle lamp is a small lantern-like device with glass panels and a slot to hold a candle. It protects the candle from drafts and catches wax drippings. It provides the same light as a candle, but can be shuttered such that it only illuminates 1 to 3 adjacent squares. You can use a candle lamp to keep your hands warm.",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Candlestick",
+		"description": "This saucer-like object has a flat bottom, a handle, and a spike on top. You can affix a candle onto the spike (up to 3 inches in diameter) and hold the candlestick by the handle. The flat bottom means you’re able to set it down and not worry about the candle falling over and extinguishing itself. A typical candlestick is crafted from baked clay or a cheap metal such as copper, but elaborate and expensive ones exist.",
+		"value": 0.01,
+		"weight": 0.5,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Darkflare",
+		"description": "Created by the drow-hunters, this alchemical flare explodes in black sparks 1 round after lighting. Any creature in the same square as a darkflare when it explodes must make a DC 15 Fortitude save or be unable to see with darkvision for 1d10 rounds. Affected creatures can still see in normal light with no penalty. A darkflare has no effect on creatures without darkvision. The DC to create a darkflare with Craft (alchemy) is 20.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "FG"
+	},
+	{
+		"name": "Firewood (per day)",
+		"description": "This bundle of dry wood includes twigs and logs.",
+		"value": 0.01,
+		"weight": 20,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Lamp",
+		"description": "A common lamp illuminates a small area, providing normal light in a 15-foot radius and increasing the light level by one step for an additional 15 feet beyond that area (darkness becomes dim light and dim light becomes normal light). A lamp does not increase the light level in normal light or bright light. A lamp burns for 6 hours on 1 pint of oil. You can carry a lamp in one hand.",
+		"value": 0.1,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Lamp, celestial",
+		"description": "This polished lantern contains a continual flame and sheds light as a common lamp. If its font of consecrated crystal and metalwork is filled with holy water, the lamp’s light is sanctified for 24 hours, adding a +1 bonus to the save DC of channeled positive energy or energy channeled to harm evil outsiders within a 30-foot radius.",
+		"value": 300,
+		"weight": 2,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Lantern, bullseye",
+		"description": "A bullseye lantern provides normal light in a 60-foot cone and increases the light level by one step in the area beyond that, out to a 120-foot cone (darkness becomes dim light and dim light becomes normal light). A bullseye lantern does not increase the light level in normal light or bright light. A lantern burns for 6 hours on 1 pint of oil. You can carry a lantern in one hand.",
+		"value": 12,
+		"weight": 3,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Lantern, darklight",
+		"description": "This lantern does not burn oil, but instead burns shadowcloy. When shadowcloy is used as its fuel, this lantern creates a strange, hazy darkness that decreases the light level for 30 feet around it by one step. Unlike when shadowcloy is thrown at a single target, this haze does not decrease natural darkness to supernatural darkness. One flask of shadowcloy fuels a darklight lantern for 1 minute",
+		"value": 20,
+		"weight": 3,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Lantern, hooded",
+		"description": "A hooded lantern sheds normal light in a 30-foot radius and increases the light level by one step for an additional 30 feet beyond that area (darkness becomes dim light and dim light becomes normal light). A hooded lantern does not increase the light level in normal light or bright light. A lantern burns for 6 hours on 1 pint of oil. You can carry a lantern in one hand.",
+		"value": 7,
+		"weight": 2,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Lantern, miner’s",
+		"description": "A smaller version of the bullseye lantern, a miner’s lantern provides normal light in a 30- foot cone and increases the light level by one step in the area beyond that, out to a 60-foot cone (darkness becomes dim light and dim light becomes normal light). A miner’s lantern does not increase the light level in normal light or bright light. It burns for 6 hours on 1 pint of oil. A miner’s lantern comes with straps for attachment to a helmet or other piece of sturdy headgear, but it can also be carried in one hand.",
+		"value": 15,
+		"weight": 2,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PCS:PSFG"
+	},
+	{
+		"name": "Lantern, waterproofing",
+		"description": "Meant to shelter its flame from both water and wind, this lantern treats severe winds as strong winds, windstorms as severe winds, and hurricanes as windstorms for the purpose of determining whether they extinguish its flame. It holds enough air to burn underwater for 5 rounds before going dark",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Moonrod",
+		"description": "This 1-foot-long, silver-tipped tin rod glows dimly when struck as a standard action. It sheds dim light in a 30-foot radius. However, the light given off by a moonrod is particularly easily to perceive for creatures with low-light vision. For such creatures, a moonrod increases the light level by one step (to a maximum of normal) for a 60-foot radius. It glows for 6 hours, after which the silver tip is burned out and worthless.",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Oil, Lamp",
+		"description": "Oil, Lamp",
+		"value": 0.1,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Sunrod",
+		"description": "This 1-foot-long, gold-tipped, iron rod glows brightly when struck as a standard action. It sheds normal light in a 30-foot radius and increases the light level by one step for an additional 30 feet beyond that area (darkness becomes dim light and dim light becomes normal light). A sunrod does not increase the light level in normal light or bright light. It glows for 6 hours, after which the gold tip is burned out and worthless.",
+		"value": 2,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Thurible",
+		"description": "When filled with coal and common herbs worth 2 sp, this miniature brazier fills an area 30 feet in diameter with light smoke for 1 hour. Any creature in the area of this smoke gains a +2 circumstance bonus on Fortitude saves to resist inhaled diseases.",
+		"value": 50,
+		"weight": 3,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Torch",
+		"description": "A torch burns for 1 hour, shedding normal light in a 20-foot radius and increasing the light level by one step for an additional 20 feet beyond that area (darkness becomes dim light and dim light becomes normal light). A torch does not increase the light level in normal light or bright light. If a torch is used in combat, treat it as a one-handed improvised weapon that deals bludgeoning damage equal to that of a gauntlet of its size, plus 1 point of fire damage.",
+		"value": 0.01,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Torch, everburning",
+		"description": "This otherwise normal torch has a continual flame spell cast on it. This causes it to shed light like an ordinary torch, but it does not emit heat or deal fire damage if used as a weapon.",
+		"value": 0.01,
+		"weight": 1,
+		"categoryOne": "Adventuring Gear",
+		"categoryTwo": "Illuminations",
+		"categoryThree": "",
+		"source": "PZO1123"
+	}
+]

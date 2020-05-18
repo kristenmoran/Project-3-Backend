@@ -1,0 +1,1023 @@
+[
+	{
+		"name": "Axe, boarding",
+		"description": "Damage 1d4 small, 1d6 medium) Critical x3 Type piercing or slashing Category ranged Proficiency simple Weapon Group axes; A boarding axe is similar to a handaxe, but features a spike that allows the weapon to do either slashing or piercing damage. When in hand, a boarding axe grants a +2 circumstance bonus on Climb checks to scale wooden or other penetrable surfaces, such as ice.",
+		"value": 6,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Axe, throwing",
+		"description": "Damage 1d4 small), 1d6 (medium) Critical x2 Type slashing Range Increment 10 ft. (thrown) Category light Proficiency martial Weapon Groups axes, thrown, tribal; This is a small axe balanced for throwing.",
+		"value": 8,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Blade boot",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type piercing Category light Proficiency martial; Blade boots come with a spring-mounted knife that pops out when triggered with the right combination of toe presses. You can use a blade boot as an off-hand weapon. Releasing the knife is a swift action; rearming it is a full-round action. When the blade is extended, you treat normal terrain as difficult and difficult terrain as impassable.",
+		"value": 25,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Cat-o’-nine-tails",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type slashing Category light Proficiency martial Weapon Groups flails Special disarm, nonlethal; This short whip is made of nine knotted thongs about 3 feet in length. A cat-o’-nine-tails deals no damage to any creature with an armor bonus of +1 or higher or a natural armor bonus of +3 or higher.",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Claw blades",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning or slashing Category light Proficiency martial; These subtle blades can only be used by catfolk with the cat’s claws racial trait. Bought in a set of five, they fit over the wearer’s claws on one hand. The blades grant the wearer a +1 enhancement bonus on claw attack rolls with that hand and change the weapon type from a natural weapon to a light slashing weapon. Catfolk with the cat’s claws racial trait are proficient with this weapon. The claw blades can be enhanced like a masterwork weapon for the normal costs. The listed cost of the item is for one set of five claws for one hand.",
+		"value": 305,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Dagger, dueling",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19–20/×2 Type piercing or slashing Range Increment 10 ft. (thrown) Category light Proficiency martial Weapon Groups light blades, thrown; This dagger is used in the off hand to block attacks. When you fight defensively or use Combat Expertise while wielding a dueling dagger, your bonus to AC increases by 1. This benefit applies even if you did not attack with the dueling dagger. If you aren’t proficient with a dueling dagger, you treat it as a dagger and gain no special benefits. Any effects that apply to daggers apply to dueling daggers.",
+		"value": 12,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Dogslicer",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 19-20/x2 Type slashing Category light Proficiency martial Weapon Group light blades Special fragile; This short, curved sword is a favorite weapon of goblins, who show unusual cunning by drilling numerous holes in the blade to reduce the weapon’s weight.",
+		"value": 8,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Hammer, light",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type bludgeoning Range Increment 20 ft. Category light Proficiency martial Weapon Groups hammers, thrown; A lighter version of a warhammer, this weapon usually has a sleek metal head with one striking surface.",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Gladius",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 19-20/x2 Type piercing or slashing Category light Proficiency martial Weapon Group light blades Special performance; The gladius is the favorite short sword of gladiators, with a heavier blade than the standard short sword. It serves well as a slashing weapon. Feats and abilities that affect short swords apply to the gladius.",
+		"value": 15,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Handaxe",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x3 Type slashing Category light Proficiency martial Weapon Groups axes, tribal; This one-handed axe is short (roughly 1 foot long) and designed for use with one hand. Unlike throwing axes, it is not well balanced for a graceful tumbling motion, and is instead heavier at its head. Tomahawks, war hatchets, and other such names usually refer to hand axes.",
+		"value": 6,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Katar, tri-bladed",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical ×4 Type piercing Category light Proficiency martial Weapon Groups light blades, close; Where most punching daggers boast a single thick blade, the tri-bladed katar features a fan of three splayed razor edges. Any effects that apply to a punching dagger also apply to a tri-bladed katar.",
+		"value": 6,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Knife, switchblade",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19-20/x2 Type piercing Range Increment 10 ft. (thrown) Category light Proficiency martial Weapon Groups light blade, thrown; This weapon is treated as a dagger. This knife can be designed to look like another type of object (a DC 15 Perception check reveals the deception). If held in your hand, you can activate it as a free action.",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Kobold tail attachment, (long lash)",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type slashing Category light Proficiency martial Special reach; This slender cord has tiny bits of glass and stone embedded in its length.",
+		"value": 15,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kobold tail attachment, (pounder)",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type bludgeoning Category light Proficiency martial; This squat ball is made from some sort of dull metal.",
+		"value": 1,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kobold tail attachment, (razored)",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type slashing Category light Proficiency martial; This metal wedge has a prickly edge on one of its sides.",
+		"value": 3,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+
+	{
+		"name": "Kobold tail attachment, (spiked)",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Category light Proficiency martial; This narrow spike tapers to a sharp point.",
+		"value": 3,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kobold tail attachment, (sweeper)",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Category light Proficiency martial Special trip; When properly used, this sharply curved piece of metal can knock opponents off their feet. Unlike most trip weapons, you cannot drop it if you are tripped during your own trip attempt.",
+		"value": 7,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Kukri",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 18–20/x2 Type slashing Category light Proficiency martial Weapon Group light blades; A kukri is a curved blade, about 1 foot in length.",
+		"value": 8,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Machete",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 19-20/x2 Type slashing Category light Proficiency martial Weapon Group light blades; This tool is a wide, single-edged blade about 2 feet in length. Most often used to hack through dense vegetation, it works equally well as a weapon. A character proficient with a machete gains a +1 circumstance bonus on Survival checks to get along in the wild.",
+		"value": 10,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Pick, light",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x4 Type piercing Category light Proficiency martial Weapon Group axes; This weapon, adapted from the pickaxe tool, has a head with a slightly curved, armorpiercing spike and a hammerlike counterweight.",
+		"value": 4,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Ratfolk tailblade",
+		"description": "Damage 1d2 (small), 1d3 (medium) Critical 20/x2 Type slashing Category light Proficiency martial; Race Ratfolk; A tailblade is a small, sharp knife designed to be strapped to the tip of a wielder’s tail. A ratfolk wielding a tailblade can make a tail attack, adding its Strength modifier to the tailblade’s damage. Ratfolk are considered proficient with such attacks and can apply feats or effects appropriate to natural attacks to tail attacks made with a tailblade. If used as part of a full attack action, attacks with a tailblade are considered secondary attacks. It takes a full-round action to strap on or remove a tailblade. The wearer can loosely attach the tailblade (without strapping it securely in place) as a move action, but using a loosely attached tailblade gives the wielder a –4 penalty on all attack rolls made with the weapon, and other creatures get a +4 bonus on disarm combat maneuver checks to disarm the tailblade.",
+		"value": 11,
+		"weight": 0.5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Sap",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Category light Proficiency martial Weapon Group close Special nonlethal; This weapon consists of a soft wrapping around a hard, dense core, typically a leather sheath around a lead rod. The head is wider than the handle and designed to spread out the force of the blow, making it less likely to draw blood or break bones.",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Sea-knife",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19-20/x2 Type slashing Category light Proficiency martial Race Gillmen; A sea-knife is a long-handled weapon with a short blade. It is designed to be strapped to the ankle or foot of the wielder, pointing downward and jutting out beyond the wearer’s leg. A sea-knife can be used as a light melee weapon when the wielder is swimming, flying, or prone. This allows the wielder to use a two-handed weapon, or wield a weapon with one hand and carry a shield, and still make off-hand attacks with the sea-knife. Attacks made with a sea-knife take a –2 circumstance penalty on attack rolls in addition to all other attack penalties. Donning or removing a sea-knife is a full-round action. The wearer cannot use a leg with a sea-knife strapped to it for walking or running.",
+		"value": 8,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Starknife",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x3 Type piercing Range Increment 20 ft. (thrown) Category light Proficiency martial Weapon Groups light blades, thrown; From a central metal ring, four tapering metal blades extend from this weapon like points on a compass rose. By gripping the crossbar that runs through the weapon’s open middle, a wielder can strike with it as a deadly melee weapon. Alternatively, by gripping it by the outer rim, a starknife’s light, aerodynamic design allows it to be thrown short distances in a manner similar to a chakram.",
+		"value": 24,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Sword, short",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 19-20/x2 Type piercing Category light Proficiency martial Weapon Group light blades; Short swords are some of the most common weapons found in any martial society, and thus designs are extremely varied, depending on the region and creator. Most are around 2 feet in length. Their blades can be curved or straight, single- or double-edged, and wide or narrow. Hilts may be ornate or simple, with crossguards, basket hilts, or no guard at all. Such weapons are often used on their own, but can also be paired as a matched set, or used in conjunction with a dagger or longer sword.",
+		"value": 10,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO1110"
+	},
+	{
+		"name": "War razor",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19-20/x2 Type slashing Category light Proficiency martial Weapon Groups light blades; You gain a +2 bonus on Sleight of Hand checks made to conceal the weapon on your body.",
+		"value": 8,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Light",
+		"source": "PZO9226"
+	},
+	{
+		"name": "Ankus",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type piercing Category light Proficiency martial Weapon Groups heavy blades Special disarm, trip; Also known as an elephant goad, this tool consists of a 2- to 3-foot rod ending in a spearhead and a backward-facing hook. Traditionally used to train and direct large animals, the ankus can be used as a weapon in a pinch.",
+		"value": 8,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Battleaxe",
+		"description": "Damage 1d6 (small), 1d8 (medium); Critical x3; Damage Type slashing; Category one-handed; Proficiency martial; Weapon Group axes; The handle of this axe is long enough that you can wield it one-handed or two-handed. The head may have one blade or two, with blade shapes ranging from half-moons to squared edges like narrower versions of woodcutting axes. The wooden haft may be protected and strengthened with metal bands called langets.",
+		"value": 10,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Combat scabbard",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Category light Proficiency martial Special improvised; This combat scabbard has a sharp blade on the outer edge, allowing you to use it as a weapon.",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Cutlass",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 18-20/x2 Type slashing Category one-handed Proficiency martial Weapon Group heavy blades; This short, curved sword is favored by seafarers for close-quarters combat. It is treated as a scimitar for any effects that apply to scimitars.",
+		"value": 15,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Flail, light",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type bludgeoning Category one-handed Proficiency martial Weapon Group flails Special disarm, trip; A light flail consists of a weighted striking end connected to a handle by a sturdy chain. Though often imagined as a ball, sometimes spiked like the head of a morningstar, the head of a light flail can actually take many different shapes, such as short bars. Military flails are sturdier evolutions of agricultural flails, which are used for threshing – beating stacks of grains to separate the useful grains from their husks.",
+		"value": 8,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Gandasa",
+		"description": "Damage 1d6 (small), 2d4 (medium) Critical x3 Type slashing Category one-handed Proficiency martial Weapon Group axes; A gandasa is a wide, single-edged dagger on a 2-foot handle and is wielded in combat like an axe. This weapon is also known as an elephant knife because the connection between the blade and the handle is often decorated to resemble a stylized elephant head.",
+		"value": 15,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Longsword",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type slashing Category one-handed Proficiency martial Weapon Group heavy blades; This sword is about 3½ feet in length. Eastern Version: Hwandudaedo This heavy sword consists of large straight blade with a thick back and wickedly sharpened edge. It is equivalent to a longsword.",
+		"value": 15,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Manople",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type piercing or slashing Category one-handed Proficiency martial Weapon Group light blades Special blocking, disarm; This rigid, fingerless gauntlet has three blades projecting from the gauntlet’s hand. The central blade is straight and double edged, while the side blades are curved like the prongs of a sai. You can’t use the hand on which a manople is worn for anything else. A manople takes a full-round action to don, and gives you a +10 bonus to your CMD against disarm attempts.",
+		"value": 17,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Pick, heavy",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x4 Type piercing Category one-handed Proficiency martial Weapon Group axes; This variant of the light pick has a longer handle and can be used with one or two hands. It is a common, inexpensive weapon for mounted soldiers since it can be used effectively from horseback.",
+		"value": 8,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Rapier",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 18–20/x2 Type piercing Category one-handed Proficiency martial Weapon Group light blades Special finesse; You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a rapier sized for you, even though it isn’t a light weapon. You can’t wield a rapier in two hands in order to apply 1-1/2 times your Strength bonus to damage.",
+		"value": 20,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Scabbard, combat (sharpened)",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type bludgeoning Category light Proficiency martial Special improvised; This combat scabbard has a sharp blade on the outer edge, allowing you to use it as a weapon.",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Scimitar",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical 18–20/x2 Type slashing Category one-handed Proficiency martial Weapon Group heavy blades; This curved sword is shorter than a longsword and longer than a shortsword. Only the outer edge is sharp, and the back is flat, giving the blade a triangular cross-section.",
+		"value": 15,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Scizore",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x2 Type piercing Category one-handed Proficiency martial Weapon Groups light blades, close; The scizore is a hardened tube that fits over the forearm, ending in a semicircular blade. The scizore grants a +1 shield bonus to AC, but if you attack with the blade, you lose the AC bonus that round and take a –1 penalty on attack rolls with the scizore. While wearing a scizore, you cannot use that hand for anything else. A scizore provides a +10 bonus to your CMD against being disarmed of your scizore. Donning a scizore is a full-round action.",
+		"value": 20,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Sword cane",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type piercing Category one-handed Proficiency martial Weapon Group light blades; This slender light blade lies within a wooden container that serves as both its scabbard and hiding place. You can draw the blade from the cane as a swift action (or a free action if you have the Quick Draw feat). An observer must make a DC 20 Perception check to realize an undrawn sword cane is a weapon rather than a walking stick; the DC decreases to 10 if the observer is able to handle the weapon. You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a sword cane sized for you, even though it isn’t a light weapon. You can’t wield a sword cane in two hands in order to apply 1-1/2 times your Strength modifier to damage.",
+		"value": 45,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Terbutje",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type slashing Category one-handed Proficiency martial Weapon Group heavy blades Special fragile; This Stone Age weapon, also called a macuahuitl, is made from a length of tempered wood. It has bits of shark teeth, obsidian, glass, or similar materials studded all along its length.",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Terbutje, steel",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type slashing Category one-handed Proficiency martial Weapon Group heavy blades",
+		"value": 20,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Trident",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type piercing Range Increment 10 ft. (thrown) Category one-handed Proficiency martial Weapon Groups spears, thrown Special brace; A trident has three metal prongs at the end of a 4-foot-long shaft. This weapon can be thrown.",
+		"value": 15,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Warhammer",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type bludgeoning Category one-handed Proficiency martial Weapon Group hammers; This weapon consists of a wooden haft and a heavy, metal head. The head may be single (like a carpenter’s hammer) or double (like a sledgehammer). The haft is long enough that you may wield it one- or two-handed. Though heavy and relatively slow to wield, warhammers are capable of delivering immense blows, crushing armor and flesh alike.",
+		"value": 12,
+		"weight": 5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "One-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Bardiche",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical 19-20/x2 Type slashing Category two-handed Proficiency martial Weapon Groups axes, polearms Special brace, reach; The crescent axe-blade of this polearm is attached to the haft at two points: the center of the blade attaches to a socket at the top of the haft, and the lower point of the blade attaches to a secondary mount point. The blade is often very long, sometimes almost as long as the haft.You gain a +2 bonus to your CMD to resist sunder attempts made against a bardiche.",
+		"value": 13,
+		"weight": 14,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Bec de corbin",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type bludgeoning or piercing Category two-handed Proficiency martial Weapon Group polearms Special brace, reach; The bec de corbin is a polearm very similar to the lucerne hammer, but the hammer head is slightly blunter and the spike is stouter and more hooked. You primarily attack with the spike. You gain a +2 bonus on combat maneuver checks to sunder medium or heavy armor with a bec de corbin.",
+		"value": 15,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Bill",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type slashing Category two-handed Proficiency martial Weapon Group polearms Special brace, disarm, reach; The blade of this polearm is a curved or hooked chopping blade with a spiked projection on the back of the blade. The spike is commonly used to block and parry. When fighting defensively or with total defense, this weapon gives you a +1 shield bonus to AC. A mounted opponent hit by a bill takes a –1 penalty on his Ride check to stay mounted.",
+		"value": 11,
+		"weight": 11,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Earth breaker",
+		"description": "Damage 1d10 (small), 2d6 (medium) Critical x3 Type bludgeoning Category two-handed Proficiency martial Weapon Group hammers; The crude metal of this massive hammer’s head ends in multiple blunt spikes that help concentrate the force of a powerful swing down into a smaller, more focused area, allowing it to smash through armor with greater ease. Due to the tremendous size and weight of its head, an earth breaker is poorly balanced, and requires two hands to properly lift and control.",
+		"value": 40,
+		"weight": 14,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO9226"
+	},
+	{
+		"name": "Falchion",
+		"description": "Damage 1d6 (small), 2d4 (medium) Critical 18–20/x2 Type slashing Category two-handed Proficiency martial Weapon Group heavy blades; This sword has one curved, sharp edge like a scimitar, with the back edge unsharpened and either flat or slightly curved. Its weight is greater toward the end, making it better for chopping rather than stabbing.",
+		"value": 75,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Flail, heavy",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical 19-20/x2 Type bludgeoning Category two-handed Proficiency martial Weapon Group flails Special disarm, trip; Similar to a light flail, a heavy flail has a larger metal ball and a longer handle.",
+		"value": 15,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Glaive",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type slashing Category two-handed Proficiency martial Weapon Group polearms Special reach; A glaive is composed of a simple blade mounted on the end of a pole about 7 feet in length.",
+		"value": 8,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Glaive-guisarme",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type slashing Category two-handed Proficiency martial Weapon Group polearms Special brace, reach; This polearm combines the blade of a glaive with a wicked hook. A mounted opponent hit by a glaive-guisarme takes a –2 penalty on her Ride check to stay mounted.",
+		"value": 12,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Greataxe",
+		"description": "Damage 1d10 (small), 1d12 (medium) Critical x3 Type slashing Category two-handed Proficiency martial Weapon Group axes; This two-handed battle axe is heavy enough that you can’t wield it with one hand. The head may have one blade or two, and may be “bearded” (meaning hooked or trailing at the bottom) to increase cleaving power and help pull down enemy shields. The haft is usually 3 to 4 feet long.",
+		"value": 20,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Greatclub",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x2 Type bludgeoning Category two-handed Proficiency martial Weapon Groups hammers, tribal; This larger, bulkier version of the common club is heavy enough that you can’t wield it with one hand. It may be ornate and carved, reinforced with metal, or a simple branch from a tree. Like simple clubs, greatclubs have many names, such as cudgels, bludgeons, shillelaghs, and more.",
+		"value": 5,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Greatsword",
+		"description": "Damage 1d10 (small), 2d6 (medium) Critical 19-20/x2 Type slashing Category two-handed Proficiency martial Weapon Group heavy blades; This immense two-handed sword is about 5 feet in length. A greatsword may have a dulled lower blade that can be gripped.",
+		"value": 50,
+		"weight": 8,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Halberd",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type piercing or slashing Category two-handed Proficiency martial Weapon Group polearms Special brace, trip; A halberd is similar to a 5-foot-long spear, but it also has a small, axe-like head mounted near the tip.",
+		"value": 10,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Guisarme",
+		"description": "Damage 1d6 (small), 2d4 (medium) Critical x3 Type slashing Category two-handed Proficiency martial Weapon Group polearms Special reach, trip; A guisarme is an 8-foot-long shaft with a blade and a hook mounted at the tip.",
+		"value": 9,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Hammer, lucerne",
+		"description": "Damage 1d10 (small), 1d12 (medium) Critical x2 Type bludgeoning or piercing Category two-handed Proficiency martial Weapon Group polearms Special brace, reach; This polearm has both a pronged hammer head for crushing blows and a spiked head for piercing and peeling armor. The long haft allows the wielder to put amazing force behind the head of this weapon. You gain a +2 bonus on combat maneuver checks to sunder medium or heavy armor with a lucerne hammer.",
+		"value": 15,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Horsechopper",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type piercing or slashing Category two-handed Proficiency martial Weapon Group polearms Special reach, trip; Crafted by goblins for battling horses, this weapon is essentially a long-handled halberd with an enlarged hook on the blade. Most horsechoppers are sized for Small creatures.",
+		"value": 10,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Lance",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Category two-handed Proficiency martial Weapon Group spears Special reach; A lance deals double damage when used from the back of a charging mount. While mounted, you can wield a lance with one hand.",
+		"value": 10,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Ogre hook",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x3 Type piercing Category two-handed Proficiency martial Weapon Group polearms Special trip; This large crook of sharpened metal makes it easy to trip and catch fleeing opponents. Invented by ogres, most ogre hooks are Large and crudely fashioned—often from metal torn from previous victims’ weapons and armor. Despite their poor workmanship, the rarity and peril involved in getting ogre hooks make such items quite valuable.",
+		"value": 24,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO9226"
+	},
+	{
+		"name": "Pickaxe",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x4 Type piercing Category two-handed Proficiency martial; A two-handed version of the heavy pick, the brutal pickaxe is equally effective at breaking up earth and stone as it is at sundering flesh and bone. Often a weapon of convenience for commoners, the pickaxe is also a favorite among brutes and thugs who value the intimidation factor afforded by the immense weapon.",
+		"value": 14,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PAP14"
+	},
+	{
+		"name": "Planson",
+		"description": "Damage 1d8 (small), 1d10 (medium) Critical x2 Type bludgeoning or piercing Category two-handed Proficiency martial Weapon Groups hammers, spears Special brace; This 5-foot tapered pole is bound in metal with a narrow metal spike projecting from the top. The planson can be used as a club or as a sturdy, if top-heavy, spear to stop a charge.",
+		"value": 10,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO9468"
+	},
+	{
+		"name": "Ranseur",
+		"description": "Damage 1d6 (small), 2d4 (medium) Critical x3 Type piercing Category two-handed Proficiency martial Weapon Group polearms Special disarm, reach; Similar in appearance to a trident, a ranseur has a single spear at its tip, f lanked by a pair of short, curving blades.",
+		"value": 10,
+		"weight": 12,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Scythe",
+		"description": "Damage 1d6 (small), 2d4 (medium) Critical x4 Type piercing or slashing Category two-handed Proficiency martial Weapon Group heavy blades Special trip; This weapon consists of a long wooden shaft with protruding handles and a sharp curved blade set at a right angle. Derived from a farm tool used to mow down crops, a scythe requires two hands to use, and is unwieldy but capable of inflicting grievous wounds. Its connotations as a symbol of death make it an intimidating weapon.",
+		"value": 18,
+		"weight": 10,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Spear, syringe",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Range Increment 20 ft. (thrown) Category two-handed Proficiency martial Weapon Group spears Special brace; A successful hit with the spear injects the liquid contents of the container (typically poison) into the target. Refilling a syringe spear takes 1 minute.",
+		"value": 100,
+		"weight": 6,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Two-Handed",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Ammentum",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type piercing Range Increment 50 ft. (projectile) Category ranged Proficiency martial Special performance; An amentum is a long leather thong that attaches to a standard javelin. Before throwing, the amentum is wound about the javelin’s shaft. You then throw the javelin while gripping the amentum, imparting spin on the weapon and greatly improving its range.Attaching an amentum to a javelin is a move action, and winding it is a full-round action. Javelins can be stored with amenta already wound about them. A javelin wound with an amentum is considered a martial weapon.",
+		"value": 0,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Chakram",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type slashing Range Increment 30 ft. (thrown) Category ranged Proficiency martial Weapon Groups light blades, thrown; The chakram is a simple, elegant, and highly portable thrown weapon. It is a flat, open-centered metal discus with a sharpened edge. You can wield the chakram as a melee weapon, but it is not designed for such use; you take a –1 penalty on your attack roll with the weapon and must succeed at a DC 15 Reflex save or cut yourself on the blade (half damage, no Strength modifier). You do not need to make this save if wearing heavy armor.",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Dart, jolting",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type piercing Range Increment 20 ft. (thrown) Category ranged Proficiency martial Weapon Group thrown; This alchemically grown crystal dart builds up an electrical charge when thrown. A creature struck by the dart takes normal piercing damage and 1d6 points of electricity damage. Anyone proficient in darts can use a jolting dart. Once thrown, the dart is destroyed.",
+		"value": 100,
+		"weight": 0.5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Thrown",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Hunga munga",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type piercing Range Increment 15 ft. (thrown) Category ranged Proficiency martial Weapon Groups light blades, thrown; Also called a mambele, danisco, goleyo, njiga, or any of many lesser-known names, this three-bladed dagger is intended for throwing but can be used as a melee weapon. Though the basic three-blade design is most common, hunga mungas can take a wide variety of forms.",
+		"value": 4,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Hurlbat",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x3 Type piercing and slashing Range Increment 10 ft. (thrown) Category ranged Proficiency martial; A hurlbat is a throwing axe made from a single piece of flat metal. Every extremity of the hurlbat is sharpened, including the point of the handle. You can wield the hurlbat as a melee weapon, but it’s not designed for such use; you take a –1 penalty on melee attack rolls with the weapon, and you must succeed at a DC 15 Reflex save when making melee attacks to avoid cutting yourself on an edge and taking 1 point of slashing damage. You don’t need to attempt this save while wearing heavy armor.",
+		"value": 8,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Longbow",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Range Increment 100 ft. (projectile) Category ranged Proficiency martial Weapon Group bows; At almost 5 feet in height, a longbow is made up of one solid piece of carefully curved wood. You need two hands to use a bow, regardless of its size. A longbow can’t be used while mounted. If you have a penalty for low Strength, apply it to damage rolls when you use a longbow. You can apply your Strength modifier to damage rolls when you use a composite longbow, but not a regular longbow. A longbow fires arrows. Eastern Version: Daikyu This long curved bow made of laminated bamboo or wood, and favored by many samurai, is equivalent to a longbow.",
+		"value": 75,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Longbow, composite",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Range Increment 110 ft. (projectile) Category ranged Proficiency martial Weapon Group bows; You need at least two hands to use a bow, regardless of its size. You can use a composite longbow while mounted. All composite bows are made with a particular Strength rating (that is, each requires a minimum Strength modifier to use with proficiency). If your Strength bonus is less than the strength rating of the composite bow, you can’t effectively use it, so you take a –2 penalty on attacks with it. The default composite longbow requires a Strength modifier of +0 or higher to use with proficiency. A composite longbow can be made with a high strength rating to take advantage of an above-average Strength score; this feature allows you to add your Strength bonus to damage, up to the maximum bonus indicated for the bow. Each point of Strength bonus granted by the bow adds 100 gp to its cost. If you have a penalty for low Strength, apply it to damage rolls when you use a composite longbow. For purposes of Weapon Proficiency and similar feats, a composite longbow is treated as if it were a longbow.",
+		"value": 100,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Pilum",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x2 Type piercing Range Increment 20 ft. (thrown) Category ranged Proficiency martial Weapon Groups spears, thrown; The tip of this heavy javelin is designed to break off and embed itself into a shield once it hits. Like ammunition, a thrown pilum that hits its target is destroyed. If you hit a shieldbearing opponent with a pilum, he loses the AC bonuses from that shield until he takes a standard action to pry the remnants of the pilum from his shield.",
+		"value": 5,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Shortbow",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x3 Type piercing Range Increment 60 ft. (projectile) Category ranged Proficiency martial Weapon Group bows; A shortbow is made up of one piece of wood, about 3 feet in length. You need two hands to use a bow, regardless of its size. You can use a shortbow while mounted. If you have a penalty for low Strength, apply it to damage rolls when you use a shortbow. If you have a bonus for high Strength, you can apply it to damage rolls when you use a composite shortbow, but not a regular shortbow. A shortbow fires arrows. Eastern Version: Hankyu This shorter bow is similar to the diakyu in form and construction and is equivalent to a shortbow.",
+		"value": 30,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Shortbow, composite",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical x3 Type piercing Range Increment 70 ft. (projectile) Category ranged Proficiency martial Weapon Group bows; You need at least two hands to use a bow, regardless of its size. You can use a composite shortbow while mounted. All composite bows are made with a particular Strength rating (that is, each requires a minimum Strength modifier to use with proficiency). If your Strength bonus is lower than the strength rating of the composite bow, you can’t effectively use it, so you take a –2 penalty on attacks with it. The default composite shortbow requires a Strength modifier of +0 or higher to use with proficiency. A composite shortbow can be made with a high strength rating to take advantage of an above-average Strength score; this feature allows you to add your Strength bonus to damage, up to the maximum bonus indicated for the bow. Each point of Strength bonus granted by the bow adds 75 gp to its cost. If you have a penalty for low Strength, apply it to damage rolls when you use a composite shortbow. For purposes of Weapon Proficiency, Weapon Focus, and similar feats, a composite shortbow is treated as if it were a shortbow.",
+		"value": 75,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Spear-sling",
+		"description": "Damage 1d6 (small), 1d8 (medium) Critical x3 Type piercing Range Increment see text (projectile) Category ranged Proficiency martial; A spear-sling consists of a hollow tube with a loop of elastic material, such as rubber or sinew, attached to one end. The wielder draws a harpoon, javelin, shortspear, or spear through the tube, pulling the loop taut. Releasing the loop propels the shaft forward like a bow does an arrow. A harpoon, javelin, shortspear, spear, or other weapon shot from a spear-sling is treated as a projectile weapon instead of a thrown weapon, increasing its maximum range and allowing it to be used underwater. Using a spear-sling requires two hands. Loading a spear-sling is a standard action (a move action if the wielder has the Rapid Reload feat) that provokes attacks of opportunity. A spear-sling is made with a particular strength rating, like a composite longbow. Each point of Strength bonus granted by the sling’s strength rating adds 50 gp to its cost. If you have a negative Strength modifier, apply it to damage rolls when you use a spear-sling.",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Throwing arrow cord",
+		"description": "Damage 1d3 (small), 1d4 (medium) Critical x2 Type piercing Range Increment 60 ft. (projectile) Category ranged Proficiency martial; This simple fiber or leather cord has a knot at either end. One end is wound once around the notch of a throwing arrow. The cord runs taut along the shaft to the front of the arrow, where you hold the arrow to throw. The remainder of the cord wraps around your hand. The cord dramatically increases the throwing arrow’s range. Attaching the cord to a throwing arrow is a move action that requires two hands and provokes attacks of opportunity. The Rapid Reload feat can be taken for throwing arrow cords, allowing you to load a throwing arrow as a free action.",
+		"value": 0,
+		"weight": 0,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Martial",
+		"categoryThree": "Ranged",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Arrows, common (20)",
+		"description": "A standard (common) arrow used as a melee weapon is treated as a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (critical multiplier ×2). Unless indicated otherwise, arrows come in a leather quiver that holds 20 arrows.",
+		"value": 1,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Arrows, barbed (20)",
+		"description": "The head of a barbed arrow resembles that of a harpoon.Benefit(s) When a barbed arrow is attached to a length of silk rope and fired from a bow, the arrow’s range increment is reduced to 30 feet, but it gains the grapple special weapon quality. Barbed bolts exist for crossbows.",
+		"value": 2,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Bolts, barbed (20)",
+		"description": "The head of a barbed arrow resembles that of a harpoon.Benefit(s) When a barbed arrow is attached to a length of silk rope and fired from a bow, the arrow’s range increment is reduced to 30 feet, but it gains the grapple special weapon quality. Barbed bolts exist for crossbows.",
+		"value": 2,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Bolt",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Arrow, bleeding (1)",
+		"description": "Benefit: A bleeding arrow deals normal damage when it hits a creature. Each round thereafter, the creature bleeds for 1 point of damage until the bleeding is stopped by a DC 10 Heal check or the application of a cure spell or some other healing magic. A critical hit does not multiply the bleed damage. Creatures immune to critical hits (such as plants and constructs) are immune to the bleed damage dealt by this weapon.",
+		"value": 360,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:Elves"
+	},
+	{
+		"name": "Arrows, blunt (20)",
+		"description": "Benefit: Blunt Arrows deal bludgeoning damage rather than piercing damage. An archer can use a blunt arrow to deal nonlethal damage (at the normal –4 attack penalty for using a lethal weapon to deal nonlethal damage).",
+		"value": 2,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Arrow, distance (iron-tipped) (20)",
+		"description": "Used tactically for long-range attacks on troops, these arrows are fitted with heavy iron heads. While these heads help them travel great distances, they make the arrows less effective at dealing damage. Benefit: Iron-tipped distance arrows increase their bow’s range increment by 10 feet but take a –1 penalty on damage dealt per range increment (minimum 1 point of damage). They are sold in leather quivers in quantities of 20.",
+		"value": 1,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PRG:UC"
+	},
+	{
+		"name": "Arrow, durable (1)",
+		"description": "Benefit: Durable arrows don’t break due to normal use, whether or not they hit their target; unless the arrow goes missing, an archer can retrieve and reuse a durable arrow again and again. Durable arrows can be broken in other ways (such as deliberate snapping, hitting a fire elemental, and so on). Drawback: If crafted with magic (such as bane), the magic only lasts for one use of the arrow, but the nonmagical arrow can still be reused or imbued with magic again.",
+		"value": 1,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:Elves"
+	},
+	{
+		"name": "Arrow, dye (1)",
+		"description": "Benefit: Firing a dye arrow is a ranged touch attack; a creature struck by a dye arrow takes no damage but is splashed with black, blue, green, or red marker dye (see Pathfinder Chronicles Campaign Setting 213) sufficient to coat about 1 square foot.",
+		"value": 1,
+		"weight": 4,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:Elves"
+	},
+	{
+		"name": "Arrows, flight (20)",
+		"description": "Benefit: A flight arrows range increment is 20 feet greater with longbows, 10 feet greater with shortbows. Drawback: Flight arrows deal damage as if one size category smaller.",
+		"value": 2,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Arrows, incendiary (20)",
+		"description": "A metal cage behind this arrow’s point contains flammable material. Benefit(s) You take a –1 penalty on attack rolls when firing incendiary arrows. You can light up to six incendiary arrows as a full-round action (a standard action if you use a tindertwig) that provokes attacks of opportunity. Once lit, the arrow burns for 2 rounds. A lit incendiary arrow deals an additional 1 point of fire damage. On a critical hit, the target must succeed at a DC 15 Reflex save or catch fire. Incendiary bolts exist for crossbows.",
+		"value": 10,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Bolts, incendiary (20)",
+		"description": "A metal cage behind this arrow’s point contains flammable material. Benefit(s) You take a –1 penalty on attack rolls when firing incendiary arrows. You can light up to six incendiary arrows as a full-round action (a standard action if you use a tindertwig) that provokes attacks of opportunity. Once lit, the arrow burns for 2 rounds. A lit incendiary arrow deals an additional 1 point of fire damage. On a critical hit, the target must succeed at a DC 15 Reflex save or catch fire. Incendiary bolts exist for crossbows.",
+		"value": 10,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Bolt",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Arrow, lodestone (1)",
+		"description": "Action: Pulling the string to break the seal and activate the reaction in the arrowhead is a move action. Benefit: You gain a +4 bonus on attack rolls when firing a lodestone arrow at a target wearing a significant amount of metal armor (at least chain mail or a metal shield) or made of metal. The increased magnetism fades 1 round after you activate it, after which time it is a normal arrow. Special: In areas with a lot of magnetic metal, the attack bonus may drop to 0 or even become a penalty as competing sources steer the arrow away from your intended target. Drawback: The magnetized arrow only deals half damage.",
+		"value": 10,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:Elves"
+	},
+	{
+		"name": "Arrow, pheromone (1)",
+		"description": "Benefit: Any creature with the scent ability gains a +2 bonus on attack and damage rolls made against a target marked with a pheromone arrow. This effect lasts for 1 hour or until the target spends 1 minute washing.",
+		"value": 15,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:Elves"
+	},
+	{
+		"name": "Arrows, pronged (20)",
+		"description": "Rather than narrowing to a single point, a pronged arrow has a wide face with two points resembling a crescent or V-shape. Benefit(s) Originally used for hunting game, a pronged arrow deals damage as if one size category smaller, but you gain a +1 bonus on attack rolls against creatures or objects one or more size categories smaller than you.",
+		"value": 2,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Bolts, pronged (20)",
+		"description": "Rather than narrowing to a single point, a pronged bolt has a wide face with two points resembling a crescent or V-shape. Benefit(s) Originally used for hunting game, a pronged bolt deals damage as if one size category smaller, but you gain a +1 bonus on attack rolls against creatures or objects one or more size categories smaller than you.",
+		"value": 2,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Bolt",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Arrow, raining (1)",
+		"description": "Benefit: The reservoir of holy water is designed to burst on impact, hitting the target and splashing nearby creatures as if you had thrown the vial. Drawback: A raining arrow has a –2 penalty on attack rolls due to its weight.",
+		"value": 30,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:Elves"
+	},
+	{
+		"name": "Arrow, slow burn (1)",
+		"description": "Benefit: On your turn, 1 round after impact, the burst of flame deals 1d6 points of fire damage to the target. Drawback: The extra weight of this arrowhead gives you a –1 penalty on attack rolls with the arrow.",
+		"value": 150,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:Elves"
+	},
+	{
+		"name": "Arrow, smoke (1)",
+		"description": "A smoke arrow trails smoke as it flies, and creates a 5-foot cube of smoke where it strikes. It otherwise functions like a normal arrow in terms of damage, range, and so on.",
+		"value": 10,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Arrow, splintercloud (1)",
+		"description": "Benefit: When fired, the numerous bone fragments tear themselves apart, forming a 5-foot burst of razor-sharp bones that deals 1d3 points of piercing damage (Reflex DC 18 negates).",
+		"value": 25,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:Elves"
+	},
+	{
+		"name": "Arrow, tanglefoot (1)",
+		"description": "Benefit: You fire a tangleshot arrow as a ranged touch attack; the arrow deals no damage when it hits, but the target is splashed with the alchemical adhesive. The reduced amount of the glue means this arrow is less effective than an actual tanglefoot bag (DC 10 Reflex save, DC 12 Strength check to break, 10 points of slashing damage to cut through, DC 10 Concentration check). Drawback: The weight of a tangleshot arrow reduces its range increment to half normal.",
+		"value": 20,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:Elves"
+	},
+	{
+		"name": "Arrow, thistle (1)",
+		"description": "These arrows are a specialty of the Ekujae shamans, who craft the arrowheads out of the thistles of a toxic plant that most creatures find highly caustic. They deal normal damage but then become embedded in the wound and deal an additional 1 point of damage each round for 1d6 rounds from their irritating sap. Creatures immune to poison are immune to this extra damage. A creature can remove an embedded thistle arrow as a move action without provoking attacks of opportunity, but doing so deals an additional 1d3 points of damage as the thorny barbs are pulled free. A DC 12 Heal check (made as a standard action) can pull free a thistle arrow’s head without dealing any additional damage. A single thistle arrow costs 1 gp.Benefit: Crafted from the thistles of a poisonous plant, these barbed arrows deal damage as a bleed effect for 1d6 rounds after a hit.",
+		"value": 1,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Arrow, throwing (1)",
+		"description": "Too long to use in a bow, the throwing arrow has no nock at the tail. Instead, it has a notch ahead of the fletching where a throwing arrow cord can be attached. Benefit(s) If thrown without the use of a cord, treat a throwing arrow as a dart.",
+		"value": 5,
+		"weight": 0.5,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:RTT"
+	},
+	{
+		"name": "Arrows, whistling (20)",
+		"description": "hese arrows come with specially designed grooves and fletching that cause them to emit a loud keening sound. Benefit: The sound is audible within 500 feet of the flight path. They are sold in quantities of 20.",
+		"value": 2,
+		"weight": 3,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PZO1118"
+	},
+	{
+		"name": "Arrow, trip (1)",
+		"description": "Benefit: If the arrow hits, it makes a trip attack against the target with a CMB of +5; the target falls prone if it fails its check, but if it succeeds it cannot attempt to trip you in return.",
+		"value": 25,
+		"weight": 0.15,
+		"categoryOne": "Weapon",
+		"categoryTwo": "Ammunition",
+		"categoryThree": "Arrow",
+		"source": "PPC:Elves"
+	}
+]
