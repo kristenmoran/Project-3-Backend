@@ -22,12 +22,11 @@ const ItemSchema = new mongoose.Schema(
 		categoryOne: {
 			type: String,
 			required: true,
-			unique: true,
 		},
 		categoryTwo: String,
 		categoryThree: String,
-        categoryFour: String,
-        categoryMagical: String,
+		categoryFour: String,
+		categoryMagical: String,
 		image: String,
 		source: String,
 		owner: {
