@@ -230,16 +230,6 @@
 		"source": "PCS"
 	},
 	{
-		"name": "War-shield, dwarven",
-		"description": "Damage 1d4 (small), 1d6 (medium) Critical ×2 Type piercing or slashing Category light Proficiency exotic Weapon Group close; This shield’s sides are cut into jagged angles and honed to razor sharpness. Dwarven skirmishers often wield these shields in pairs, savagely hacking opponents to pieces, while some dwarven scoundrels enjoy the shields’ imposing appearance and ease of use. If you have the Two-Weapon Fighting feat and are wielding two dwarven war-shields, increase the higher of the two shield bonuses by 1. You lose this benefit for 1 round when you make a shield bash with one or both dwarven war-shields (unless you have the Improved Shield Bash feat or a similar benefit). A hand holding a dwarven war-shield can’t be used for anything else. A dwarven war-shield gains no benefit from shield spikes.",
-		"value": 50,
-		"weight": 8,
-		"categoryOne": "Weapon",
-		"categoryTwo": "Exotic",
-		"categoryThree": "Light",
-		"source": "PPZO94102"
-	},
-	{
 		"name": "Waveblade",
 		"description": "Damage 1d4 (small), 1d6 (medium) Critical 18–20/×2 Type piercing or slashing Category light Proficiency exotic Weapon Group close, monk Special monk; Also known as a “scorpion’s tail” due to its unique, stinger-like shape, this short, double-curved blade has no hilt but features a knuckle guard. You gain a +2 bonus to your CMD against disarm attempts made to disarm you of a waveblade.",
 		"value": 5,
@@ -378,16 +368,6 @@
 		"categoryTwo": "Exotic",
 		"categoryThree": "One-Handed",
 		"source": "PPZO9410"
-	},
-	{
-		"name": "Sabre, sawtooth",
-		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type slashing Category light Proficiency exotic Weapon Groups heavy blades, light blades; A sawtooth sabre may be used as a Martial Weapon (in which case it functions identically to a longsword). If you have the Exotic Weapon Proficiency (sawtooth sabre) feat, for the purpose of two-weapon fighting you can treat it as a light melee weapon; for all other purposes, it is a one-handed melee weapon. Note: Adventurer’s Armory 1 (2010) has the weapon listed as a light weapon for all purposes if you possess the Exotic Weapon Proficiency (sawtooth sabre) feat.",
-		"value": 35,
-		"weight": 2,
-		"categoryOne": "Weapon",
-		"categoryTwo": "Exotic",
-		"categoryThree": "One-Handed",
-		"source": "PZO9226"
 	},
 	{
 		"name": "Shotel",
@@ -1074,16 +1054,6 @@
 		"description": "Damage — (small), — (medium) Critical — Type piercing Range Increment 20 ft. (projectile) Category ranged Proficiency exotic; This slender tube is strapped to one forearm and designed to be concealed beneath the sleeve, where the wielder can fire a featherweight dart with a twist of the wrist. The launcher functions by means of a tightly compressed spring, and must be reloaded and re-cocked with a separate ramrod as a full-round action. After firing, the wearer can attempt a Sleight of Hand check opposed by opponents’ Perception checks to keep the wrist launcher concealed. If you are proficient with hand crossbows, you are also proficient with wrist launchers.",
 		"value": 200,
 		"weight": 1,
-		"categoryOne": "Weapon",
-		"categoryTwo": "Exotic",
-		"categoryThree": "Ranged",
-		"source": "PZO1134"
-	},
-	{
-		"name": "Wrist launcher, heavy",
-		"description": "Damage 1d3 (small), 1d4 (medium) Critical 19–20/x2 Type piercing Range Increment 30 ft. (projectile) Category ranged Proficiency exotic; A larger version of the wrist launcher, this device fires a single crossbow bolt instead of a featherweight dart. If you are proficient with hand crossbows, you are also proficient with heavy wrist launchers. ",
-		"value": 250,
-		"weight": 2,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Exotic",
 		"categoryThree": "Ranged",

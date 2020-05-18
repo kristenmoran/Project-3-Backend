@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 const mongoURI =
 	process.env.NODE_ENV === 'production'
 		? process.env.DB_URL
-		: 'mongodb://localhost/items';
+		: 'mongodb://localhost/shop';
 
 // Use Mongoose's connect method to connect to MongoDB by passing it the db URI.
 // Pass a second argument which is an object storing the options for the connection.

@@ -321,16 +321,6 @@
 		"source": "PZO9468"
 	},
 	{
-		"name": "Klar",
-		"description": "Damage 1d4 (small), 1d6 (medium) Critical x2 Type slashing Category one-handed Proficiency martial Weapon Groups heavy blades, close; A traditional klar counts as a light wooden shield with armor spikes. A metal klar counts as a light steel shield with armor spikes.",
-		"value": 12,
-		"weight": 6,
-		"categoryOne": "Weapon",
-		"categoryTwo": "Martial",
-		"categoryThree": "One-Handed",
-		"source": "PZO9226"
-	},
-	{
 		"name": "Longsword",
 		"description": "Damage 1d6 (small), 1d8 (medium) Critical 19-20/x2 Type slashing Category one-handed Proficiency martial Weapon Group heavy blades; This sword is about 3½ feet in length. Eastern Version: Hwandudaedo This heavy sword consists of large straight blade with a thick back and wickedly sharpened edge. It is equivalent to a longsword.",
 		"value": 15,
@@ -1022,7 +1012,7 @@
 	},
 	{
 		"name": "Arrow, trip (1)",
-		"deArrow, trip (1)scription": "Benefit: If the arrow hits, it makes a trip attack against the target with a CMB of +5; the target falls prone if it fails its check, but if it succeeds it cannot attempt to trip you in return.",
+		"description": "Benefit: If the arrow hits, it makes a trip attack against the target with a CMB of +5; the target falls prone if it fails its check, but if it succeeds it cannot attempt to trip you in return.",
 		"value": 25,
 		"weight": 0.15,
 		"categoryOne": "Weapon",

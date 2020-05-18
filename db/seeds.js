@@ -1,4 +1,3 @@
-
 const Item = require('../models/Items');
 // Seed Data
 const adventuringGear = require('./adventuring_gear.json');
@@ -11,10 +10,6 @@ const foodDrink = require('./food_drink.json');
 const weaponMartial = require('./weapon_martial.json');
 const weaponSimple = require('./weapon_simple.json');
 const weaponExotic = require('./weapon_exotic.json');
-
-
-
-
 
 Item.deleteMany()
 

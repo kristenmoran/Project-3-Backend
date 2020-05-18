@@ -4,7 +4,7 @@
 		"description": "A Reagents test ",
 		"value": 0.02,
 		"weight": 1,
-		"categoryOne": "Alchemical  Items",
+		"categoryOne": "Alchemical Items",
 		"categoryTwo": "Reagents",
 		"categoryThree": "",
 		"source": "PZO1123"
@@ -13,7 +13,7 @@
         "description": "A Oils and Flammables test ",
         "value": 0.02,
         "weight": 1,
-        "categoryOne": "Alchemical  Items",
+        "categoryOne": "Alchemical Items",
         "categoryTwo": "Oils and Flammables",
         "categoryThree": "",
         "source": "PZO1123"
@@ -22,8 +22,8 @@
         "description": "A Tools, Devices and Kits ",
         "value": 0.02,
         "weight": 1,
-        "categoryOne": "Alchemical  Items",
-        "categoryTwo": "Tools, Devices and Kits",
+        "categoryOne": "Alchemical Items",
+        "categoryTwo": "Tools and Devices",
         "categoryThree": "",
         "source": "PZO1123"
     },{
@@ -31,7 +31,7 @@
         "description": "A Misc. Substances ",
         "value": 0.02,
         "weight": 1,
-        "categoryOne": "Alchemical  Items",
+        "categoryOne": "Alchemical Items",
         "categoryTwo": "Misc. Substances",
         "categoryThree": "",
         "source": "PZO1123"
@@ -40,7 +40,7 @@
         "description": "A Balms, Medicines and Tonics test ",
         "value": 0.02,
         "weight": 1,
-        "categoryOne": "Alchemical  Items",
+        "categoryOne": "Alchemical Items",
         "categoryTwo": "Balms, Medicines and Tonics",
         "categoryThree": "",
         "source": "PZO1123"
@@ -49,7 +49,7 @@
         "description": "A Hunting Aids test ",
         "value": 0.02,
         "weight": 1,
-        "categoryOne": "Alchemical  Items",
+        "categoryOne": "Alchemical Items",
         "categoryTwo": "Hunting Aids",
         "categoryThree": "",
         "source": "PZO1123"
@@ -58,7 +58,7 @@
         "description": "A Herbs and Plants ",
         "value": 0.02,
         "weight": 1,
-        "categoryOne": "Alchemical  Items",
+        "categoryOne": "Alchemical Items",
         "categoryTwo": "Herbs and Plants",
         "categoryThree": "",
         "source": "PZO1123"
@@ -67,7 +67,7 @@
         "description": "A Special Equipment ",
         "value": 0.02,
         "weight": 1,
-        "categoryOne": "Alchemical  Items",
+        "categoryOne": "Alchemical Items",
         "categoryTwo": "Special Equipment",
         "categoryThree": "",
         "source": "PZO1123"
