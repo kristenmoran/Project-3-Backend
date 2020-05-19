@@ -1,28 +1,528 @@
 [
 	{
-		"name": "Outfits test",
-		"description": "A Outfits test ",
-		"value": 0.02,
-		"weight": 1,
+		"name": "Chausses",
+		"description": "These padded woolen leggings are quilted to provide extra warmth and protection. They are frequently worn under mail or plate armor.",
+		"value": 1,
+		"weight": 3,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Corset",
+		"description": "Sewn-in boning and laces allow this bodice to adjust your waist size in a way considered alluring by some cultures. The restrictive nature of this garment makes it a poor choice for combat or other athletic exertions, but you can easily conceal a thin knife in the corset’s boning. The price varies greatly depending on the corset’s quality; the cheapest corsets are made of simple cloth and cost mere silver pieces, while the most expensive feature silk brocade and are decorated with pearls or other costly adornments.",
+		"value": 0.1,
+		"weight": 3,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Dancer’s Garb",
+		"description": "This combination of loose-fitting sashes, veils, and ornamentation accentuates a dancer’s form and movements. Dancer’s garb provides a +2 circumstance bonus on Perform (dance) checks, similar to that provided by masterwork instruments for other Perform skills, but does not grant this benefit when worn with armor or other concealing clothing.",
+		"value": 100,
+		"weight": 5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Dancer’s Garb, Silver",
+		"description": "In addition to granting the same bonus on Perform (dance) checks as regular dancer’s garb, silver dancer’s garb is considered a silver instrument for silver balladeer bards. Silver dancer’s garb can be made of sunsilver (see below); sunsilver dancer’s garb costs an additional 3,000 gp and grants the same benefits as armor made of sunsilver. As with the bonus on Perform (dance) checks, this benefit functions only when no other armor or concealing clothing is worn.",
+		"value": 200,
+		"weight": 5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Gambeson",
+		"description": "This padded cloth jacket is often worn alone or with mail or plate armor and is favored by hunters, guards, and soldiers. A gambeson fitted with leather loops to more easily attach armor is called an arming doublet. Although sufficient to protect you against casual scrapes, it is not as thick as padded armor.",
+		"value": 1,
+		"weight": 4,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Outfit, Artisan’s",
+		"description": "This outfit includes a shirt with buttons, a skirt or pants with a drawstring, shoes, and perhaps a cap or hat. It may also include a belt or a leather or cloth apron for carrying tools.",
+		"value": 1,
+		"weight": 4,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Outfit, Burglar’s",
+		"description": "This outfit consists of fitted pants, a shirt, a hooded reversible cloak, soft leather boots, and a face mask, all in dark or neutral colors. The outfit’s few buttons and rivets are wrapped in dull, dark cloth to avoid jingling or reflecting light. A number of loops and shallow pockets are also worked into the outfit, providing ample spaces for stashing small tools or weapons.",
+		"value": 5,
+		"weight": 5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Outfit, Cold-Weather",
+		"description": "This outfit includes a wool coat, linen shirt, wool cap, heavy cloak, thick pants or skirt, and boots. This outfit grants a +5 circumstance bonus on Fortitude saving throws against exposure to cold weather.",
+		"value": 8,
+		"weight": 7,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Outfit, cold-weather (animal companion)",
+		"description": "This vestment works just like a cold-weather outfit, granting a +5 circumstance bonus on Fortitude saving throws against exposure to cold weather, except it is custom made for an animal companion. The added cost represents custom tailoring to ensure that the furs used don’t cause unwanted reactions from the animal wearing the outfit.",
+		"value": 15,
+		"weight": 6,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Outfit, Courtesan’s",
+		"description": "This outfit includes fine silk or satin garments tailored to complement your figure. In addition, the outfit contains a loose shawl or robe with several discreet pockets for items such as perfume, massage oils, or even a small dagger.",
+		"value": 8,
+		"weight": 4,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Outfit, Courtier’s",
+		"description": "This outfit includes fancy, tailored clothes in whatever fashion happens to be the current style in the courts of the nobles. Anyone trying to influence nobles or courtiers while wearing street dress will have a hard time of it (–2 penalty on Charisma-based skill checks to influence such individuals). If you wear this outfit without jewelry (costing an additional 50 gp), you look like an out-of-place commoner. As this outfit does not cost 10 gp or less, player characters can not choose this outfit for free when first beginning play.",
+		"value": 30,
+		"weight": 6,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Outfit, Dilettante’s",
+		"description": "These clothes are favored by gnome inventors and wanderers, and consist of sturdy boots, a pair of stout linen pants or skirt, a cloth shirt, leather gloves, a hat and cloak, and numerous belts, straps, and accessories (such as scarves, a vest, bits of rope or twine, and bandoleers). These items are generally mismatched, each having been selected as “superior” from some other set of clothing, and are rife with pockets and small hidey-holes. It the wearer a +2 circumstance bonus on Sleight of Hand checks made to conceal a small object on her body. As this outfit does not cost 10 gp or less, player characters can not choose this outfit for free when first beginning play.",
+		"value": 20,
+		"weight": 8,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Outfit, Doctor’s",
+		"description": "Any creature wearing this outfit gains a +2 circumstance bonus on Fortitude saves made to resist contact diseases. As this outfit does not cost 10 gp or less, player characters can not choose this outfit for free when first beginning play.",
+		"value": 150,
+		"weight": 6,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Outfit, Entertainer’s",
+		"description": "This set of flashy—perhaps even gaudy—clothes is for entertaining. While the outfit looks whimsical, its practical design lets you tumble, dance, walk a tightrope, or just run (if the audience turns ugly).",
+		"value": 3,
+		"weight": 4,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Outfit, Executioner’s",
+		"description": "Typically worn by jailers or executioners, this outfit includes a black woolen shirt, a tunic, pants, a belt, sturdy boots, a balaclava or hood, and a great cloak. This outfit is generally too intimidating and macabre to be worn in polite company. Some executioner’s outfits prominently bear the symbol of the government or law-enforcing institution the wearer serves, while others are left ragged and stained to appear all the more threatening.",
+		"value": 5,
+		"weight": 8,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Outfit, Explorer’s",
+		"description": "This set of clothes is for someone who never knows what to expect. It includes sturdy boots, leather breeches or a skirt, a belt, a shirt (perhaps with a vest or jacket), gloves, and a cloak. Rather than a leather skirt, a leather overtunic may be worn over a cloth skirt. The clothes have plenty of pockets (especially the cloak). The outfit also includes any extra accessories you might need, such as a scarf or a wide-brimmed hat.",
+		"value": 10,
+		"weight": 8,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Outfit, Flame-Retardant",
+		"description": "Constructed to resist the effects of hot environments (such as forest fires and areas of volcanic activity), this set of overlapping, heavy leather clothing includes a pair of fire-resistant boots. The outfit grants fire resistance 1, but exposure to fire damage ruins the outfit after 20 rounds.",
+		"value": 50,
+		"weight": 10,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Outfit, Hot Weather",
+		"description": "Covering your body from head to foot in light, airy cloth keeps you cooler than baring your skin to the sun. This outfit typically consists of a loose linen robe and either a turban or loose head covering and veil. The outfit provides a +2 bonus on Fortitude saves to resist warm or hot weather. This does not stack with any bonuses gained from the Survival skill.",
+		"value": 8,
+		"weight": 4,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Outfit, Monk’s",
+		"description": "This simple outfit includes sandals, loose breeches, and a loose shirt, and is bound together with sashes. The outfit is designed to give you maximum mobility, and it’s made of high-quality fabric. You can conceal small weapons in pockets hidden in the folds, and the sashes are strong enough to serve as short ropes.",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Outfit, Noble’s",
+		"description": "These clothes are designed specifically to be expensive and gaudy. Precious metals and gems are worked into the clothing. A would-be noble also needs a signet ring and jewelry (worth at least 100 gp) to accessorize this outfit. As this outfit does not cost 10 gp or less, player characters can not choose this outfit for free when first beginning play.",
+		"value": 75,
+		"weight": 10,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Outfit, Peasant’s",
+		"description": "This set of clothes consists of a loose shirt and baggy breeches, or a loose shirt and skirt or overdress. Cloth wrappings are used for shoes.",
+		"value": 0.1,
+		"weight": 2,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Outfit, Pickpocket’s",
+		"description": "Outfitted with concealed pockets, this clothing gives you a +2 bonus on hiding small objects on your person.",
+		"value": 5,
+		"weight": 3,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Outfit, Royal",
+		"description": "This is just the clothing, not the royal scepter, crown, ring, and other accoutrements. Royal clothes are ostentatious, with gems, gold, silk, and fur in abundance. As this outfit does not cost 10 gp or less, player characters can not choose this outfit for free when first beginning play.",
+		"value": 200,
+		"weight": 15,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Outfit, Scholar’s",
+		"description": "Perfect for a scholar, this outfit includes a robe, a belt, a cap, soft shoes, and possibly a cloak.",
+		"value": 5,
+		"weight": 6,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Outfit, Squire’s",
+		"description": "This outfit includes heavy woolen pants, a tunic, leather boots, a belt, sturdy gloves, a cap, and a heavy tabard bearing the colors or sigil of a noble house or organization. Many organizations provide new squires this outfit for free, with the expectation they wear it during their duties.",
+		"value": 5,
+		"weight": 8,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Outfit, Sun Sensitivity",
+		"description": "Dhampirs and other races sensitive to glaring light know a unique hell when traveling under the sun’s vicious rays. To protect against the painful light, members of these races often shield themselves with some combination of heavy cloaks, gloves, tinted glasses, screening salves, and—most importantly—wide-brimmed hats. A sun sensitivity outfit prevents creatures with light sensitivity from being dazzled when walking, traveling, or otherwise performing simple acts in areas of bright natural light. Acclimating to the light still requires a moment of adjustment, so even when wearing this outfit, creatures with light sensitivity are dazzled for 1 minute after entering an area of bright sunlight. Violent activity such as combat (or any other act that might jostle the wearer’s hat) also counters the outfit’s effectiveness, causing the wearer to be subject to light sensitivity as normal. A sun sensitivity outfit offers no protection against magical light, such as the spell daylight.",
+		"value": 300,
+		"weight": 5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PRG:TWoVHD"
+	},
+	{
+		"name": "Outfit, Traveler’s",
+		"description": "This set of clothes consists of boots, a wool skirt or breeches, a sturdy belt, a shirt (perhaps with a vest or jacket), and an ample cloak with a hood.",
+		"value": 1,
+		"weight": 5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Shinobi shozoku",
+		"description": "Shinobi shozoku ",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Silk kimono",
+		"description": "Silk kimono ",
+		"value": 200,
+		"weight": 5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Soldier’s uniform",
+		"description": "The exact details of this item varies from country to country, but typically includes sturdy boots, leather breeches or a kilt, a belt, a shirt, gloves, a cloak or jacket, and a hat. The belt includes several loops or rings for tying pouches, a waterskin, a scabbard, and similar things a traveling soldier requires.",
+		"value": 1,
+		"weight": 5,
 		"categoryOne": "Clothing",
 		"categoryTwo": "Outfits",
 		"categoryThree": "",
 		"source": "PZO1123"
 	},
 	{
-		"name": "Footwear test",
-		"description": "A Footwear test ",
-		"value": 0.02,
+		"name": "Sparring gear",
+		"description": "This array of thick, heavily lined pads, including a quilted helmet, rigid shin guards, and a wraparound rib guard, protects you during hand-to-hand training. Sparring gear cannot be worn with armor, but grants DR 2/— against nonlethal damage. Fighting schools often customize their sparring gear to feature prestigious colors or symbols.",
+		"value": 35,
+		"weight": 15,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Suit, diving",
+		"description": "This one-piece suit of clothing reduces one’s drag in the water, making swimming easier. It provides a +1 circumstance bonus on Swim checks. The suit only grants this bonus if it is the outermost garment, and has no effect if worn over bulky clothes or armor or with cumbersome gear (such as a backpack, large weapons, and so on). Damage to the suit (such as from several rounds of combat against slashing and piercing attacks) negates the suit’s bonus until it is repaired.",
+		"value": 10,
+		"weight": 2,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Swarmsuit",
+		"description": "These heavy and overlapping layers of clothing, coupled with a wide hat outfitted with a dense, veil-like netting around its brim makes it all but impossible for Diminutive and Fine creatures to make physical contact with your body. Wearing a swarmsuit cuts your speed in half, but gives you DR 10/— against swarms of Fine creatures and DR 5/— against swarms of Diminutive creatures.",
+		"value": 20,
+		"weight": 10,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Tear-Away Clothing",
+		"description": "Sneaks and thieves throughout Golarion know the value of a good disguise. The ability to remove that disguise in a hurry, thus revealing the next layer of disguise, is nearly as valuable. Tear-away clothing is generally loose fitting and long to allow another layer of clothing to be worn underneath. The seams and catches on this clothing are designed to break easily, making it a simple matter (a standard action) to remove these items and walk away with none the wiser.",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Outfits",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Boots, stiletto",
+		"description": "The most ostentatious and impractical of footwear, the tall heel attached to these boots adds several inches to your height. This type of boot is popular among nobles, though the trend has recently caught on among some members of noble courts. You can use the heel of a stiletto boot as an improvised weapon, dealing damage as a punching dagger",
+		"value": 10,
 		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Footwear",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Boots, fire-resistant",
+		"description": "These heavy leather boots contain a layer of brick dust that protects your feet from heat. You gain fire resistance 2 against fire attacks directed at or under your feet, such as walking across hot coals. Repeat or prolonged exposure to fire damage eventually burns the outer leather of the boots, ruining them (typically after about 1d10+20 rounds of exposure).",
+		"value": 20,
+		"weight": 2,
 		"categoryOne": "Clothing",
 		"categoryTwo": "Footwear",
 		"categoryThree": "",
 		"source": "PZO1123"
 	},
 	{
-		"name": "Face, Head and Neck test",
-		"description": "A Face, Head and Neck test ",
-		"value": 0.02,
+		"name": "Boots, softpaw",
+		"description": "These soft and subtle boots are constructed of silk and specially cured leather. They are specially designed for catfolk feet. They work with the feline structure of the race’s feet to soften footfalls and to reduce the imprints of their tracks. While wearing softpaw boots, a catfolk gains a +1 circumstance bonus on Stealth checks. Furthermore, the DC to notice or follow the tracks of a catfolk wearing softpaw boots increases by +2.",
+		"value": 25,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Footwear",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Cleats",
+		"description": "Useful on any terrain where traction may be a concern, cleats are shoes with spikes or hooks attached to the soles. Cleats reduce the penalty for walking over slick surfaces by 50%; for example, walking across ice normally costs 2 squares for every square of movement, but with cleats it costs only 1.5 squares for every square. Cleats cause damage to any type of finished flooring.",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Footwear",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Cushion inserts",
+		"description": "These rubber boot or shoe inserts cushion your feet and improve your gait, granting you a +1 circumstance bonus on Constitution checks to continue running and to avoid nonlethal damage from a forced march.",
+		"value": 0.5,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Footwear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Skates, ice",
+		"description": "Each of these calf-high boots bears a vertical blade on the bottom, allowing you to travel swiftly on ice. Wearing ice skates allows you to move on ice at normal speed with a successful DC 5 Acrobatics check (including running and charging), but your movement is reduced to half speed on all other terrain. Donning or removing an ice skate is a full-round action. Skating with only one is possible, but the DC of the Acrobatics check rises to 15.",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Footwear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Skis",
+		"description": "Each ski is a flat piece of wood about 5–6 feet long for a Medium wearer, curled up slightly at the front end, with lengthwise grooves along the underside and a wooden or metal bracket with laces on top for holding the wearer’s boot in place. Wearing skis allows you to move on snow and ice at normal speed, but your movement is reduced to 5 feet on all other terrain. You normally use a pair of spiked poles to help you move and maintain balance while skiing, but javelins, shortspears, or even trimmed-down saplings will do if nothing else more suitable is available. Donning or removing a ski is a full-round action, though the laces can be cut as a move action (which requires repairing or replacing the laces if you want to use the skis again).",
+		"value": 5,
+		"weight": 20,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Footwear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Snowshoes",
+		"description": "These high-tension nets of rope or sinew in wooden frames which are lashed to the feet spread your weight across the snow, making you much less likely to break through the crust and rendering walking much easier. Snowshoes reduce the penalty for walking through heavy snow by 50%; for example, if moving through snow normally costs you 2 squares of movement per square traveled, snowshoes reduce this cost to 1.5 squares per square traveled.",
+		"value": 5,
+		"weight": 4,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Footwear",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Boots, Wading",
+		"description": "These waterproof boots are felt lined and have a thin layer of metal around the soles. The top of each boot ends just before the knee, with a cord for tying the top shut over clothing or exposed skin. These boots assist in prolonged hikes through deep mud or shallow pools, granting the wearer a +1 circumstance bonus on Profession (fisher) checks while fishing in shallow water.",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Footwear",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Cape, Billow",
+		"description": "This silk cape is constructed of many carefully arranged overlapping layers that are loosely stitched together. When exposed to a sudden influx of air, like that caused by falling, the cloak unfolds like a crude parachute. When falling, a creature wearing a billow cape is treated as if he had deliberately jumped from the height. When worn in areas of strong wind or greater, a billow cape hampers movement. In such wind conditions, the wearer treats all terrain as difficult terrain and takes a –4 penalty on Fly checks. Because of the strange and somewhat fragile construction of this cape, only Small or smaller billow capes function properly. Larger billow capes take all the penalties resulting from high winds, but grant none of the benefits when the wearer falls.",
+		"value": 100,
+		"weight": 4,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Eyeglasses",
+		"description": "Also known as spectacles, eyeglasses compensate for poor vision or magnify small details.",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Eye patch",
+		"description": "An eye patch covers one eye and ties around the head. Pirates usually wear eye patches to cover injured or blind eyes, but some wear eye patches to look more intimidating, or to keep one eye covered and thus retain their night vision when transitioning from the relative darkness belowdecks to the sunlight above.",
+		"value": 0.1,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PoIS"
+	},
+	{
+		"name": "Goggles, Gloom Sight",
+		"description": "These non-magical goggles are set with a piece of alchemically treated, black, obsidian-like stone found in the mountainous regions of the Shadow Plane. Gloom sight goggles interact with the unique eyes of fetchlings in such a way that when the goggles are worn over both eyes, they expand the range of a fetchling’s darkvision to 90 feet, but the fetchling also gains the light sensitivity weakness. Other races cannot see through the lenses of these goggles, and they have no affect on fetchlings whose eyes have been modified by the Gloom Sight feat. Though they are alchemical rather than magical in nature, these goggles take up the magic item eye slot.",
+		"value": 200,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Goggles, Smoked",
+		"description": "These spectacles have lenses made of smoked glass that help protect against creatures with gaze attacks. You are always treated as averting your gaze when dealing with gaze attacks, and you gain a +8 circumstance bonus on saving throws against visual-based attacks (any attack that a blind creature would be immune to). You have a –4 penalty on Perception checks while wearing the goggles, and all opponents are treated as having concealment (20% miss chance).",
+		"value": 10,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Hat",
+		"description": "Hats of various styles appear in all cultures. Ranging from the turban to the headscarf to the tricorn to the furred cap, a hat can be a simple covering for the head or a sign of rank and status. Particular hats are sometimes mandatory for social or religious sects. Pirates often wear bandanas or tricorn hats, while captains prefer bicornes and may wear them either “fore-and-aft” (with the points in front of and behind them) or “athwart” (sideways.)",
+		"value": 0.1,
+		"weight": 0.5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Mask",
+		"description": "Gala events are where one may see the most outlandish and stylish of masks, but simpler masks may be found wherever local customs permit. They range from small bits of fabric that cover only a portion of the face to elaborate constructions that cover the entire face or head.",
+		"value": 0.1,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Mask, Battle",
+		"description": "Made from wood, bone, or similar materials, this mask covers its wearer’s actual appearance and identity by depicting a hateful, leering face instead. Because of a battle mask’s excellent craftsmanship and exquisite details, the wearer gains a +1 bonus on Intimidate checks made to demoralize an opponent.",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Mask, Doctor’s",
+		"description": "This mask gives you a +1 circumstance bonus on Fortitude saves made against airborne toxins and scent-based effects. It is sometimes a crime to wear a doctor’s mask in public if you are not a healer or physician.",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Mask, Monster",
+		"description": "This articulated mask resembles a specific type of humanoid monster, such as a bugbear, goblin, orc, or hobgoblin. The mouth opens and closes when you move your jaw and its skin is actually carefully-painted cloth. Though such masks are usually intended for theater performances where an actor plays the role of a monster, adventurers have been known to use them to help blend in with monsters of the appropriate type. The mask negates the –2 Disguise DC for disguising yourself as a different race, but only at a distance of at least 20 feet or when you have concealment; closer than this distance or in clearer circumstances, the mask is obviously a false representation. It only covers your face and is normally worn with a wig or helmet to disguise or cover the rest of your head. Each mask is most suitable for a wearer of a particular size, though some size and monster combinations are less believable than others (a Small creature in an orc mask may be able to pass as an orc child, but a Medium creature in a goblin mask at best looks like a deformed hobgoblin).",
+		"value": 5,
 		"weight": 1,
 		"categoryOne": "Clothing",
 		"categoryTwo": "Face, Head and Neck",
@@ -30,9 +530,89 @@
 		"source": "PZO1123"
 	},
 	{
-		"name": "Bodywear test",
-		"description": "A Bodywear test ",
-		"value": 0.02,
+		"name": "Neck Guard",
+		"description": "Made from hardened leather reinforced with a band of metal, this collar protects the wearer against vampire bites when worn around the throat. It provides a +1 armor bonus to AC against vampire bites or similar attacks that specifically target the wearer’s throat. Unlike most armor bonuses, the neck guard’s +1 bonus stacks with the armor bonus of light or medium armor, but it provides no additional bonus when worn with heavy armor.",
+		"value": 10,
+		"weight": 0.25,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Scarf",
+		"description": "Scarves of colorful cloth or transparent silk, often embroidered with elaborate scenes, are favorite accessories.",
+		"value": 0.1,
+		"weight": 0.5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Scarf, filter",
+		"description": "Made of heavy material, this scarf filters out dust, sand, smoke, and other airborne contaminants. When worn over your nose and mouth, this scarf grants you a +1 resistance bonus on saving throws against inhaled poisons and other airborne effects that require breathing.",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Scarf, head",
+		"description": "Often worn for privacy, religious or cultural reasons, or protection from the elements, full scarves designed to be wrapped around the head are common accessories. Headscarves of bright colors or ornate embroidery can fetch a substantially higher price.",
+		"value": 0.1,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PPZO94102"
+	},
+	{
+		"name": "Scarf, pocketed",
+		"description": "Scarf, pocketed",
+		"value": 8,
+		"weight": 0.5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Scarf, reinforced",
+		"description": "An elaborate design disguises several small pockets on one side of this scarf. This scarf grants you a +4 bonus on Sleight of Hand checks made to hide objects on your body. This bonus does not stack with the bonus wearing heavy clothing provides but does stack with bonuses for attempting to hide small objects.",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Wig",
+		"description": "False hair comes in many forms, from the severe coif of a judge to the towering confection adorning a noble to the simple curls worn by a housewife whose hair is thinning. Wigs can be found for sale in any major city and can be special-ordered in most towns. As they are usually made of hair, the available colors are likely limited by the locally predominant hair color, but others can be obtained by applying dye.",
+		"value": 5,
+		"weight": 0.5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Face, Head and Neck",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Cloak, Patchwork",
+		"description": "These cloaks are popular among traveling bards, and each patchwork cloak is unique. The patches represent where the traveler has been, and often the performer uses them to recall specific stories from his repertoire. When a bard retires or dies, he often bequeaths his cloak to a young entertainer he mentored or admired.",
+		"value": 5,
+		"weight": 0.5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Cloak, Reversible",
+		"description": "This cloak has an outer layer of fabric and an inner layer of a different color. They are worn for the sake of fashion, in theater performances, or to aid a quick appearance change as part of a disguise. The price varies depending on the cloak’s quality, with the low end being a simple linen cloak and the high end being made of silk or decorated with fur trim.",
+		"value": 0.2,
 		"weight": 1,
 		"categoryOne": "Clothing",
 		"categoryTwo": "Bodywear",
@@ -40,9 +620,139 @@
 		"source": "PZO1123"
 	},
 	{
-		"name": "Jewelry, Perfumes and other Decorative Accessories test",
-		"description": "A Jewelry, Perfumes and other Decorative Accessories test ",
-		"value": 0.02,
+		"name": "Cloak, Wing",
+		"description": "This strange piece of equipment only works for sylphs and similar creatures, whose light, airy bodies can be borne upon the winds. Looking like a fine silk traveler’s cloak, a wing cloak is secretly reinforced with a series of wooden struts that, when locked into place, stretch the cloak’s fabric into a rudimentary wing. Arranging the struts into a wing or reversing the change is a move action. When the cloak is shaped into a wing, the wearer can make a DC 15 Fly check to fall safely from any height without taking falling damage, as if using feather fall. When falling, the wearer may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet she falls. Readying and using a wing cloak requires two hands and provokes an attack of opportunity. A wing cloak has hardness 0 and 5 hit points. If the wing cloak is broken, the Fly DCs to use it increase by +10.",
+		"value": 1200,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Furs",
+		"description": "The most basic of cold-weather gear, animal furs serve to keep their wearers warm. Wearing enough fur to cover the body provides a +2 bonus on Fortitude saves to resist cold weather. This does not stack with any bonuses gained from the Survival skill.",
+		"value": 12,
+		"weight": 5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Kilt",
+		"description": "This heavy pleated skirt is usually worn by men. Most have a specific design or pattern that represents allegiance to a particular clan or other social group.",
+		"value": 0.2,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Poncho",
+		"description": "This circle of water-resistant fabric (typically wool or leather) has a hooded opening in the center, making it easy to slip it on or off and protecting your entire body from rain or snow.",
+		"value": 0.5,
+		"weight": 2,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Sash, Adventurer’s",
+		"description": "This bandolier holds six pouches along its length and a satchel at the hip. Each pouch has a stiff leather flap that can be secured against jostling with a clasp (requiring a move action to open or close) or left unfastened for easier access. The pouches and satchel contain loops and ties for securing additional equipment. The sash buckles at the shoulder, and in an emergency can be freed with a sharp tug as a move action.",
+		"value": 20,
+		"weight": 3,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "SOS"
+	},
+	{
+		"name": "Speed sheath",
+		"description": "Speed sheath",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Tabard",
+		"description": "Often worn over armor, this outer garment is usually sleeveless and open at the sides. The broad front provides a canvas for insignias and coats of arms, making a wearer’s membership in an order readily apparent.",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Vest",
+		"description": "Much like hats, vests appear in almost all cultures. Though the basic design remains the same, they vary wildly in cut, color, and function. The difference between court vests and dancing vests is quite striking.",
+		"value": 0.1,
+		"weight": 0.5,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Vest, barbed",
+		"description": "Thin leather flaps keep the hundreds of tiny, fishhook-like needles dotting the surface of this black vest from harming you while you wear it. However, any creature that injures you with a natural or unarmed attack must make a DC 15 Reflex save or take 1 point of damage. Any creature swallows you it takes 1 point of damage each round until it either spits you up, you escape, or you die (at which point the vest has sustained enough damage to no longer serve as a threat). The vest can only be worn over light armor or no armor.",
+		"value": 10,
+		"weight": 4,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Vestments, Cleric’s",
+		"description": "These clothes are for performing priestly functions, not for adventuring. Cleric’s vestments typically include a cassock, stole, and surplice.",
+		"value": 5,
+		"weight": 6,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Bodywear",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Brooch",
+		"description": "This is a small ornament used to hold an element of clothing, such as a cloak or cape, in place. Many organizations provide special brooches as a symbol of membership or to honor a special achievement.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Caul",
+		"description": "This ornate hairnet, fashioned from silk, cloth of gold, and jewels, is most commonly worn by royal or aristocratic women.",
+		"value": 10,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Decorative trim",
+		"description": "This decorative set of collars, cuffs, and trim pieces attaches to otherwise plain clothes. Frequent travelers, such as merchants or entertainers, use trim to blend in with the local styles without buying a new wardrobe. A traveling noble keeps extra sets for use by temporary staff and loaned guards.",
+		"value": 0.1,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Hennin",
+		"description": "This high conical headpiece ends in a tip that usually has a piece of silk or similar diaphanous material dangling from it. Women of noble birth sometimes wear a hennin to formal or social occasions as a signal of their eligibility, and give the silk part of the headpiece as a token to suitors they favor.",
+		"value": 10,
 		"weight": 1,
 		"categoryOne": "Clothing",
 		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
@@ -50,19 +760,249 @@
 		"source": "PZO1123"
 	},
 	{
-		"name": "Bags and Pouches test",
-		"description": "A Bags and Pouches test ",
-		"value": 0.02,
+		"name": "Jewelry",
+		"description": "The cost of jewelry varies wildly by its quality. Many cultures consciously use jewelry as a form of portable wealth, most notably in belts and bangles made from coins. A commoner’s ornaments may only be worth a few copper pieces, a tradesman’s a few silver pieces, and a merchant’s a few gold pieces, while nobles rarely wear jewelry worth less than 100 gp.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Jewelry, false",
+		"description": "Favored by rogues, these adornments hide tiny secret compartments. False jewelry grants a +8 bonus on Sleight of Hand checks to hide a tiny object on your person (does not stack with the bonus for hiding very small objects) and negates the +4 bonuses searchers receive when frisking you. False jewelry costs 20 gp in addition to the value of the ornament being fitted with the secret compartment.",
+		"value": 20,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "RotRLPG"
+	},
+	{
+		"name": "Locket, Poisoned",
+		"description": "This heart-shaped locket is attached to a thin metal chain made of looped strands of gold or silver. Inside the locket is a small, spring-loaded vial that can hold a single dose of powdered poison. Loading the locket with poison carries the same risks as applying poison to a weapon. When the locket is opened, the vial is shattered by a ball bearing, releasing the powder into the air and treating the poison’s type as if it were inhaled. The airborne poison affects all creatures within 10 feet of the locket.",
+		"value": 75,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "PPC:P&P"
+	},
+	{
+		"name": "Perfume/Cologne",
+		"description": "Perfume and cologne are common accessories for those who hope to avoid offending through scent. More expensive scents are available in finer quarters of any city. Exotic scents are sold in vials containing 10 applications, with a single dose lasting for 24 hours during which its wearer gains a +2 circumstance bonus on all Diplomacy checks (save for those against creatures who, at the GM’s discretion, would not be swayed by scent).",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "ISWG"
+	},
+	{
+		"name": "Ring, poison pill",
+		"description": "This ring has a tiny compartment under the setting, typically used to hold poison. Opening and closing a ring is a move action; doing so unseen requires a DC 20 Sleight of Hand check.",
+		"value": 20,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ring, signet",
+		"description": "A ring with a family symbol or crest on it. It is often pressed into hot wax on objects when they are sealed, leaving a family imprint.",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Watch, pocket",
+		"description": "Watch, pocket",
+		"value": 250,
 		"weight": 1,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Tattoo",
+		"description": "The cost of a tattoo depends on the quality, size, and number of colors used. A coin-sized tattoo in blue ink that will blur over a decade may cost 1 cp, a hand-sized one in black ink that won’t fade costs 1 sp, and a tattoo covering an entire back takes several sessions and costs 10 gp. Each additional color costs as much as a single tattoo of its size.",
+		"value": 0.01,
+		"weight": 20,
+		"categoryOne": "Clothing",
+		"categoryTwo": "Jewelry, Perfumes and other Decorative Accessories",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Backpack, common",
+		"description": "This leather knapsack has one large pocket that closes with a buckled strap and holds about 2 cubic feet of material. Some may have one or more smaller pockets on the sides.",
+		"value": 2,
+		"weight": 2,
 		"categoryOne": "Containers",
 		"categoryTwo": "Bags and Pouches",
 		"categoryThree": "",
 		"source": "PZO1123"
 	},
 	{
-		"name": "Barrels, Boxes, and Chests test",
-		"description": "A Barrels, Boxes, and Chests test ",
-		"value": 0.02,
+		"name": "Backpack, masterwork",
+		"description": "This backpack has numerous pockets for storing items that might be needed while adventuring. Hooks are included for attaching items such as canteens, pouches, or even a rolled-up blanket. It has padded bands that strap across the chest and the waist to distribute its weight more evenly. Like a common backpack, it can hold about 2 cubic feet of material in its main container. When wearing a masterwork backpack, treat your Strength score as +1 higher than normal when calculating your carrying capacity.",
+		"value": 50,
+		"weight": 4,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Bag, waterproof",
+		"description": "This leather sack sealed with tar or pitch keeps delicate items from being ruined by water. Items kept inside remain relatively dry, making the bag ideal for carrying maps, scrolls, spellbooks, and the like, although the bag is not impervious and can only be completely immersed for 10 rounds before enough water seeps in to ruin such items.",
+		"value": 5,
+		"weight": 0.5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Bandolier",
+		"description": "This leather belt is worn over one shoulder and runs diagonally across the chest and back. It has small loops or pouches for holding eight objects the size of a flask or small dagger. You can use the “retrieve a stored item” action to take an item from a bandolier. You can wear up to two bandoliers at the same time (any more than this and they get in each other’s way and restrict your movement).",
+		"value": 0.5,
+		"weight": 0,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Pocket, inside",
+		"description": "This is an extra pocket sewn on the inside of a piece of clothing. You gain a +2 circumstance bonus on Sleight of Hand checks to conceal an item in an inside pocket. Detecting the compartment requires a successful DC 15 Perception check at minimum (DC 20 if empty), even if you aren’t trained in Sleight of Hand. The inside pocket is 1 inch deep. Different styles open from the top or from the side, and some have button flaps to secure the contents.",
+		"value": 4,
+		"weight": 0,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Pouch, belt",
+		"description": "A belt pouch is crafted of soft cloth or leather. They typically hold up to 10 lb. or 1/5 cubic ft. of items.",
+		"value": 1,
+		"weight": 0.5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Pouch, spell components",
+		"description": "A spellcaster with a spell component pouch is assumed to have all the material components and focuses needed for spellcasting, except for those components that have a specific cost, divine focuses, and focuses that wouldn’t fit in a pouch.",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Pouch, waist",
+		"description": "This leather pack is supported by two straps that can be loosened or tightened to fit most body types. It can be adjusted to any facing along its wearer’s waist. The pack can store up to 1/2 cubic foot of material.",
+		"value": 0.5,
+		"weight": 0.5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Pouch, war spirit",
+		"description": "This tiny bundle of sacred herbs and bones supposedly attracts the attention of helpful battle-spirits. By crushing the pouch as a standard action, an orc (or a creature from a suitably warlike culture) gains 1d4+1 temporary hit points. These temporary hit points go away after 10 minutes. A creature can only benefit from 1 spirit pouch at a time. Once used, the spirit pouch is destroyed.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Sack",
+		"description": "A sack is a cloth bag that weighs 1/2 lb. empty and holds 1 cubic ft. or 60 lbs. of contents full.",
+		"value": 0.1,
+		"weight": 0.5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Satchel, familiar",
+		"description": "This armored case provides total cover to any Tiny or smaller creature contained within it. It includes air holes (which can be plugged with cork stoppers if you need to go underwater) and two receptacles for food and water.",
+		"value": 25,
+		"weight": 6,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Waterskin",
+		"description": "A water or wineskin holds 1/2 gallon of liquid and weighs 4 lb when full.",
+		"value": 1,
+		"weight": 4,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Backpack, Carrier",
+		"description": "Reinforced metal bars allow for this leather backpack to withstand a greater degree of stress than a traditional pack. Along with the standard backpack compartment, this pack has an additional pouch and harness at its top. Used together, the harness and pouch can safely contain a Tiny or smaller creature. While harnessed, the creature can’t leave the backpack or see outside of it; it takes a full-round action to remove the harness from a carried creature.",
+		"value": 25,
+		"weight": 5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Backpack, Hydration",
+		"description": "This mostly leather backpack has a series of awkward metallic tubes, which run from the pack over your shoulders, and a small bladder at its base. A hydration backpack has a large pocket identical to that of a regular backpack that holds 2 cubic feet of material, while the bladder holds 1 gallon of liquid. The ends of the metal tubes can be positioned to allow you to easily dispense and drink liquid stored in the attached bladder. Consuming water in this way grants a +2 circumstance bonus on Constitution checks to avoid nonlethal damage during a forced march.",
+		"value": 40,
+		"weight": 4,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Backpack, Weaponrack",
+		"description": "This leather backpack includes a small weapons rack. The rack holds up to four weapons, such as battleaxes, longswords, maces, or short swords. Allies adjacent to you can retrieve a weapon from the rack as a move action without provoking attacks of opportunity, as if they were simply drawing a weapon. Like a normal backpack, it can hold 2 cubic feet of material in its main compartment.",
+		"value": 25,
+		"weight": 5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Bags and Pouches",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Barrel",
+		"description": "A common barrel is constructed of wood with metal ring reinforcements and holds 10 cubic ft. or 650 lb. of materials. A barrel filled with liquid holds about 75 gallons. Empty Weight: 30 lb.; Capacity: 10 cubic ft./650 lb.",
+		"value": 2,
+		"weight": 30,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Basket",
+		"description": "This large basket has a lid and holds about 2 cubic feet.",
+		"value": 0.4,
 		"weight": 1,
 		"categoryOne": "Containers",
 		"categoryTwo": "Barrels, Boxes, and Chests",
@@ -70,13 +1010,313 @@
 		"source": "PZO1123"
 	},
 	{
-		"name": "Other Containers test",
-		"description": "A Other Containers test ",
+		"name": "Bottle",
+		"description": "This glass bottle holds about a pint and includes a cork.",
+		"value": 2,
+		"weight": 1,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Box, scroll",
+		"description": "This wooden box easily holds 10 scrolls and has small clips or bookmarks for easier indexing. Retrieving a scroll from a held scroll box is a move action. A scroll box has hardness 5, 5 hit points, a break DC of 20. A scroll box is water-tight.",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Bucket",
+		"description": "Bucket",
+		"value": 0.5,
+		"weight": 2,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Canteen",
+		"description": "This hollow container is made of wood, a gourd, or metal, and carries liquid like a waterskin, but is more resistant to punctures and cuts.",
+		"value": 2,
+		"weight": 1,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Case, scroll",
+		"description": "A leather or wooden scroll case easily holds four scrolls; you can cram more inside, but retrieving any of them becomes a full-round action rather than a move action. You must destroy the scroll case to damage its contents (hardness 2 for leather or 5 for wood, 2 hit points, break DC 15). A scroll case is not watertight, and must still be protected from the elements.",
+		"value": 1,
+		"weight": 0.5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Cauldron",
+		"description": "This larger version of an iron pot holds approximately 1 gallon—enough to fill the bellies of four hungry humans for one meal. It can also be used for potion-making and similar activities.",
+		"value": 1,
+		"weight": 5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Cauldron, mithral",
+		"description": "This larger version of an iron pot holds approximately 1 gallon—enough to fill the bellies of four hungry humans for one meal. It can also be used for potion-making and similar activities. A mithral cauldron is lighter, and food rarely sticks to it.",
+		"value": 2501,
+		"weight": 2.5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Chest, Small / Small treasure chest",
+		"description": "The common wooden chest comes in several sizes, including small (2 cubic feet, 1 hit point, break DC 17), medium (4 cubic feet, 15 hp, break DC 23), large (6 cubic feet, 30 hit points, break DC 29), and huge (8 cubic feet, 50 hit points, break DC 35). Most include a simple inset lock. A treasure chest begins as a common wooden chest, and is then treated with resin to make the wood water-resistant. Metal bands, usually bronze to prevent rusting, are strapped around the treasure chest for extra reinforcement, and the lock is also made of bronze. A treasure chest uses the same statistics as an ordinary wooden chest of its same size, but its hit points increase by 25% and its break DC increases by 2. Treasure chests stand up better to water travel and to being buried compared to ordinary chests.",
+		"value": 2,
+		"weight": 25,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Chest, Medium / Medium treasure chest",
+		"description": "The common wooden chest comes in several sizes, including small (2 cubic feet, 1 hit point, break DC 17), medium (4 cubic feet, 15 hp, break DC 23), large (6 cubic feet, 30 hit points, break DC 29), and huge (8 cubic feet, 50 hit points, break DC 35). Most include a simple inset lock. A treasure chest begins as a common wooden chest, and is then treated with resin to make the wood water-resistant. Metal bands, usually bronze to prevent rusting, are strapped around the treasure chest for extra reinforcement, and the lock is also made of bronze. A treasure chest uses the same statistics as an ordinary wooden chest of its same size, but its hit points increase by 25% and its break DC increases by 2. Treasure chests stand up better to water travel and to being buried compared to ordinary chests.",
+		"value": 5,
+		"weight": 50,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Chest, Large / Large treasure chest",
+		"description": "The common wooden chest comes in several sizes, including small (2 cubic feet, 1 hit point, break DC 17), medium (4 cubic feet, 15 hp, break DC 23), large (6 cubic feet, 30 hit points, break DC 29), and huge (8 cubic feet, 50 hit points, break DC 35). Most include a simple inset lock. A treasure chest begins as a common wooden chest, and is then treated with resin to make the wood water-resistant. Metal bands, usually bronze to prevent rusting, are strapped around the treasure chest for extra reinforcement, and the lock is also made of bronze. A treasure chest uses the same statistics as an ordinary wooden chest of its same size, but its hit points increase by 25% and its break DC increases by 2. Treasure chests stand up better to water travel and to being buried compared to ordinary chests.",
+		"value": 10,
+		"weight": 100,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Chest, Huge / Huge treasure chest",
+		"description": "The common wooden chest comes in several sizes, including small (2 cubic feet, 1 hit point, break DC 17), medium (4 cubic feet, 15 hp, break DC 23), large (6 cubic feet, 30 hit points, break DC 29), and huge (8 cubic feet, 50 hit points, break DC 35). Most include a simple inset lock. A treasure chest begins as a common wooden chest, and is then treated with resin to make the wood water-resistant. Metal bands, usually bronze to prevent rusting, are strapped around the treasure chest for extra reinforcement, and the lock is also made of bronze. A treasure chest uses the same statistics as an ordinary wooden chest of its same size, but its hit points increase by 25% and its break DC increases by 2. Treasure chests stand up better to water travel and to being buried compared to ordinary chests.",
+		"value": 25,
+		"weight": 250,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Cooler",
+		"description": "This chest can contain up to 4 cubic feet of goods, and it has a lining of insulating material between two sheets of wood. As long as the chest is partially filled with a cold substance—such as cold water or ice—items stored within decompose at half their regular rate. Ice melts on a consistent basis (typically four to six times in a 24-hour period) and must be regularly replenished to maintain the effectiveness of this chest.",
+		"value": 25,
+		"weight": 60,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Chest, false bottomed",
+		"description": "These chests are typically used by smugglers transporting contraband or those with treasures they would prefer to keep hidden. The secret compartment in this chest is approximately 1 inch deep. Different styles open from the inside, from the underside, or through the back. Detecting the compartment requires a DC 20 Perception check.",
+		"value": 52,
+		"weight": 25,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Coffee pot",
+		"description": "This tall, teapot-like device contains a small chamber for coffee grounds and a large chamber for water, connected by a small tube. Heating the pot forces boiling water through the tube and into the grounds. A glass knob at the top of the tube allows you to see the color of the brew and stop when it is sufficiently strong. It can brew up to 4 cups of coffee at a time. It can also be used to make tea, steep medicinal herbs, or just boil water.",
+		"value": 3,
+		"weight": 4,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Coffin, common",
+		"description": "A plain coffin is made of simple wood and has a loose, flat lid that can be nailed onto it.",
+		"value": 10,
+		"weight": 30,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Coffin, ornate",
+		"description": "Ornate coffins are favored by aristocratic families for displaying their dead, and include upholstered cloth liners and a hinged lid.",
+		"value": 100,
+		"weight": 50,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Cup",
+		"description": "Cup",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Cup, false bottomed",
+		"description": "The tiny compartment in the thick bottom of this cup is an excellent place to store a small item or substance. The most insidious are designed with a weighted catch that opens when the cup is tilted back, releasing the hidden substance hidden into the contents of the cup. Spotting the secret compartment in an empty cup is a DC 15 Perception check.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Flask",
+		"description": "A flask holds 1 pint of liquid and weighs 1 lb. when full. Empty Weight: – (1 lb. full); Capacity: 1 pint/1 lb.",
+		"value": 0.03,
+		"weight": 1.5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Flask, hip",
+		"description": "Flask, hip",
+		"value": 1,
+		"weight": 0.5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Goblet, poisoner’s",
+		"description": "This is an elegantly styled, gem-encrusted drinking chalice made of smooth jade, obsidian, or a burnished fine metal. The chalice has a hidden compartment in the stem that allows for the insertion of a single vial of poison. The user doesn’t risk poisoning himself when inserting the vial. Inside the compartment is a needle that siphons the poison from the vial and injects it into the bowl of the goblet. A hidden button (DC 20 Perception to locate) on the side of the stem begins the transfer of poison into the bowl. The transfer process takes 1 minute to complete, after which the hidden poison is emptied into the goblet.",
+		"value": 100,
+		"weight": 2,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PPC:P&P"
+	},
+	{
+		"name": "Jug",
+		"description": "This basic jug is fitted with a stopper and holds 1 gallon of liquid. Empty Weight: 1 lb.; Capacity: 1 gallon/8 lb.",
+		"value": 0.03,
+		"weight": 9,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Mug/Tankard, clay",
+		"description": "A clay mug or tankard. Empty Weight: -; Capacity: 1 pint/1 lb.",
 		"value": 0.02,
 		"weight": 1,
 		"categoryOne": "Containers",
-		"categoryTwo": "Other Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Pitcher",
+		"description": "A clay pitcher. Empty Weight: 1 lb.; Capacity: 1/2 gallon/4 lb.",
+		"value": 0.02,
+		"weight": 5,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
 		"categoryThree": "",
 		"source": "PZO1123"
+	},
+	{
+		"name": "Pot, iron",
+		"description": "Cooking pots come in a variety of materials, but the most common is formed of iro",
+		"value": 0.8,
+		"weight": 4,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Pot, mithral",
+		"description": "A mithral cooking pot weighs 2 lbs. and costs 2,001 gp.",
+		"value": 2001,
+		"weight": 2,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Potion Sponge",
+		"description": "This egg-sized sponge is covered in a layer of waterproof edible wax, designed to absorb 1 dose of a potion. Chewing a potion sponge and swallowing its liquid contents is a full-round action. A creature of at least Large size can swallow the sponge in its entirely; other creatures must spit out the sponge once it’s depleted (a free action). Unlike a potion that is drunk from a vial, a potion sponge can be used underwater. A potion can be poured from a vial into a sponge potion (or squeezed from a sponge into a vial) as a full-round action. The potion sponge is immune to attacks that specifically target crystal, glass, ceramic, or porcelain, such as shatter. It otherwise works like a potion vial.",
+		"value": 2,
+		"weight": 0,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Vial (for ink or potions)",
+		"description": "A vial is made out of glass or steel and holds 1 ounce of liquid. Empty Weight: -; Capacity: 1 ounce/-",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Vial, iron",
+		"description": "This metal potion bottle has hardness 5, 3 hit points, and break DC 14.",
+		"value": 0.1,
+		"weight": 1,
+		"categoryOne": "Containers",
+		"categoryTwo": "Barrels, Boxes, and Chests",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Aquarium ball",
+		"description": "This clear, 1-inch-thick glass orb is the size of a large melon and hangs from a thick chain. It can hold up to 2 gallons of freshwater or saltwater, allowing it to house aquatic creatures such as fish or frogs. The cap near the top of the ball can be unscrewed for access. One Tiny creature or two Diminutive crePot, mithralatures can fit comfortably into an aquarium ball. The water within the orb must be changed daily in order to keep the creatures within alive. Otherwise, the inhabitants begin to slowly suffocate.",
+		"value": 80,
+		"weight": 20,
+		"categoryOne": "Containers",
+		"categoryTwo": "Other Containers",
+		"categoryThree": "",
+		"source": "PPC:FF"
+	},
+	{
+		"name": "Rockshard canister",
+		"description": "Two separate compartments make up this black glass canister the size of a helmet. The large lower compartment contains hundreds of jagged shards of obsidian. The upper airtight chamber contains a sticky resin that hardens immediately upon contact with air. When you strike the canister with a bludgeoning melee weapon as a standard action, both compartments shatter, causing the obsidian shards to adhere to the weapon. The weapon deals piercing damage rather than bludgeoning damage for 10 minutes, at which point the resin dries and the shards fall off, or until you roll a natural 1 on an attack roll, which causes the shards to break off prematurely. If the weapon is made of a special material, the special properties of its material are suppressed while the obsidian shards adhere to the weapon. If you use a rockshard canister to coat an unarmed strike or natural weapon, you take 2d6 points of piercing damage when shattering the canister to apply the shards. For unarmed attacks, this can be avoided by carefully applying thick leather or rope straps to your hands and feet, which requires 5 minutes of work, prior to smashing the canister.",
+		"value": 50,
+		"weight": 25,
+		"categoryOne": "Containers",
+		"categoryTwo": "Other Containers",
+		"categoryThree": "",
+		"source": "MTT"
 	}
 ]
