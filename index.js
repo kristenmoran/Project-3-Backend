@@ -32,5 +32,5 @@ app.use('/shop/items', itemsController);
 app.use(handleErrors);
 
 app.listen(app.get('port'), () => {
-	console.log(`✅ Listening on port ${app.get('port')}`);
+	console.log(`✅ PORT: ${app.get('port')} 🌟`);
 });
