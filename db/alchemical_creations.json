@@ -340,16 +340,6 @@
 		"source": "PZO1123"
 	},
 	{
-		"name": "Grenade, Sting",
-		"description": "Grenade, Sting",
-		"value": 100,
-		"weight": 1,
-		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
-		"categoryThree": "",
-		"source": "PZO90115"
-	},
-	{
 		"name": "Light detector",
 		"description": "This hand-sized metal plate is covered with a thin layer of light-sensitive transparent paste. If exposed to light, the paste darkens and becomes opaque, depending on the amount of light. Bright light causes it to fully darken in 1 round, normal light in 3 rounds, and dim light in 10 rounds. It is mainly used by creatures with darkvision to determine whether creatures carrying light have recently passed through an area. The plate is sold wrapped in a thick black cloth to prevent accidental light exposure from ruining the plate.",
 		"value": 1,
@@ -369,16 +359,7 @@
 		"categoryThree": "",
 		"source": "PZO1121"
 	},
-	{
-		"name": "Sunrod",
-		"description": "This 1-foot-long, gold-tipped iron rod glows brightly when struck (a standard action). It sheds normal light in a 30-foot radius and increases the light level by one step for an additional 30 feet beyond that area (darkness becomes dim light and dim light becomes normal light). A sunrod does not increase the light level in normal light or bright light. It glows for 6 hours, after which the gold tip is burned out and worthless.",
-		"value": 2,
-		"weight": 1,
-		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
-		"categoryThree": "",
-		"source": "PZO1110"
-	},
+
 	{
 		"name": "Water purification sponge",
 		"description": "This fist-sized blue sponge absorbs up to 1 pint of water; squeezing the water out of the sponge filters and purifies it, making it safe for drinking, washing, and similar activities. Filling and emptying the sponge is a full-round action. The filtration is enough to remove mundane impurities and common diseases, but does nothing to protect against poisons, magic, and other exotic threats. Each sponge can cleanse 25 pints of water before deteriorating and becoming useless.",
@@ -1090,16 +1071,6 @@
 		"source": "PZO1121"
 	},
 	{
-		"name": "Scent cloak",
-		"description": "This collection of coarsely ground spices, seeds, and alchemical reagents overrides your scent, increasing the DC of tracking you by scent by +10 for 24 hours. Because you still have a smell, creatures with scent can still detect and pinpoint if you are cloaked; they just can’t identify your smell as something unique. Washing for 1 full round removes the scent cloak",
-		"value": 20,
-		"weight": 2,
-		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Misc. Substances",
-		"categoryThree": "",
-		"source": "PZO1123"
-	},
-	{
 		"name": "Shadowcloy (flask)",
 		"description": "This thin black liquid is stored in airtight flasks because it evaporates quickly when exposed to air. Its cloying vapors cling to a target, obscuring vision for a short period of time. You can throw a shadowcloy flask as a splash weapon with a range increment of 10 feet. A direct hit means the target treats the ambient light as one category darker than normal, with a creature already in natural darkness treating it as supernatural darkness. This effect lasts for 1 round. A thrown shadowcloy flask has no effect on adjacent creatures or if it misses.",
 		"value": 25,
@@ -1135,7 +1106,7 @@
 		"value": 25,
 		"weight": 0,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Misc. Substances",
+		"categoryTwo": "Special Equipment",
 		"categoryThree": "",
 		"source": "PZO9430"
 	},
@@ -1145,17 +1116,17 @@
 		"value": 60,
 		"weight": 0,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Misc. Substances",
+		"categoryTwo": "Special Equipment",
 		"categoryThree": "",
 		"source": "PZO9430"
 	},
 	{
-		"name": "Smoke Pellet",
+		"name": "Smoke Pellet, smog",
 		"description": "The smoke from a smog pellet is oily, and creatures that are hit by a smog pellet or pass through the smoke are covered in thick residue. This residue makes invisible creatures visible for 1d4 rounds.",
 		"value": 40,
 		"weight": 0,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Misc. Substances",
+		"categoryTwo": "Special Equipment",
 		"categoryThree": "",
 		"source": "PZO9430"
 	},
@@ -1165,7 +1136,7 @@
 		"value": 20,
 		"weight": 0.5,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Misc. Substances",
+		"categoryTwo": "Special Equipment",
 		"categoryThree": "",
 		"source": "PZO1123"
 	},
@@ -1290,12 +1261,612 @@
 		"source": "PZO1115"
 	},
 	{
-		"name": "Alchemist’s",
-		"description": "Alchemist’s",
-		"value": 10,
+		"name": "Antiplague",
+		"description": "If you drink a vial of this foul-tasting, milky tonic, you gain a +5 alchemical bonus on Fortitude saving throws against disease for the next hour. If already infected, you may also make two saving throws (without the +5 bonus) that day and use the better result. Create: Craft (alchemy) DC 25",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Antitoxin",
+		"description": "If you drink a vial of antitoxin, you get a +5 alchemical bonus on Fortitude saving throws against poison for 1 hour.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Bloodblock",
+		"description": "This gooey, pinkish substance helps treat wounds. Using a dose gives you a +5 alchemical bonus on Heal checks for providing first aid, treating wounds made by caltrops or similar objects, or treating deadly wounds. A dose of bloodblock ends a bleed effect as if you had made a DC 15 Heal check. When treating deadly wounds, using a dose of bloodblock counts as one use of a healer’s kit (and grants the +5 bonus stated above). Create: Craft (alchemy) DC 25",
+		"value": 25,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Bodybalm",
+		"description": "When this pungent yellow powder is boiled in water and given to a creature to drink, it provides the attending healer a +5 alchemical bonus on Heal checks for providing long-term care, treating poison, and treating disease. Create: Craft (alchemy) DC 25",
+		"value": 25,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Clear ear",
+		"description": "This green gel is poured into the user’s ear and takes effect 2 hours later, enhancing senses and memory but increasing irritability. For 6 hours, the user gains a +2 alchemical bonus on Perception and Knowledge checks and a –2 penalty on all Charisma-based checks.",
+		"value": 15,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Healy myrrh",
+		"description": "When you burn this powerful resin, it fills 8,000 cubic feet with faint smoke that persists for 8 full hours. Any creatures resting or receiving long-term care in the area while the healy myrrh is active regain 1 additional hit point per level. Multiple uses of healy myrrh in a 24-hour period do not stack. Create: Craft (alchemy) 5 ranks, Heal 5 ranks;",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO9406"
+	},
+	{
+		"name": "Mellowroot",
+		"description": "Sneaky goblin chieftains give this orange paste to the tribe’s warriors before proposing a particularly bold raid. Consuming mellowroot causes a euphoric feeling that makes you feel invulnerable. For 1 hour after consuming mellowroot, you gain a +5 alchemical bonus versus fear effects. However, while under the effects of mellowroot, you must make a DC 15 Will saving throw when you try to leave the threatened area of an opponent. If you fail the saving throw, you cannot leave the threatened area with that action but do not lose the action.",
+		"value": 25,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Peptus salix",
+		"description": "This pink liquid has a horrible chalky taste, but is quite effective at counteracting nausea, indigestion, and diarrhea. A vial taken in small doses during the day, alleviates these symptoms. If you drink an entire vial, for 1 hour you get a +2 alchemical bonus on Fortitude saving throws against effects that inflict the nauseated or sickened condition. If you drink a vial of it while suffering from the nauseated or sickened condition, you may immediately roll another saving throw (with the +2 bonus) against the effect; you may gain this particular benefit only once per day. Drinking a vial (whether over the course of a day or all at once) usually turns your tongue black for about a day, though this is a harmless side effect.",
+		"value": 30,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Smelling salts",
+		"description": "These sharply scented gray crystals cause people inhaling them to regain consciousness. Smelling salts grant you a new saving throw to resist any spell or effect that has already rendered you unconscious or staggered. If exposed to smelling salts while dying, you immediately become conscious and staggered, but must still make stabilization checks each round; if you perform any standard action (or any other strenuous action) you take 1 point of damage after completing the act and fall unconscious again. A container of smelling salts has dozens of uses if stoppered after each use, but depletes in a matter of hours if left opened. Create: Craft (alchemy) DC 20",
+		"value": 25,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Soothe syrup",
+		"description": "This sweet and wholesome-tasting blue liquid creates a sense of warmth and comfort. Soothe syrup coats your stomach and makes it much more difficult for you to succumb to queasiness. For 1 hour after drinking soothe syrup you gain a +5 alchemical bonus on saving throws made to resist effects that would make you nauseated or sickened. Create: Craft (alchemy) DC 15",
+		"value": 25,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Stillgut",
+		"description": "Drinking a vial of this bland, bluish liquid grants you a +5 alchemical bonus on Fortitude saves to avoid nausea or sickness for 1 hour. If you are already nauseated, you can drink stillgut as a move action. Drinking it in this fashion grants you a second saving throw (without the +5 bonus). Goblins often use stillgut so they can choke down meat or other foods in stages of rot or decay.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Tonic, blight",
+		"description": "Blight tonic increases the potency of a creature’s disease attack transmitted by physical contact, such as a dire rat’s filth fever. The next time a creature must save against the drinker’s disease save DC, the DC for the initial infection increases by +2. The tonic lasts for 10 minutes or until the next time a creature must save against the drinker’s disease DC, whichever comes first.",
+		"value": 150,
 		"weight": 1,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Misc. Substances",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Tonic, twitch",
+		"description": "This thick syrup is extracted from bitter herbs and enhanced by alchemy to ward against sleep, paralysis, and the staggered condition. If you drink twitch tonic, you gain a +2 alchemical bonus on saving throws made against these effects for the next hour. If you drink twitch tonic while suffering from any of these effects, you may immediately roll another saving throw against the effect (with the +2 bonus); you may gain this particular benefit only once per day. You can administer twitch tonic to an unconscious or paralyzed creature as a full-round action, similar to administering a potion.",
+		"value": 45,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Troll oil",
+		"description": "This crimson liquid is viscous and tastes foul. If you drink it, for the next hour you automatically stabilize when reduced to negative hit points (unless the damage is sufficient to instantly kill you) and have a 50% chance each round to end any bleed effect on you. If you take fire or acid damage, the benefits of troll oil are suspended for 1 round.",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Troll styptic",
+		"description": "A witch’s brew of troll blood, powdered plant extracts, and alchemical binders, troll styptic is intended as a field treatment for wounds and bleeding, particularly where magical healing is not available. This powder is stored in small packets, and when applied directly to wounds grants a living creature fast healing 2 for 2d4 rounds, as well as closing any open wounds the subject has or receives while the styptic is active, preventing ongoing damage from bleeding. This is a painful cure and requires the target to make a DC 15 Fortitude save to avoid being sickened for the duration of the fast healing. Create: Craft (alchemy) DC 25",
+		"value": 100,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO9211"
+	},
+	{
+		"name": "Unguent of revivification (1 dose)",
+		"description": "The preservation of dead flesh is important in undead-friendly cultures. In such places this alchemical ointment is commonly used as a cheaper alternative to gentle repose to give their undead flesh the blush of life. A single dose staves off the decomposition of dead flesh for 1d6 days. It cannot reverse decay that is already present and has no effect on the time limit for raising creatures from the dead.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PCS"
+	},
+	{
+		"name": "Woundweal",
+		"description": "This gritty black paste is a poison that interferes with an afflicted creature’s ability to recover from injuries. All Heal checks applied to the creature suffer a –10 penalty. In addition, anyone using magical healing on the target must make a DC 25 caster level check to succeed. Type poison, injury; Save Fortitude DC 18; Onset 1 round; Frequency 1/day; Effect impaired healing (see above); Cure 2 consecutive save",
+		"value": 100,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Balms, Medicines and Tonics",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Beast lure",
+		"description": "This light brown oil works similar to wild animal musk but attracts one specific kind of creature (dogs, giant bees, and so on). Create: Craft (alchemy) DC 20",
+		"value": 30,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Hunting Aids",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Beast scent",
+		"description": "This is a mixture of scent gland extracts and aromatic herbs that serves as both attractor and olfactory camouflage. It masks the natural scent of a creature with an appealing if pungent musk that is alluring to most animals. Beast-scent provides a +2 circumstance bonus to Handle Animal and wild empathy checks and a –5 penalty to attempts to track the wearer by his original scent. If the tracking creature is following the smell of beast-scent itself, track checks are made at a +10 circumstance bonus instead. A single vial of beast-scent masks the scent of one Medium creature or two smaller creatures; larger creatures require proportionally more to gain the item’s benefits. Beast-scent is rendered inert after 1 hour of exposure to air. Applying a vial is a full-round action that provokes attacks of opportunity. Create: Craft (alchemy) DC 25",
+		"value": 75,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Hunting Aids",
+		"categoryThree": "",
+		"source": "PZO9211"
+	},
+	{
+		"name": "Musk, harpy",
+		"description": "The reek of this doubtful cure-all proves useful at scaring off goblins. If smeared on a surface or used as a thrown weapon, the musk fills a 30-foot area with the stink of harpies for 1 minute. Any goblin who enters the area must make a DC 14 Will save or be shaken for 1 minute.",
+		"value": 2,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Hunting Aids",
+		"categoryThree": "",
+		"source": "RotRLPG"
+	},
+	{
+		"name": "Musk, wild",
+		"description": "This emerald-colored adhesive is a concoction made from animal glands, urine, and other powerful scents combined with a strong alchemical binding agent that is difficult to wash off. A target splashed with it smells like weak prey to predators. Creatures with the scent ability can detect a marked creature at five times the normal range, note its direction as a free action, pinpoint it when it is within 25 feet, and track it by scent with a +5 bonus on its Survival checks. Immersion in water within 1 round of exposure washes it off; otherwise the effect decreases by one range increment per day (four times normal range after 1 day, three times range after 2 days, and so on) until the creature is again at normal scent levels. Create: Craft (alchemy) DC 20",
+		"value": 40,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Hunting Aids",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Allnight",
+		"description": "This treated wafer dissolves into a chalky paste when placed under the tongue and then gives the imbiber a jolt of restless energy. It eliminates the effects of fatigue for the next 8 hours; when the drug’s effect ends, the user is exhausted. Allnight makes its users jittery and unable to focus; they suffer a –2 penalty on all skill checks until its effects wear off.",
+		"value": 75,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Angelstep",
+		"description": "This iridescent white shelf fungus is said to have first grown from the footsteps of an angel, though some claim it instead comes from the footsteps of a djinni. Gather DC 18; Yield 1 dose Terrain temperate or warm deserts Preparation A dose of angelstep can be used raw or processed into a pigment that can be worn on the skin. Processing a dose of the pigment takes 4 hours and requires a successful DC 15 Craft (alchemy) check. Angelstep pigment costs twice as much as the raw fungus. Use As part of an attempt to stabilize a dying creature, a dose of raw angelstep can be rubbed on the creature to grant a +4 bonus on the Heal check to stabilize the creature. A dose of angelstep pigment applied to the skin of a Medium or smaller creature helps to protect that creature against death for 2d4 hours. The next time the wearer of angelstep pigment drops to negative hit points, it gains a +4 alchemical bonus on its next 1d6 Constitution checks to stabilize. The pigment loses its effect once all these checks are attempted or once the victim is stabilized.",
+		"value": 25,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Barbarian chew",
+		"description": "This bitter red chew comes from dried leaves of a stunted bush found in northern climates. It stains the teeth dark crimson but also increases the duration of barbarian rage entered into during the next hour by 1 round.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Belladonna",
+		"description": "Also known as deadly nightshade, this plant, with its distinctive greenish-purple leaves and dull black berries, has served as a cosmetic and medicine for longer than memory despite its toxicity. It can also induce vivid but usually unpleasant hallucinations, particularly ones dealing with flight. Herbalists and others trained to use it safely believe it has numerous applications, including pain relief.",
+		"value": 2,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Black Amaranth",
+		"description": "Black amaranth grows in small clusters from the remains of the dead. Gather DC 18; Yield 1 dose Terrain temperate or warm forests or plains; Preparation The amaranth’s flowers and stalks must be carefully ground into paste. This requires a successful DC 12 Craft (alchemy) check and 1 hour of work. Use A dose of black amaranth paste can be applied to a dead body to slow decay. One dose used on a Tiny or smaller creature delays the onset of decay for 3 days (as per gentle repose). Two doses are needed for Small creatures, 3 for Medium creatures, 6 for Large creatures, 12 for Huge creatures, 24 for Gargantuan creatures, and 48 for Colossal creatures. Each dose applied requires a full-round action that provokes attacks of opportunity.",
+		"value": 100,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Bloody Mandrake",
+		"description": "Bloody mandrakes grow from the corpses of intelligent creatures who had supernatural powers in life. This plant’s unsettlingly humanoid-shaped tuber-like roots increase fertility and vitality. Gather DC 20; Yield 1d4 doses. Terrain any plains or swamps. Preparation A bloody mandrake must be pulped so that its sticky red sap can be gathered, skimmed, and then refined into an even stickier paste; this process requires a successful DC 15 Craft (alchemy) check and 1d4 hours of work per yield. Use One dose of bloody mandrake paste smeared on the lips (this is a free action) during spellcasting can be used as an additional material component when casting spells that remove afflictions and conditions or that provide a morale bonus. Doing so grants a +1 bonus to the spell’s effective caster level.",
+		"value": 15,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Bone Reed",
+		"description": "This aquatic grass resembles translucent white horsetail. Gather DC 24; Yield 1 dose. Terrain any swamps. Preparation A bone reed must be pressed and dried. This process requires a successful DC 10 Craft (alchemy) check and takes 8 hours to complete. Use A creature that sleeps for at least 8 hours in 1 day with a bone reed bound to one of its arms or legs heals double the normal ability damage and hit point damage (or triple with full bed rest). A bone reed loses its effectiveness after use. Binding a bone reed to a limb requires 1 minute of work.",
+		"value": 75,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Cloud Puff",
+		"description": "The spores of this odorous pale-gray fungus cause a euphoric light-headedness. Gather DC 18; Yield 1 dose. Terrain any mountains. Preparation After soaking in salt water for 1 hour, a cloud puff must be dried in a delicate process that requires it to be turned three times per hour for 4 hours. This requires a successful DC 12 Craft (alchemy) check. Use By crushing a dried cloud puff and inhaling the spores, a creature becomes light-headed and its mind grows resistant to outside influences. For the next hour, the creature gains a +2 alchemical bonus on saving throws against mind-affecting effects but takes a –2 penalty on Wisdom-based skill checks.",
+		"value": 100,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Dreamer’s star",
+		"description": "Check Profession (herbalist) DC 13; Weight —; Terrain forests or plains. When the orange petals of this plant are cured and left to steep in hot water, the leaves make a mild, aromatic tea that facilitates restful sleep. When taken before sleeping, this tea grants the drinker the benefits of a full 8 hours of uninterrupted sleep in only 6 hours. One dose of Dreamer’s star makes enough tea to serve six.",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9456"
+	},
+	{
+		"name": "Dragon Rose",
+		"description": "The vivid and thorny dragon rose is admired for its hardiness but is difficult to cultivate. Gather DC 18; Yield 1 dose. Terrain any forests or mountains. Preparation The petals of a dragon rose must be delicately removed from the stem and then soaked in a mixture brewed from the flower stalk’s sap for 2 hours; this requires a successful DC 15 Craft (alchemy) check. Use A dose of prepared dragon rose petals crushed in the hand and then smeared on a weapon (this is a standard action) infuses the weapon with a magic aura. For 1 hour, the weapon can bypass DR/magic, although it doesn’t gain any bonus on attack or damage rolls.",
+		"value": 25,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Dream Lichen",
+		"description": "This multicolored, shimmering lichen grows in places where powerful magical creatures have slept and dreamt. Gather DC 30; Yield 1 dose. Terrain anywhere the boundaries between the Material Plane and the Dimension of Dreams grow thin. Preparation The fibrous outer layer of the lichen must be gently scrubbed away, exposing the soft interior, which must then be allowed to dry after being sprinkled with various alchemical powders. This requires a successful DC 25 Craft (alchemy) check and 8 hours of work. Use A creature that sleeps for at least 8 hours with a dose of dream lichen in contact with its body has vivid dreams in which it endures and recovers from a supernatural affliction. Upon waking, the creature can attempt a new saving throw against a single curse or mind-affecting effect from which it is currently suffering. Alternatively, the user automatically succeeds at a saving throw to remove a temporary negative level.",
+		"value": 2000,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Fairy Cap",
+		"description": "This toadstool’s pale-gray cap is stippled with yellow spots. Its presence often indicates ley lines or fey bowers nearby. Gather DC 20; Yield 1 dose. Terrain any near ley lines. Preparation A fairy cap must be gently simmered (not boiled) in a mixture of water and other natural ingredients for 1 hour; this requires a successful DC 20 Craft (alchemy) check. At the end of this preparation time, the yellow spots’ color changes to bright orange or dark brown—there’s a 50% chance of either development. Use When eaten without proper preparation, a fairy cap is mildly poisonous (save Fort DC 13, onset 1 minute, frequency 1/minute for 6 minutes, effect nauseated for 1 minute, cure 1 save), but when properly prepared, it takes on a not-unpleasant tangy flavor. The final color of a properly prepared fairy cap’s spots determines its effect when consumed. A cap with orange spots causes a Large or smaller creature to grow one size category, while one with brown spots causes the eater to shrink one size category. These effects function as per enlarge person or reduce person, except they can affect any Large or smaller living creature; the effects persist for 10 minutes in either case. Whether or not it is prepared, a fairy cap is quite chewy, and eating it is a full-round action.",
+		"value": 250,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Flayleaf",
+		"description": "These narrow, rust-colored leaves produce a mildly hallucinogenic smoke that also serves as powerful sedative. Users are immune to pain for 4 hours after smoking flayleaf, but during this time they take a –5 penalty on saves against mind-altering effects.",
+		"value": 20,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Garlic",
+		"description": "These pungent white cloves serve as food and medicine and play a role in many traditional cleansing rituals. It is well established that vampires cannot abide the presence of garlic (vampires cannot tolerate the strong odor of garlic and will not enter an area laced with it.)",
+		"value": 0.1,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Goblinvine",
+		"description": "The leaves of this invasive creeper produce oil that irritates the skin, causing red, itchy splotches to cover the affected area. Raw goblinvine leaves can be used as an improvised thrown weapon with a range of 10 feet that causes one creature to be are affected as if by itching powder, but with a save DC of 10. Creatures with the goblinoid subtype are immune to goblinvine. Gather DC 16; Yield 1 dose (1 lb.). Terrain any forests, mountains, plains, or swamps. Preparation Properly preparing a dose of goblinvine requires a successful DC 20 Sleight of Hand check and 1 minute of work to weave and roll the vines into a compact, fist-sized ball so the hairy side of the leaves faces inward. On a failure by 5 or more, the leaves become torn and ruined. If gloves or gauntlets aren’t worn, the preparer is automatically exposed to the goblinvine’s effects. If the preparation check’s result is a natural 1, the preparer is exposed to those effects regardless of any hand protection worn. The goblin vine must then be stored in an area of bright light for at least 1 hour for the inner surface of the leaves to properly “sweat” and build up enough irritating oil to function as a thrown weapon. Use Once woven into a tight ball of vines and left to sweat, a ball of goblinvine leaves can be used as an improvised thrown weapon as a ranged touch attack. On a hit, a target must succeed at a DC 10 Fortitude save or develop a distracting, itchy rash that imposes a –2 penalty on ability checks, attack rolls, saving throws, and skill checks. This effect persists for 10 minutes or until the rash is tended with a successful DC 12 Heal check attempted as a full-round action. This is a poison effect, but creatures with the goblinoid subtype are immune to the effect. Innovative characters (including many goblins) have developed other uses for goblinvine, including as snares and ropes to make those bound or entangled itchy as well, but since goblinvine is relatively fragile, it makes for a very poor substitute for rope.",
+		"value": 30,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Grenade, Sting",
+		"description": "This hollow clay container holds black powder, a slow-burning fuse, and rock salt or hard beads of resin or rubber. Lighting the fuse is a move action; 1d3 rounds later, the sting grenade explodes, dealing 2d6 points of nonlethal damage and 1d6 points of fire damage in a 10-foot-radius burst (Reflex DC 15 half). A sting grenade is treated as a splash weapon with a range increment of 10 feet. Crafting this item requires a successful DC 25 Craft (alchemy) check.",
+		"value": 100,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO90115"
+	},
+	{
+		"name": "Holly",
+		"description": "The bright red berries of the holly tree have many uses as decorations and ritual objects. Druids harvest holly berries with specially prepared tools and during sacred times of the year.",
+		"value": 0,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Holly and mistletoe",
+		"description": "Druids commonly use these plants as divine focuses when casting spells.",
+		"value": 0,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Leaves, Golden Maple",
+		"description": "These potent additives can only be culled from a rare maple tree known to grow exclusively in urban areas. These small, elaborately twisting trees are extremely slow to grow and mature—the leaves reach maturity only once every 3 years—and they are almost always grown and cultivated by half-elves. Additionally, half-elves are keenly aware of the effort put into the leaves’ growth and normally only sell the products of their labors to others of their kind. When the golden maple’s delicate, five-pointed leaves finally take on their namesake’s color, they can be cut, dried, and then ground into a fine powder, a process that requires a DC 15 Knowledge (nature) or Profession (herbalist) check. When used in conjunction with the Craft (alchemy) skill to create special substances and items like alchemical grease or tanglefoot bags, golden maple leaves reduce the Craft DC by 5 and add +1 to the DC of any save required by the alchemical item. A single dose of golden maple leaf powder is sufficient to augment the crafting of three alchemical items.",
+		"value": 50,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Leechwort",
+		"description": "When dried and ground into a powder, the mottled red-and-gray bark of this shrub is a boon to healers. Gather DC 16; Yield 1d4 doses. Terrain warm forests or swamps. Preparation Properly preparing leechwort for use is a time-consuming process that takes 1 week, as fibers of the shrub must be dried and ground until they achieve a fine, powdery texture. A single herbalist can prepare up to a dozen doses simultaneously in this manner. At the end of the week, a successful DC 15 Craft (alchemy) check results in all of the doses being ready for use; failure indicates that all the doses have spoiled. Use When a dose of prepared leechwort is used in conjunction with a Heal check to stabilize a dying creature, provide long-term care, treat wounds from caltrops (or similar effects), or treat deadly wounds, it grants a +1 alchemical bonus on the Heal check. This increases to a +2 alchemical bonus on Heal checks to staunch bleeding.",
+		"value": 3,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Lichen, camouflage",
+		"description": "Though oreads with obviously stony features are rare, almost all oreads have an essentially earthen quality to their skin that makes it perfect for cultivating plant life. Where other races would be appalled at the thought of plants taking root in their flesh, oreads see it as a natural and healthy extension of their elemental nature. For this reason, oread herbalists developed several strains of moss and lichen specifically adapted to grow on their bodies. Camouflage lichen is the most common variety of these oread plants. It takes 1 minute to apply a paste of camouflage lichen spores to the skin, and an additional 24 hours for the fungus to sprout. After this time, the oread is covered in a thin green layer of living plant matter, granting her a +4 bonus on Stealth checks made in green forest and jungle environments. Red-orange and white varieties exist, providing bonuses in appropriately colored environments (red-orange among autumn leaves or in red deserts, white in snow, and so on). Camouflage lichen has a short lifespan; it withers and dies 3 days after being applied, crumbling away into harmless powder. This item only works on oreads and other creatures with rock-like bodies.",
+		"value": 100,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Love-In-Idleness",
+		"description": "The deep-red flower has rich nectar with a honey-like scent. Gather DC 20; Yield 1 dose. Terrain any forests. Preparation A dose of this flower’s nectar must be extracted and stored in an alchemically prepared vial with a successful DC 14 Craft (alchemy) check and 1 hour’s worth of work. Use As a full-round action, a dose of love-in-idleness nectar can be drizzled into the ears of a helpless or willing animal or humanoid. This causes the subject to become much more susceptible to the power of suggestion and mind-affecting effects, taking a –2 penalty on Sense Motive checks and a –1 penalty on saving throws against mind-affecting effects for the next 2d4 hours. This is a poison effect.",
+		"value": 150,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Merfolk’s Comb",
+		"description": "This vibrant yellow and pale-green variety of seaweed has wide fronds with lines of narrow fringe along the upper edge. Gather DC 25; Yield 1 dose. Terrain any underwater. Preparation A single dose of merfolk’s comb must be allowed to dry over a period of 7 days while being rubbed with alchemical oils once daily to prevent the herb from losing its properties during the process. This requires seven separate successful DC 14 Craft (alchemy) checks, one every 24 hours during this week. If even one of those checks is a failure, the dose of merfolk’s comb is ruined. Use Anyone who eats a dose of merfolk’s comb gains the ability to breathe water as well as air for 8 hours.",
+		"value": 750,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Mimameith",
+		"description": "The bark of this wide-trunked but relatively squat tree is resistant to cutting and fire. Gather DC 25; Yield 1d4 doses (5 lbs. per dose). Terrain any forests or mountains. Preparation A living mimameith tree has hardness 7 (rather than the typical hardness 5 for most wooden objects) and fire resistance 5. When a mimameith tree is burned but lives, its bark regrows over time with pale gray scarring—such bark bears special properties. Once harvested, this bark can be processed alchemically. Doing so requires a 5-pound dose of the bark to be soaked in water for 8 hours and then boiled off to a thin layer of tacky paste with a successful DC 20 Craft (alchemy) check. Use When a dose of the pasty residue from mimameith bark is applied to a creature’s skin as a standard action, the subject gains damage reduction 2/bludgeoning, fire resistance 5, and immunity to bleed effects for 1 hour.",
+		"value": 600,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Mistletoe",
+		"description": "This golden-colored parasitic plant grows on many different sorts of trees. Druids harvest mistletoe with specially prepared tools and during sacred times of the year.",
+		"value": 0,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Moly",
+		"description": "Moly is a plant with flowers white as pure milk and roots black as night. Gather DC 25; Yield 1 dose. Terrain any forests or plains. Preparation This flowering herb must be picked whole and boiled with water until the entire amount is reduced by half. The resulting mixture is then strained and poured into a shallow pan to evaporate. The resulting crust is scraped off as a powder. Use Anyone wearing or carrying fresh moly gains a +4 resistance bonus on saving throws against spells and spell-like abilities. Moly remains fresh in this way for only 12 hours, regardless of magical attempts to preserve it. When processed into a powder with a successful DC 25 Craft (alchemy) check, moly can be sprinkled on a creature, object, or area (a standard action) to end a spell as if with dispel magic (caster level 6th).",
+		"value": 1200,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Nepenthe",
+		"description": "This foot-tall blue-green pitcher plant produces a pollen that smells faintly of mint and lures insects and even small vertebrates toward its dangerous mouth. Gather DC 20; Yield 1 dose. Terrain warm forests or swamps. Preparation A dose of pollen must be mixed with alchemical reagents with a successful DC 16 Craft (alchemy) check and then left to sit for 1 hour before it can be used. Use A dose of nepenthe pollen must be inhaled as a standard action, whereupon the potent vapors act upon unpleasant or unknown thoughts and memories. This grants the creature a new saving throw to immediately end a single mind-affecting effect currently affecting the creature (effects that allow no saving throw cannot be removed in this way). An unwilling creature can be dosed with the pollen as a touch attack that provokes an attack of opportunity. A creature can be affected by a dose of nepenthe only once in a single 24-hour period. This is a poison effect.",
+		"value": 400,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Nightsage",
+		"description": "The fragrant purple blossoms of this night-blooming wildflower are so deep in hue that they appear almost black. Gather DC 14; Yield 1 dose. Terrain any jungles. Preparation A dose of nightsage must be sprinkled with holy water periodically over an 8-hour drying process in natural sunlight; this process requires a successful DC 12 Craft (alchemy) check and one flask of holy water. Use When dried nightsage is lit on fire (a standard action), it produces a thin but pleasant-smelling smoke almost like that produced by a stick of incense. A dose of nightsage burns for 10 minutes and can be extinguished and reignited for multiple uses (but it is always used in 1 minute increments, regardless of the actual time spent burning). While nightsage burns, each corporeal undead creature within a 5-foot radius gains a +2 profane bonus on saving throws against positive energy effects (including channel energy effects). Necromancers are fond of supplying their undead minions with small thuribles containing a burning stick of nightsage that can be worn while carrying out their commands. A moderate or stronger wind extinguishes a burning stick of nightsage.",
+		"value": 100,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Poppy tears",
+		"description": "The milk of this vibrant green cactus, when mixed with resins and other ingredients, congeals into sticky, black chunks with an exceedingly sour taste. Though poppy tears comes in several different varieties, it’s refined form is both the most potent and expensive type. Effects: Type ingested or inhaled; Addiction moderate, Fortitude DC 20; Initial Effect(s) 1 hour; +1d2 alchemical bonus to Strength, –2 penalty on saves against illusions and mind-affecting effects Secondary Effect(s) after 1 hour; 1d2 hours of fatigue Damage 1d2 Con and 1d2 Wis damage",
+		"value": 20,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Seeing Slime",
+		"description": "This violet slime mold is found only in rock formations containing nodules of agate. Gather DC 19; Yield 1 dose. Terrain any underground. Preparation After collecting this rare slime mold from where it naturally occurs in the lightless depths, the herbalist must combine the slime with mineral salts and store it in an airtight container such as a bottle or jar. Use The slime causes mild skin rashes, but it grants darkvision out to a range of 30 feet for 24 hours if applied to the eyes (a full-round action that provokes attacks of opportunity). If the subject already had darkvision, the darkvision’s range increases by 30 feet. Frequent use of this herb causes permanent purple blotches on the skin around the user’s eyes.",
+		"value": 160,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Tea, meditation",
+		"description": "Drinking this cloudy tea has a soothing effect that clarifies your thoughts. For 10 minutes after drinking the tea, you gain a +2 alchemical bonus against mind-affecting effects. If you drink meditation tea while suffering from a mind-affecting affect, you may immediately roll another saving throw (with the +2 bonus) against the effect; you may gain this particular benefit only once per day.",
+		"value": 30,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Tea, night",
+		"description": "This frothy tea made from the bone-white, triangular leaves of the night tea plant renders a humanoid female sterile if drunk every day. In high doses, it may be able to end a pregnancy.",
+		"value": 0.1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Tobacco",
+		"description": "These crushed and shredded leaves range in color from peppery red to black; users can either smoke or chew them. Tobacco users experience a certain level of calm and are more easily able to shrug off hunger pangs. Tobacco is addictive (Fort DC 10 to resist), and long-term users suffer Constitution damage.",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Twilight dagger",
+		"description": "Check Profession (herbalist) DC 18; Weight —; Terrain deserts; Found most often in lands heavily modified by magic, this bulbous cactus is topped with twilight-blue flowers. The sap from the cactus can be used as an additive when crafting potions, causing all variable numeric effects of the potion to be determined as if the potion’s caster level were 1 higher. When processed into a powder with a successful DC 15 Craft (alchemy) check, Twilight dagger can be used as an additional material component when casting spells, granting the user a +1 alchemical bonus on caster level checks to overcome spell resistance.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9456"
+	},
+	{
+		"name": "Winterbite",
+		"description": "The white-veined leaves of this minty sprig carry a pleasant and soothing scent. Gather DC 11; Yield 1d4 doses. Terrain any cold. Preparation A dose of winterbite must be dried near an open flame in which certain alchemically treated sawdust and wood chips are burned. This requires a successful DC 12 Craft (alchemy) check and 1 hour. Use When held under the nose and crushed (which takes a standard action), a dose of prepared winterbite releases a pungent, sweet odor that clears the sinuses and sharpens the senses. For the next hour, the user of a dose of prepared winterbite gains a +2 alchemical bonus on scent-based Perception checks.",
+		"value": 20,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1140"
+	},
+	{
+		"name": "Wolfsbane",
+		"description": "The root of this tall plant with blue flowers is toxic, but herbalists use it in low doses to reduce pain and regulate the heart. Folklore says it can help a victim of lycanthropy throw off the curse.",
+		"value": 0.5,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Tanglefoot bag",
+		"description": "A tanglefoot bag is a small sack filled with tar, resin, and other sticky substances. When you throw a tanglefoot bag at a creature (as a ranged touch attack with a range increment of 10 feet), the bag comes apart and goo bursts out, entangling the target and then becoming tough and resilient upon exposure to air. An entangled creature takes a –2 penalty on attack rolls and a –4 penalty to Dexterity and must make a DC 15 Reflex save or be glued to the floor, unable to move. Even on a successful save, it can move only at half speed. Huge or larger creatures are unaffected by a tanglefoot bag. A flying creature is not stuck to the floor, but it must make a DC 15 Reflex save or be unable to fly (assuming it uses its wings to fly) and fall to the ground. A tanglefoot bag does not function underwater. A creature that is glued to the floor (or unable to fly) can break free by making a DC 17 Strength check or by dealing 15 points of damage to the goo with a slashing weapon. A creature trying to scrape goo off itself, or another creature assisting, does not need to make an attack roll; hitting the goo is automatic, after which the creature that hit makes a damage roll to see how much of the goo was scraped off. Once free, the creature can move (including flying) at half speed. If the entangled creature attempts to cast a spell, it must make concentration check with a DC of 15 + the spell’s level or be unable to cast the spell. The goo becomes brittle and fragile after 2d4 rounds, cracking apart and losing its effectiveness. An application of universal solvent to a stuck creature dissolves the alchemical goo immediately.",
+		"value": 50,
+		"weight": 4,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Tar bomb",
+		"description": "A tar bomb is an easy weapon to make, and devastating in use. A head-sized lump of tar is wrapped around a rope and set on fire. You use the rope to lob the burning tar onto an enemy’s deck, where it sticks and sets the ship alight. In many ways, a tar bomb functions as a less potent version of alchemist’s fire, as it deals less damage and lacks the splash damage of the more expensive substance. Treat this attack as a ranged touch attack with a range increment of 10 feet. Lighting a tar bomb is a move action. A hit with a tar bomb deals 1d4 points of fire damage and has the potential to set the struck object or creature on fire, causing an additional 1d6 points of fire damage each round unless the target or an adjacent creature makes a DC 15 Reflex save to extinguish the flames as a full-round action. Knocking the tar bomb or the burning creature or object into a body of water or magically extinguishing the flames automatically smothers the fire.",
+		"value": 15,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO9422"
+	},
+	{
+		"name": "Thunderstone",
+		"description": "You can throw this stone as a ranged attack with a range increment of 20 feet. When it strikes a hard surface (or is struck hard), it creates a deafening bang that is treated as a sonic attack. Each creature within a 10-foot-radius spread must make a DC 15 Fortitude save or be deafened for 1 hour. A deafened creature, in addition to the obvious effects, takes a –4 penalty on initiative and has a 20% chance to miscast and lose any spell with a verbal component that it tries to cast. Since you don’t need to hit a specific target, you can simply aim at a particular 5-foot square. Treat the target square as AC 5.",
+		"value": 30,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Tindertwig",
+		"description": "The alchemical substance on the end of this small, wooden stick ignites when struck against a rough surface. Creating a flame with a tindertwig is much faster than creating a flame with flint and steel (or a magnifying glass) and tinder. Lighting a torch with a tindertwig is a standard action (rather than a full-round action), and lighting any other fire with one is at least a standard action.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Herbs and Plants",
 		"categoryThree": "",
 		"source": "PZO1110"
 	}

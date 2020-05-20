@@ -42,7 +42,7 @@ describe('GET /shop/items/:id', () => {
 });
 
 // Test Post New
-describe('POST /shop/items', () => {
+describe('POST /shop/items/admin/new', () => {
 	const newItem = {
 		name: 'test',
 		description: 'test',
@@ -55,7 +55,7 @@ describe('POST /shop/items', () => {
 	};
 	before((done) => {
 		api
-			.post('/shop/items/new')
+			.post('/shop/items/admin/new')
 			.set('Accept', 'application/json')
 			.send(newItem)
 			.end(() => {
@@ -85,7 +85,7 @@ describe('POST /shop/items', () => {
 });
 
 //Test Update by id
-describe('PUT /shop/items/:id', () => {
+describe('PUT /shop/items/admin/:id', () => {
 	let itemToUpdate;
 	before((done) => {
 		api
@@ -100,7 +100,7 @@ describe('PUT /shop/items/:id', () => {
 	});
 	before((done) => {
 		api
-			.put(`/shop/items/${itemToUpdate._id}`)
+			.put(`/shop/items/admin/${itemToUpdate._id}`)
 			.set('Accept', 'application/json')
 			.send(itemToUpdate)
 			.end(done);
@@ -133,7 +133,7 @@ describe('/shop/items/:id', () => {
 			});
 	});
 	before((done) => {
-		api.delete(`/shop/items/${itemToDeleteId}`).end(done);
+		api.delete(`/shop/items/admin/${itemToDeleteId}`).end(done);
 	});
 	it('should check ID deleted', (done) => {
 		api
