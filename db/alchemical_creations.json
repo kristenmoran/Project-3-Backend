@@ -1,75 +1,1302 @@
 [
 	{
-		"name": "Reagents test",
-		"description": "A Reagents test ",
-		"value": 0.02,
-		"weight": 1,
+		"name": "Brain mold Spores",
+		"description": "The spore of the brain mold fungus is a versatile reagent, and is often combined with other poisonous elements to create deliriums, hallucinogens, and psychotics. Alchemical Power Component Doses 1 (5 gp); Spells charm or compulsion subschool Spells of the charm or compulsion subschools are cast at +1 caster level for the purpose of determining duration.",
+		"value": 5,
+		"weight": 0,
 		"categoryOne": "Alchemical Items",
 		"categoryTwo": "Reagents",
 		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Brimstone/Sulfur",
+		"description": "Brimstone, also called sulfur, has a distinctive odor and caustic properties. Alchemical Power Component Doses 2 (1 gp); Spells acid descriptor Spells with the [acid] descriptor deal +1 acid damage.",
+		"value": 0.5,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Cold Iron",
+		"description": "Cold iron is often used to produce alloyed metals, catalysts, and items that interfere with magic. Alchemical Power Component Doses 5 (5 gp); Spells abjuration school Spells of the abjuration school are cast at +1 caster level for the purpose of caster level and dispel checks.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Darkwood",
+		"description": "The bark of the darkwood tree is useful in numerous alchemical applications, especially those that require a light but strong foundation. Alchemical Power Component Doses 5 (10 gp); Spells creation subschool Spells of the creation subschool are cast at +1 caster level for the purpose of all effects.",
+		"value": 2,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Ginger Extract",
+		"description": "In addition to serving as a spice and as an alchemical reagent, ginger extract has a wide variety of uses in herbal remedies that treat nausea and pain. Alchemical Power Component Doses 10 (5 gp); Spells transmutation school Spells of the transmutation school are cast at +1 caster level for the purpose of overcoming spell resistance.",
+		"value": 0.5,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Gold",
+		"description": "In its purest form, gold is a dense, nonreactive metal. Its alchemical products are useful in stains and in treating swelling, pain, and infections. Alchemical Power Component Doses 1 (5 gp); Spells healing subschool Spells of the healing subschool heal +1 hit point if they heal hit points.",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Keif",
+		"description": "When used as an alchemical reagent, refined keif is often sublimated along with other reagents to create new forms of the famous drug. Alchemical Power Component Doses 1 (15 gp); Spells enchantment school Spells of the enchantment school are cast at +1 caster level for the purpose of determining duration.",
+		"value": 15,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Magnesium",
+		"description": "Magnesium is an extremely light and reactive metal that burns brightly when exposed to air. It is important for all living things, especially plants. Alchemical Power Component Doses 2 (2 gp); Spells transmutation school Spells of the transmutation school are cast at +1 caster level for the purpose of determining duration.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Moondew",
+		"description": "Moondew is derived from a potent herb. It is commonly used in the creation of medicinal, protective, and divinatory items. Alchemical Power Component Doses 5 (20 gp); Spells divination school Spells of the divination school are cast at +1 caster level for the purpose of all effects.",
+		"value": 4,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Mugwort Extract",
+		"description": "Many varieties of mugwort exist; some are used in acupuncture, while others are key ingredients in herbal remedies that ward off fatigue, cold, or even supernatural dangers. Alchemical Power Component Doses 2 (4gp); Spells abjuration school Spells of the abjuration school are cast at +1 caster level for the purpose of determining range.",
+		"value": 2,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Myrrh",
+		"description": "Phosphorus is a highly reactive mineral that glows faintly in air. Vital to all life, it is most commonly used by alchemists to create fertilizers, poisons, soaps, and tindertwigs. It is obtained by processing uric acid or bone ash. Alchemical Power Component Doses 10 (2 gp); Spells light descriptor or teleportation subschool Spells with the [light] descriptor or of the teleportation subschool are cast at +1 caster level for the purpose of determining range.",
+		"value": 0.2,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Powder, Black",
+		"description": "Black powder is a volatile explosive and is the primary component in fireworks and other explosives. Alchemical Power Component Doses 1 (10 gp); Spells evocation school Spells of the evocation school deal 1 additional point of the same type of energy damage.",
+		"value": 10,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Quicksilver",
+		"description": "Quicksilver is a liquid metal with dangerous mental effects on those who handle it. It is most often distilled from crystalline amalgams such as cinnabar and stored in iron flasks. Alchemical Power Component Doses 3 (3 gp); Spells mind-affecting descriptor Spells with the [mind-affecting] descriptor are cast at +1 caster level for the purpose of determining duration.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Realgar",
+		"description": "Realgar, also called ruby of arsenic, is a red crystal useful in creating poisons and medicines. It is commonly purified into arsenic, a crystalline metal known as the “king of poisons” for its popularity among nobles seeking to poison their rivals. Alchemical Power Component Doses 1 (3 gp); Spells poison descriptor The DC to identify or neutralize spells with the [poison] descriptor is increased by +2.",
+		"value": 3,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Salt",
+		"description": "Salt is a vital mineral commodity. It is most commonly used as a desiccant and as a catalyst. Alchemical Power Component Doses 20 (10 gp); Spells necromancy school Spells of the necromancy school are cast at +1 caster level for the purpose of effects.",
+		"value": 0.5,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Saltpeter",
+		"description": "Saltpeter is used to create fertilizers, propellants, fireworks, and preservatives. Alchemical Power Component Doses 1 (1 gp); Spells fire descriptor Spells with the [fire] descriptor deal +1 fire damage.",
+		"value": 3,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Silver",
+		"description": "Silver is a lustrous precious metal used in mirrors, disinfectants, electrics, and illusion-creating magic items. Alchemical Power Component Doses 10; Spells illusion school The DC of Will saves made to disbelieve a spell of the illusion school is increased by +1.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Spirit of Wine",
+		"description": "Spirit of wine is purified, alchemically active alcohol commonly used as a fuel or solvent in alchemical items, specialized inks, and perfumes. It is too pure to drink alone, but can be used as a reagent to form tinctures and alchemical drinks. Alchemical Power Component Doses 6 (3 gp); Spells of the calling and summoning subschools are cast at +1 caster level for the purpose of determining duration of effects.",
+		"value": 0.5,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Urea",
+		"description": "Urea is a highly versatile reagent most commonly used in salves and as a stabilizer for particularly volatile alchemical reactions. Alchemical Power Component Doses 4 (2 gp); Spells cold descriptor Spells with the [cold] descriptor are cast at +1 caster level for the purpose of all effects.",
+		"value": 0.5,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Reagents",
+		"categoryThree": "",
+		"source": "PZO9445"
+	},
+	{
+		"name": "Essence of Night",
+		"description": "Drinking the cold, oily draught in this vial suppresses the effects of the light sensitivity racial trait for 10 minutes. Additionally, 1 sunlight syndrome point is removed, if the drinker has any. Essence of night can remove only 1 sunlight syndrome point per day, no matter how many flasks a character might drink. Essence of night is an alchemical item with a Craft DC of 25.",
+		"value": 150,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Oils and Flammables",
+		"categoryThree": "",
+		"source": "PRG:TWoVHD"
+	},
+	{
+		"name": "Oil, alchemist’s fire (1 flask) ",
+		"description": "You can throw a flask of alchemist’s fire as a splash weapon with a range increment of 10 feet. A direct hit deals 1d6 points of fire damage. Every creature within 5 feet of the point where the flask hits takes 1 point of fire damage from the splash. On the round following a direct hit, the target takes an additional 1d6 points of damage. If desired, the target can use a full-round action to attempt to extinguish the flames before taking this additional damage. Extinguishing the flames requires a DC 15 Reflex save. Rolling on the ground provides the target a +2 bonus on the save. Leaping into a lake or magically extinguishing the flames automatically smothers the fire. Craft (alchemy) DC: 20",
+		"value": 20,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Oils and Flammables",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Oil, anointing",
+		"description": "This sacred oil, infused with aromatic spices and distilled holy water, may be applied to a creature while casting a harmless divine spell with a range of touch, increasing the casting time to a full-round action but also increasing the caster’s effective caster level by +1 for that spell.",
+		"value": 25,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Oils and Flammables",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Oil, kerosine",
+		"description": "Also known as firebreather’s oil, this bitter liquid is harder to ignite than common oil but burns quickly at a low temperature, making it ideal for exotic performers. You may spit a mouthful of kerosine past an open flame (such as a candle, tindertwig, or torch) to ignite it, creating a brief burst of fire. If you use it to attack, the attack is a ranged touch attack with a maximum range of 5 feet that deals 1d3 points of fire damage. If you roll a 1 on your attack roll, you accidentally inhale or swallow some of the burning fuel; you take 1d6 points of fire damage and are nauseated for 1 round. A bottle of kerosine holds enough for 10 mouthfuls; taking a mouthful from the bottle is a standard action (the Rapid Reload feat reduces this to a move action). Create: Craft (alchemy) DC 15",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Oils and Flammables",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Oil, lamp",
+		"description": "A pint of lamp oil burns for 6 hours in a common lantern or lamp. You can also use a flask of lamp oil as a splash weapon. Use the rules for alchemist’s fire, except that it takes a full-round action to prepare a flask with a fuse. Once it is thrown, there is a 50% chance of the flask igniting successfully. You can pour a pint of oil on the ground to cover an area 5 feet square, provided that the surface is smooth. If lit, the oil burns for 2 rounds and deals 1d3 points of fire damage to each creature in the area.",
+		"value": 0.1,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Oils and Flammables",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Oil, quick freeze",
+		"description": "This bottle of viscous blue oil sublimates slightly when exposed to air. When poured over water, the oil pools on the surface and takes 1 round to spread out from the point of origin in a 20-foot radius. At the end of this round, the oil flash-freezes the surface of the water, creating an ice sheet over the affected area. Any 5-foot square of this ice can support up to 200 pounds of weight. Weight in excess of this amount causes the entire sheet to crack and quickly break up. This ice sheet becomes unstable and breaks up on its own after 1 hour, or 20 minutes in a hot climate. Any creature whose bare skin comes in contact with this oil takes 1d6 points of nonlethal damage each round because of the chemical’s volatile nature, but the oil is ineffective as a splash weapon.",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Oils and Flammables",
+		"categoryThree": "",
+		"source": "PZO9430"
+	},
+	{
+		"name": "Oil, stalkers",
+		"description": "This is a clear, viscous liquid that is typically kept in a frosted glass vial with an unassuming label and cork. The oil is used to reduce the sound armor and weapons make while moving. Applying this oil to a single piece of equipment takes 1 minute and grants the wearer a +2 circumstance bonus on Stealth checks for 30 minutes. A vial of this oil is enough to coat one Medium piece of equipment, while a Large piece of equipment requires 4 vials. Two pieces of Small equipment can be covered with a single vial of oil. Exposure to or submersion in large amounts of water, such as swimming, immediately ends the effect of the oil.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Oils and Flammables",
+		"categoryThree": "",
+		"source": "PZO9487E"
+	},
+	{
+		"name": "Oil, wing",
+		"description": "Tengus mix special salves to protect their feathers from the elements. This one-ounce vial of wing oil gives a feathered creature a +1 bonus on all saving throws to resist the effects of cold weather. Its effects last 24 hours.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Oils and Flammables",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Oil, Stink",
+		"description": "This glass container of foul-smelling oil shatters easily upon impact. You can throw a vial of stink oil as a splash weapon with a range increment of 10 feet. If a creature with the scent ability is standing in the square of impact, it must succeed at a DC 14 Fortitude save or be nauseated for 1d4+1 rounds. Any creature with scent in an adjacent square must succeed at a DC 12 Fortitude save or be sickened for 1 round. Creatures without the scent ability are not affected by stink oil.",
+		"value": 15,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Oils and Flammables",
+		"categoryThree": "",
+		"source": "PPZO9410"
+	},
+	{
+		"name": "Alchemist’s lab",
+		"description": "This lab is used for making alchemical items, and provides a +2 circumstance bonus on Craft (alchemy) checks. It has no bearing on the costs related to the Craft (alchemy) skill. Without this lab, a character with the Craft (alchemy) skill is assumed to have enough tools to use the skill but not enough to get the +2 bonus that the lab provides.",
+		"value": 200,
+		"weight": 40,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Alchemist’s lab (portable)",
+		"description": "This compact version of a full-sized alchemist’s lab provides a +1 circumstance bonus on Craft (alchemy) checks.",
+		"value": 75,
+		"weight": 20,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Artificer’s lab (portable)",
+		"description": "The portable artificer’s lab contains everything needed to create magic items, though many of the tools and implements are of only the most basic type. This lab allows the artificer to spend 4 hours crafting each night while out adventuring, and net 3 hours’ worth of work (instead of 2). However, because the tools are all designed to fulfill multiple functions and the portable lab lacks the space and quiet that provide ideal circumstances for creating magic items, the skill check to complete a magic item that had any of its work done using a portable lab takes a –5 penalty.",
+		"value": 300,
+		"weight": 40,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Bomb launcher",
+		"description": "These odd looking, egg-shaped contraptions have cleverly placed fins that improve bombs’ accuracy. Goblin alchemists use these special containers to make their bombs more accurate when thrown long distances. Using a bomb launcher when throwing a bomb increases the bomb’s range increment to 30 feet (or increases the range increment of a bomb with the rocket bomb discovery to 70 feet). Bomb launchers are destroyed when used.",
+		"value": 10,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Buoyant balloon",
+		"description": "This fist-sized alchemically treated animal bladder is tightly sealed around a small wooden grip. By giving the handle a sharp twist you break a tiny glass ampoule just inside the bladder, filling the bag with buoyant gas and causing it to swell into a 3-foot-diameter sphere. Inflating the balloon is a move action. Once filled, the balloon floats upward at a speed of 60 feet per round. The balloon can lift up to 20 pounds of weight as it rises, though carrying more than 10 pounds reduces its speed to 30 feet per round. Multiple balloons attached to a single object add their carrying capacities together when determining how much weight they can lift. If a balloon is not held or bound in place in some manner, it continues to rise until it reaches a height of 600 feet, or until 10 minutes have passed, after which it pops or deflates and is destroyed.",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
 		"source": "PZO1123"
-	},{
-        "name": "Oils and Flammables test",
-        "description": "A Oils and Flammables test ",
-        "value": 0.02,
-        "weight": 1,
-        "categoryOne": "Alchemical Items",
-        "categoryTwo": "Oils and Flammables",
-        "categoryThree": "",
-        "source": "PZO1123"
-    },{
-        "name": "Tools, Devices and Kits test",
-        "description": "A Tools, Devices and Kits ",
-        "value": 0.02,
-        "weight": 1,
-        "categoryOne": "Alchemical Items",
-        "categoryTwo": "Tools and Devices",
-        "categoryThree": "",
-        "source": "PZO1123"
-    },{
-        "name": "Misc. Substances test",
-        "description": "A Misc. Substances ",
-        "value": 0.02,
-        "weight": 1,
-        "categoryOne": "Alchemical Items",
-        "categoryTwo": "Misc. Substances",
-        "categoryThree": "",
-        "source": "PZO1123"
-    },{
-        "name": "Balms, Medicines and Tonics test",
-        "description": "A Balms, Medicines and Tonics test ",
-        "value": 0.02,
-        "weight": 1,
-        "categoryOne": "Alchemical Items",
-        "categoryTwo": "Balms, Medicines and Tonics",
-        "categoryThree": "",
-        "source": "PZO1123"
-    },{
-        "name": "Hunting Aids test",
-        "description": "A Hunting Aids test ",
-        "value": 0.02,
-        "weight": 1,
-        "categoryOne": "Alchemical Items",
-        "categoryTwo": "Hunting Aids",
-        "categoryThree": "",
-        "source": "PZO1123"
-    },{
-        "name": "Herbs and Plants test",
-        "description": "A Herbs and Plants ",
-        "value": 0.02,
-        "weight": 1,
-        "categoryOne": "Alchemical Items",
-        "categoryTwo": "Herbs and Plants",
-        "categoryThree": "",
-        "source": "PZO1123"
-    },{
-        "name": "Special Equipment test",
-        "description": "A Special Equipment ",
-        "value": 0.02,
-        "weight": 1,
-        "categoryOne": "Alchemical Items",
-        "categoryTwo": "Special Equipment",
-        "categoryThree": "",
-        "source": "PZO1123"
-    }
+	},
+	{
+		"name": "Candlerod",
+		"description": "Similar to but weaker than a sunrod, this stick glows like a candle when struck and lasts for 12 hours.",
+		"value": 1,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Grenade, Sting",
+		"description": "Grenade, Sting",
+		"value": 100,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
+		"source": "PZO90115"
+	},
+	{
+		"name": "Light detector",
+		"description": "This hand-sized metal plate is covered with a thin layer of light-sensitive transparent paste. If exposed to light, the paste darkens and becomes opaque, depending on the amount of light. Bright light causes it to fully darken in 1 round, normal light in 3 rounds, and dim light in 10 rounds. It is mainly used by creatures with darkvision to determine whether creatures carrying light have recently passed through an area. The plate is sold wrapped in a thick black cloth to prevent accidental light exposure from ruining the plate.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Pox burster",
+		"description": "A pox burster is an alchemically preserved animal bladder or gourd that has been filled with toxic, rotting materials. You can throw a pox burster as a splash weapon. Treat this attack as a ranged touch attack with a range increment of 10 feet. A direct hit forces a target to immediately make a DC 13 Fortitude save or contract filth fever. Every space adjacent to the target square of the pox burster is covered in disease-causing filth. For the next minute, any creature that is injured while in one of these spaces must also make a DC 9 Fortitude save or contract filth fever.",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Sunrod",
+		"description": "This 1-foot-long, gold-tipped iron rod glows brightly when struck (a standard action). It sheds normal light in a 30-foot radius and increases the light level by one step for an additional 30 feet beyond that area (darkness becomes dim light and dim light becomes normal light). A sunrod does not increase the light level in normal light or bright light. It glows for 6 hours, after which the gold tip is burned out and worthless.",
+		"value": 2,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Water purification sponge",
+		"description": "This fist-sized blue sponge absorbs up to 1 pint of water; squeezing the water out of the sponge filters and purifies it, making it safe for drinking, washing, and similar activities. Filling and emptying the sponge is a full-round action. The filtration is enough to remove mundane impurities and common diseases, but does nothing to protect against poisons, magic, and other exotic threats. Each sponge can cleanse 25 pints of water before deteriorating and becoming useless.",
+		"value": 25,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Tools, Devices and Kits",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Acid (1 flask)",
+		"description": "You can throw a flask of acid as a splash weapon with a range increment of 10 feet. A direct hit deals 1d6 points of acid damage. Every creature within 5 feet of the point where the acid hits takes 1 point of acid damage from the splash. Craft (alchemy) DC: 15",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Air crystals",
+		"description": "These unpleasant-tasting, alchemically grown crystals release breathable air when chewed. A pouch of air crystals provides 1 minute of breathable air. Placing air crystals in your mouth takes a standard action; chewing them each round is a free action. Any attempt to speak while chewing air crystals negates any remaining duration.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9235"
+	},
+	{
+		"name": "Alchemical cement",
+		"description": "You mix this fine gray powder with water and a cubic foot of sand or gravel to form a durable stone-like material. Until it cures, it has the consistency of thick mud, and you must hold it in place (typically with a frame of earth or wood) if you want it to harden in a specific shape. It takes 1d10+10 minutes for the cement to partially cure, gaining hardness 2 and 5 hit points per inch of thickness. After 1d6 hours the cement is fully cured and as hard as true stone.",
+		"value": 5,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Alchemical coal (blinding cinders)",
+		"description": "This jagged bit of dusty red coal allows a kobold to breathe a 30-foot line of coarse cinders. The breath weapon deals 1d6 points of fire damage and blinds creatures in the area for 1 round. A creature that succeeds at a DC 15 Reflex saving throw takes half damage and is not blinded.",
+		"value": 100,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Alchemical coal (choking smoke)",
+		"description": "This crumbling chunk of chalky white coal allows a kobold to breathe a 15-foot cone of foul vapor that deals 1d6 points of acid damage and sickens a creature for 1d4 rounds. A creature that succeeds at a DC 15 Reflex saving throw takes half damage and is not sickened.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Alchemical glue",
+		"description": "This glue is stored as two flasks of syrupy liquid. When mixed together and allowed to cure, they form a strong bond. The glue is sufficient to coat 1 square foot of surface, or (because of waste, spills, and inaccurate mixing) up to 20 smaller applications of approximately 2 square inches each. The glue is tacky after 1 minute and fully cured after 1 hour. Pulling apart a large glued surface (at least 1 square foot) requires a DC 20 Strength check for tacky glue or DC 25 for cured glue. Pulling apart a small glued surface (anything less than 1 square foot) is a DC 15 Strength check for tacky glue or DC 20 for cured glue.",
+		"value": 20,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Alchemical glue accelerant",
+		"description": "This tiny dropper contains a liquid that speeds up the cure time of alchemical glue. Applying the accelerant is a standard action. Accelerated glue is tacky after 1 round and fully cured in 1 minute. The dropper contains 20 doses; each dose is sufficient to cure one small application of alchemical glue. The entire dropper must be used to cure a full square foot of glue.",
+		"value": 25,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Alchemical preserves",
+		"description": "Each small tin of this specially treated jam contains just enough of the gooey stuff to provide a halfling with a single serving of revitalizing nourishment. While any creature can eat these preserves as a standard action, it only affects halflings in a beneficial way. Halflings who eat the preserves recover from fatigue. Non-halflings who eat alchemical preserves become sickened for 1 round.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Alchemical solvent",
+		"description": "This bubbling purple gel eats through adhesives. Each vial can cover a single 5-foot square. It destroys most normal adhesives (such as tar, tree sap, or glue) in a single round but takes 1d4+1 rounds to deal with more powerful adhesives (alchemical glue, tanglefoot bags, spider webbing, and so on). It has no affect on fully magical adhesives, such as sovereign glue. Create: Craft (alchemy) DC 20",
+		"value": 20,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Alchemist’s kindness",
+		"description": "Favored by young rakes and others of means, this is a crystalline powder resembling salt. Mixed with water, it makes a fizzing cocktail that eliminates the effects of a hangover within 10 minutes of drinking it.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Alkali flask",
+		"description": "This flask of caustic liquid reacts with an ooze’s natural acids. You can throw an alkali flask as a splash weapon with a range increment of 10 feet. Against non-ooze creatures, an alkali flask functions as a normal flask of acid. Against oozes and other acid-based creatures, the alkali flask inflicts double damage. Create: Craft (alchemy) DC 20",
+		"value": 15,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "DDR"
+	},
+	{
+		"name": "Alkali salt",
+		"description": "These tiny granules can be dissolved in water, creating a slimy material used to coat metallic items such as weapons or armor. Such a coating neutralizes the metal-eating acid of black puddings and gray oozes, protecting the item from 1d3 contacts with an ooze’s acidic touch. Create: Craft (alchemy) DC 20",
+		"value": 30,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "DDR"
+	},
+	{
+		"name": "Ambrosia",
+		"description": "Upon consumption, this heavenly elixir, brewed from holy water and blessed herbs, grants a +2 sacred bonus on saving throws against negative energy, energy drain, and death effects for 1 hour, including saves to remove negative levels. Ambrosia affects undead and evil outsiders as holy water.",
+		"value": 100,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Black fester",
+		"description": "This black paste is often applied on orc weapons before going on raids to stymie an enemy’s healing magic. Like a poison, black fester stays on a weapon until the first time it strikes an opponent. It remains in the target’s body for 1 hour. A creature exposed to black fester resists magical healing; a creature trying to magically heal the target must make a DC 10 caster level check to restore any hit points to the target.",
+		"value": 30,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Bladeguard",
+		"description": "This clear resin protects a weapon from harmful attacks from oozes, rust monsters, and similar effects that corrode or melt weapons, rendering the weapon immune for 24 hours. One pot can coat one two-handed weapon, two one-handed or light weapons, or 50 ammunition items. Applying it takes 1 full round. Immersing the weapon in water or similar liquid washes it off. Create: Craft (alchemy) DC 15",
+		"value": 40,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Blightburn paste",
+		"description": "This heavy stone box measures 2 feet to a side, and the tiny compartment inside is lined with lead. Inside the compartment is a half-ounce of deep green paste. This paste is made of animal fat mixed with ground-up blightburn. Once the box is opened, blightburn paste limits teleportation within 60 feet and irradiates anyone within 60 feet, afflicting them with blightburn sickness (see sidebar for details on both effects). Any creature that touches the paste is afflicted with blightburn sickness (no save), and takes 2d6 points of fire damage per round until the paste is cleaned away with a successful DC 15 Heal check. Create: Craft (alchemy) DC 30",
+		"value": 5000,
+		"weight": 45,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "KoG"
+	},
+	{
+		"name": "Brewed reek",
+		"description": "Animal musk, spoiled meat, pungent plants, and any other foul-smelling substances on hand go into a batch of brewed reek. When boiled, this mixture becomes a thick alchemical slime that adheres to anything it touches. You can hurl brewed reek as a splash weapon with a range increment of 10 feet. A creature struck with a direct hit must succeed at a DC 15 Fortitude save or be sickened for 2d6 rounds. If the target fails its save, it must make a second Fortitude save or be nauseated for 1 round. Creatures in the splash area must make a Fortitude save or be sickened for 1 round. A creature that drinks brewed reek does not get a saving throw and is sickened for 2d6 rounds and nauseated for 1 round. Create: Craft (alchemy) DC 25",
+		"value": 40,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Censer, Celestial",
+		"description": "This blessed thurible holds up to 10 pieces of incense, and burns at a rate of 1 stick per hour. If a smokestick is added to the incense in the censer while it burns, creatures with the evil subtype are dazzled for as long as they remain within the area of the resulting smoke.",
+		"value": 20,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Censer, Toxic",
+		"description": "This ornately etched censer has a small hidden compartment under the heat source that can hold 1 dose of poison. When in use, the censer’s heat source indirectly heats the poison, causing it to mix with the burning incense and allow the poison to permeate the air, filling a 20-foot radius centered on the censer. The poison’s type changes to inhaled, and it is effective for 5 minutes before it is entirely burned off.",
+		"value": 115,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9487E"
+	},
+	{
+		"name": "Clay, blackfire",
+		"description": "This pliant black clay is always pleasantly warm to the touch. Working blackfire clay in your hands for a full round causes the clay to grow much warmer, granting you a +4 alchemical bonus on saving throws made to resist cold weather. You can combine five blocks of clay over the course of a minute to produce a source of warmth equivalent to a small campfire, allowing you to heat a campsite and cook food. Blackfire clay only produces heat, never light, smoke, or odor. The clay emits warmth for 1 hour before hardening into an unusable lump. A newly created brick of blackfire clay is composed of 10 blocks.",
+		"value": 20,
+		"weight": 10,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Cream, chill",
+		"description": "This sticky light blue paste grows pleasantly cool to the touch whenever it is exposed to light. Spreading a dose on your face and hands takes a full-round action and grants you a +2 alchemical bonus on saves to resist hot weather. In areas of bright light this bonus increases to +4, while in areas of dim light or darkness it is negated. A dose of chill cream lasts for 1 hour after being applied. A newly crafted bottle of chill cream holds 5 doses.",
+		"value": 15,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Defoliant",
+		"description": "This milky fluid can be mixed with water to quickly kill light and medium vegetation. One flask of defoliant kills light brush and small trees in 50 5-foot squares. Light vegetation (anything but trees) dies within 1 hour and can be cleared at a rate of 10 minutes per 5-foot square (representing uprooting dead plants and breaking stumps into gravel-sized pieces), leaving barren ground. Medium vegetation (anything but massive trees) dies in 2 hours and can be cleared at a rate of 1 hour per 5-foot square. Massive trees can usually survive a single dose of defoliant, and using defoliant doesn’t make clearing them any easier. Defoliant can be used as a splash weapon against plant creatures. A direct hit with the undiluted fluid deals 1d6 hit points of damage, 1 point of Strength damage, and 1 point of Constitution damage (Fortitude DC 20 negates the Strength and Constitution damage); plant creatures within 5 feet of the target take 1 hit point of damage.",
+		"value": 30,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Deodorizing agent",
+		"description": "Coating a creature in a vial of this milky, odorless substance takes 1 minute and renders it scentless for 1d3 hours. Creatures that rely on scent for locating creatures do not gain the benefit of this ability against a creature affected by a dose of deodorizing agent.",
+		"value": 30,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZ09429"
+	},
+	{
+		"name": "Dimmer dust",
+		"description": "This small leather pouch is filled with a faintly radioactive ore, with a small percentage of reactants that activate the dust. When used, dimmer dust must be sprinkled in a 5-foot square, which then becomes the center of the dust’s effect. All bright or normal light within 30 feet of the activated dust is reduced to dim light, and any creature attempting to cast a spell with the light descriptor in this area must succeed at a DC 15 caster level check or have spell’s effect be negated. If dimmer dust is exposed to sunlight, it immediately becomes permanently inert. Each pouch contains enough dust for two applications. Create: Craft (alchemy) DC 25",
+		"value": 25,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "KoG"
+	},
+	{
+		"name": "Dye, hide",
+		"description": "This thick, murky liquid comes in a large earthenware jug, and can be purchased in a variety of colors. Hide dye can be applied to the feathers, fur, scales, or skin of most types of animals and magical beasts, allowing creatures a measure of camouflage. Hide dye comes in a variety of colors and shades matching the following different kinds of terrain: cold (including ice, glaciers, snow, and tundra), desert, forest, jungle, mountain (including hills), plains, swamp, underground, urban, and water. One jar of hide dye can be applied to a Small or smaller animal or magical beast in 1 hour. Thereafter, the dyed creature gains a +2 circumstance bonus on Stealth checks in the associated terrain. If the Environment entry in a creature’s statistics indicates that the creature can typically be found in a specific type of terrain (such as an owl’s environment of temperate forests) and the creature is adorned with hide dye of a matching type, the bonus on Stealth checks increases to +4. Applying a new color of dye immediately covers and replaces the previous dye. Hide dye doesn’t adhere to clothing or humanoid flesh, and grants no benefit to creatures other than animals or magical beasts. Once applied, hide dye is waterproof and can’t be rubbed or burned away. It fades after 1d4+1 days unless it’s removed earlier by magical means.",
+		"value": 20,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Dye, marker",
+		"description": "This dye (available in several colors) creates an obvious stain wherever splashed. Washing has no effect for the first 72 hours (though magic can erase it), but it fades completely after 2 weeks. You can throw it as a splash weapon.",
+		"value": 15,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Elemental breath",
+		"description": "This vial at first seems to be empty, but when it’s opened, a rush of wind issues forth from within. When elemental breath is inhaled (as drinking a potion) by an air-breathing creature, that creature does not need to breath air for 10 rounds. A vial of elemental breath must be inhaled on the round it was opened to gain this effect. If it is not, the item is wasted.",
+		"value": 80,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Elemental flux (flask)",
+		"description": "This flask of alchemical powder reacts to the elemental power in suli blood. Adding at least 1 hit point worth of suli blood to it creates an alchemical splash weapon. The splash weapon works like a flask of acid, except the damage is a random energy type (acid, cold, electricity, or fire). A DC 10 Craft (alchemy) check identifies what energy type the activated flask has. The activated flux retains its power for 24 hours before becoming inert material. The Craft (alchemy) DC to create this is 20.",
+		"value": 20,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Embalming fluid",
+		"description": "This fluid is used to preserve corpses, whether for later dissection, taxidermy, necromancy, or magic such as raise dead. Embalming fluid is technically a poison, and using it makes a corpse unpalatable to most animals and vermin, though corpse-eating undead don’t mind the taste. Treating a corpse with embalming fluid takes 1 hour and a successful DC 25 Heal check. The embalmed corpse decays at half the normal rate (each day dead counts as half a day for the purpose of raise dead).",
+		"value": 50,
+		"weight": 10,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Fleshgem (decorative)",
+		"description": "An oread adventurer discovered these small green gemstones when, after suffering a wound from falling on some jagged stones while exploring a cavern, she noticed pieces of beautiful green crystal growing from her skin. Oread jewelers found that these crystals, dubbed fleshgems, seemed to feed on the elemental energy that permeates an oread’s flesh, growing from tiny chips of stone into large, elaborate gemstones. Essentially harmless, implanting fleshgems became a unique racial method of body alteration among oreads, equivalent to tattoos and piercings among other humanoids. Decorative fleshgems cost 1 gp and are merely ornamental.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Fleshgem (spiked)",
+		"description": "An oread adventurer discovered these small green gemstones when, after suffering a wound from falling on some jagged stones while exploring a cavern, she noticed pieces of beautiful green crystal growing from her skin. Oread jewelers found that these crystals, dubbed fleshgems, seemed to feed on the elemental energy that permeates an oread’s flesh, growing from tiny chips of stone into large, elaborate gemstones. Essentially harmless, implanting fleshgems became a unique racial method of body alteration among oreads, equivalent to tattoos and piercings among other humanoids. Decorative fleshgems cost 1 gp and are merely ornamental. Fleshgem spikes, on the other hand, grow into elaborate crystalline shards that function as armor spikes, but the oread wearing them cannot wear armor over the spikes and even normal clothing requires special holes or seams to allow the spikes to stick out. Implanting a set of fleshgem spikes takes 10 minutes, and the resulting shard takes about a week to grow to full size. Removing a fleshgem takes 1 minute; the person removing the gem must make a successful DC 15 Heal check to avoid dealing 1d4 points of damage to the oread. The fleshgem spikes can be sundered or destroyed as if the growths were a worn object (hardness 1, 5 hp), but unless the embedded root of the fleshgem is removed, the shards grow back 1 week later.",
+		"value": 50,
+		"weight": 5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Foam, impact",
+		"description": "This milky white liquid bubbles into a 1-foot-thick semisolid sheet of foam when splashed across the ground. You can spend a minute to apply a flask of impact foam to a 10-foot-radius area, or you can throw the flask as a splash weapon. The foam does not interfere with movement, but reacts strongly to sudden force. A creature that falls onto a sheet of impact foam ignores the first 1d6 points of falling damage and converts the second 1d6 points of falling damage into nonlethal damage. A sheet of impact foam dissolves after 10 minutes or when exposed to at least a gallon of water.",
+		"value": 25,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Fungal stun vial",
+		"description": "Harvested from a rare fungus, these small vials emit a bright blue glow, and are commonly used in intertribal kobold disputes. When broken, a fungal stun vial releases a flash of bright blue light in a 10-foot radius and dim light in a 20-foot radius. All creatures within the flash area must make a Will save (DC 20). Creatures that fail are stunned for 1d2 rounds if they’re in the area of bright light, or are confused for 1 round if in the area of dim light. Create: Craft (alchemy) DC 30",
+		"value": 75,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "KoG"
+	},
+	{
+		"name": "Fury drops",
+		"description": "Anointing a creature’s eyes with a dose of fury drops causes it to immediately fly into a rage for 1d6 rounds, granting it a +2 alchemical bonus to Strength and Constitution, a +1 alchemical bonus on Will saves, and a -2 penalty to AC. The effect is otherwise identical to a barbarian’s rage, and creatures are fatigued at the end of the rage. Only creatures with an Intelligence score of 1 or 2 can be affected by fury drops.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZ09429"
+	},
+	{
+		"name": "Gel, fire ward",
+		"description": "When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from fire or heat damage. You gain fire resistance 5. The gel burns away as it absorbs fire damage; when it absorbs a total of 20 points of fire damage, it is discharged. Fire ward gel counts as protection from energy for the purpose of stacking multiple fire protection effects. Applying fire ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of fire ward gel do not stack; applying more while a dose is active merely resets the potential amount of fire damage absorbed to 20 points.",
+		"value": 150,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Gel, frost ward",
+		"description": "When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from cold damage. You gain cold resistance 5. The gel flakes away as it absorbs cold damage; when it absorbs a total of 20 points of cold damage, it is discharged. Frost ward gel counts as protection from energy for the purpose of stacking multiple cold protection effects. Applying frost ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of frost ward gel do not stack; applying more while a dose is active merely resets the potential amount of cold damage absorbed to 20 points.",
+		"value": 150,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Gel, phosphorescent",
+		"description": "This sealed vial contains 1 ounce of milky white gel. Once the vial’s seal is broken, the liquid reacts with the surrounding air and begins to rapidly heat up, glowing like a candle for 1 hour. After that hour, the oxidization of the chemical agent is complete, and the gel dissolves in a white-hot flash, dealing 3d6 points of fire damage to anything directly in contact with it. A single dose of phosphorescent gel can coat 6 square inches of a surface. Multiple doses of phosphorescent gel can be used to coat larger surfaces, but the amount of damage dealt does not stack. The conflagration occurs in an instant, and the fire generated doesn’t spread, though it can be used to ignite a larger explosive such as a fuse grenade or pot of oil.",
+		"value": 45,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9430"
+	},
+	{
+		"name": "Grease, alchemical",
+		"description": "Each pot of this slick black goo has sufficient contents to cover one Medium or two Small creatures. If you coat yourself in alchemical grease, you gain a +5 alchemical bonus on Escape Artist checks, on combat maneuver checks made to escape a grapple, and to your CMD to avoid being grappled; this lasts 4 hours or until you wash it off. Create: Craft (alchemy) DC 15",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Hobgoblin war draught",
+		"description": "This drink is a foul-smelling alchemical blend of raw alcohol, mashed grubs, and medicinal mushrooms. A hobgoblin under the effects of hobgoblin war draught ignores all penalties resulting from the fatigued and shaken conditions for 10 minutes, after which he must succeed at a DC 15 Fortitude save or be sickened for 1 hour. Anyone lacking the goblinoid subtype who drinks hobgoblin war draught must immediately make a DC 15 Fortitude save or be sickened for 1 hour; success means the drinker ignores all penalties resulting from the fatigued and shaken conditions for 1 minute, after which he is sickened for 10 minutes. Hobgoblin war draught has no effect on creatures that are immune to poison. Create: Craft (alchemy) DC 20* (15 for hobgoblins)",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Hound’s blood",
+		"description": "If you apply the thick, red paste known as hound’s blood to your nostrils or upper lip, it greatly enhances your sense of smell. For most creatures, this grants a +2 alchemical bonus on Perception checks for 1 hour. For gnomes, it briefly grants a super-heightened sense of smell, granting the scent ability for 5 minutes, before the potency is reduced to a +2 alchemical bonus on Perception checks for an additional 1 hour.",
+		"value": 110,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Ifrit’s blood",
+		"description": "Ifrit alchemists claim to make this thick red oil from their own blood—hence the morbid name—but this claim is almost certainly false. Ifrit’s blood ignites upon contact with air, but burns slowly and is unsuitable for use as a splash weapon. A creature can apply a flask of ifrit’s blood to a weapon as a standard action, wreathing the weapon in vibrant red flames for 1 minute. The oil deals 1 point of fire damage on each successful attack with the weapon and deals 1 point of fire damage to the weapon itself, bypassing the weapon’s hardness if any part of it is made of wood. If the oil is applied to a creature’s natural weapons or unarmed strikes, the creature takes 1 point of fire damage each round (though its fire immunity or resistance still applies).",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Incense (10 sticks)",
+		"description": "This aromatic resin, imbued with fragrant oils, is often formed into sticks, cones, or balls and burned in ceremonies or during meditation. A piece of incense burns for 1 hour.",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Incense, scentbane",
+		"description": "Scentbane incense is a form of smokestick that also blocks most scents. As long as the smoke lasts, creatures with the scent special ability must make Perception checks, opposed by the Stealth checks of any creatures within the smoke, to use scent to locate creatures within the smoke. If a creature remains in scentbane incense for 5 rounds or more, the smoke clings to it for 1 round after it leaves, making it similarly difficult to find by scent during that time.",
+		"value": 80,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Incendiary Catalyst",
+		"description": "Incendiary catalyst can be thrown at a creature as a ranged touch attack with a range increment of 10 feet. On a hit, the target is doused with accelerants that give the target vulnerability to fire for 1 round. Incendiary catalyst does not affect creatures that are already vulnerable to fire, and the target’s fire immunity and resistances apply as normal. Crafting this item requires a successful DC 20 Craft (alchemy) check.",
+		"value": 40,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO90115"
+	},
+	{
+		"name": "Liquid ice",
+		"description": "Also known as “alchemist’s ice,” this sealed jar of crystalline blue fluid immediately starts to evaporate once opened. During the next 1d6 rounds, you can use it to freeze a liquid or to coat an object in a thin layer of ice. You can also throw liquid ice as a splash weapon. A direct hit deals 1d6 points of cold damage; creatures within 5 feet of where it hits take 1 point of cold damage from the splash. Create: Craft (alchemy) DC 25",
+		"value": 40,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Noxious aromatic",
+		"description": "Noxious aromatic",
+		"value": 15,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZ09429"
+	},
+	{
+		"name": "Ointment, armor",
+		"description": "This thick lubricant makes the joints of armor move more freely. Applying the ointment takes 1 minute and reduces your armor’s armor check penalty by 1 (to a minimum of –1) for 8 hours.",
+		"value": 30,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Ointment, Loping",
+		"description": "This gray, greasy topical lotion strengthens and straightens the leg muscles of bandy-legged hobgoblins. Applying loping ointment requires 1 full-round action. A hobgoblin under the effects of loping ointment gains a 10-foot alchemical bonus to his speed when using the charge, run, or withdraw action. This bonus lasts for 10 minutes. Loping ointment is specifically created to enhance hobgoblin physiology; other creatures gain no benefit from this ointment and find it unpleasantly itchy. Crafting this item requires a successful DC 25 Craft (alchemy) check.",
+		"value": 60,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO90115"
+	},
+	{
+		"name": "Ooze, grease",
+		"description": "This alchemical concoction can be spread over a Medium or Small creature’s body as a full-round action. It provides a +5 alchemical bonus on Escape Artist checks, CMD checks to avoid a grapple, and Reflex saves to avoid an ooze’s improved grab or engulf abilities, but gives a –5 penalty to disarm checks, grapple checks to start or maintain a grapple or pin, and other checks that may be hindered by a loose grip (such as Climb). One application lasts for up to 1 hour and can be removed with soap and water. Create: Craft (alchemy) DC 25",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "DDR"
+	},
+	{
+		"name": "Ooze, petrified",
+		"description": "This tiny blob of ooze looks like a small disc of green stone when inactive, and is stored in a circular dish with an airtight cover. When the cover is removed and the ooze is exposed to air, the user has 1 minute to handle the rapidly softening ooze before it regains its former viscosity (as well as toxicity) and springs back to life. Although much smaller than an actual ooze creature, this coin-sized blob still deals 1d6 points of acid damage to anything it comes in contact with. Due to its unpredictable nature, petrified ooze is typically only good for breaking or melting whatever object or device on which the user originally sets the ooze, after which the blob quickly scurries into the nearest corner or crevice so it can feed on particles of dust and diminutive prey. Once restored to its viscous form, a petrified ooze moves at a rate of 60 feet per round, and any creature that comes in contact with the ooze must succeed at a DC 12 Reflex save to avoid taking acid damage from it.",
+		"value": 80,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9430"
+	},
+	{
+		"name": "Paste, blackfingers",
+		"description": "This inky paste aids unskilled poison-users. When smeared on the fingers, a dose of blackfingers paste prevents accidental poisoning while applying poison to a weapon, as if the user possessed the poison use ability. A single dose of blackfingers paste lasts for 1d6 hours, but the black stains the stuff creates on the user’s fingers lasts for days. A single dose of this alchemical item costs 50 gp.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9232"
+	},
+	{
+		"name": "Paste, bone",
+		"description": "Typically stored in an airtight leather wineskin cured with rare preservative unguents, bone paste is a powerful alchemical sealant with special deteriorative properties. When squeezed out of its container and exposed to air, bone paste quickly hardens, so in order to apply it to a surface or object one must typically squeeze the paste directly onto the material to be affected. Once applied, bone paste cements itself to the object in just seconds, and hardens into a flaky cast. If applied to any unattended organic material or surface (such as wood, paper, hide, or rope), after 1 hour, bone paste undergoes another alchemical reaction and begins to eat away at the material, dealing 1d4 points of damage each round for 1d6+1 rounds, eating away first at the part of the object to which it was applied and spreading briefly to other parts of the object before dissipating and leaving a small amount of residual dust. Bone paste ignores an organic object’s hardness, and does not deal damage to inorganic objects or surfaces (such as metal, stone, or ceramic). One pouch of bone paste is enough to cover 1 square foot of surface, or (because of waste and spills) up to 20 smaller applications of approximately 2 square inches each.",
+		"value": 75,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9430"
+	},
+	{
+		"name": "Paste, mending",
+		"description": "You can use this smelly, silvery paste to temporarily repair metal objects. It is sold in a sealed flask and reacts with air, turning solid in 1d6+4 minutes. You must make an appropriate DC 20 Craft check to repair a metal item with the broken condition; success means the object loses the broken condition but gains the fragile condition. Increase the DC by +5 if the broken object is a magic item or by +5 if it is a firearm (add both modifiers if the item is a magical firearm). If the check fails, the mending paste is consumed but you may try again with another flask or conventional repair methods.",
+		"value": 25,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Paste, paper wall",
+		"description": "This jar of thick, gritty paste is made from coarsely ground plant matter, weak epoxy, and bat guano. When exposed to air, the moldable substance quickly creates a thin, paper-like surface, which is ideal for creating false earthen walls. Creating a 5-foot-by-5-foot section of paper wall requires a full-round action. Though this false wall is easy to punch through, it requires a successful DC 13 Perception check to identify the wall as a fake. If the creator of the paper wall spends an additional full-round action disguising the wall with dirt and pebbles, the DC increases by 2. Create: Craft (alchemy) DC 15",
+		"value": 10,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "KoG"
+	},
+	{
+		"name": "Plague powder",
+		"description": "This ash-gray powder is refined from the crushed bones of creatures that died of virulent diseases, illegally produced by nefarious alchemists, and sold on the black market to those seeking to spread illness and death. The application of the powder depends on the disease from which it is refined. Someone using powder made from diseases contracted by ingestion must apply it to food (a full-round action) for the victim to consume. Those using powder made from diseases contracted by injury must apply the powder to weapons (a standard action, as per the poison application rules) and deal damage to victims to subject them to the contagion. Diseases contracted by inhalation require the user to disperse the powder by throwing it into the air. Throwing a handful of plague powder is a splash attack with a range increment of 5 feet. Anyone standing in the square of impact must succeed at a save with a DC equal to that of the disease from which the powder is made to avoid contracting the illness, while those in adjacent squares must attempt the same save with a +4 bonus. Diseases spread through contact can use any of the three manners of application. The most common disease refined for these powders is filth fever, costing 144 gp, but refined plague powders of other diseases are available, with a price equal to the base save DC of the disease squared. Making a plague powder always requires access to a sample of the disease and exposes the creator to the disease in question each day of crafting. Crafting a dose of plague powder requires a successful DC 25 Craft (alchemy) check.",
+		"value": 144,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1135"
+	},
+	{
+		"name": "Paste, shrieking",
+		"description": "Created by suspending the spores of a shrieker mushroom in a thick mixture of wheat paste and vermiculite, this thick sludge comes in a soundproof, stone container. Shrieking paste creates an obnoxious piercing noise when exposed to even minute amounts of movement or light. This makes applying the paste a very noisy endeavor at best. However, once the paste is applied and left alone for several rounds, it once again becomes silent. Thereafter, any light source or movement within 10 feet of the paste causes it to shriek for 1d3 rounds. A single container contains enough shrieking paste to coat 1 square foot of a surface. If left undisturbed for several weeks in a dank, lightless setting, shrieking paste might eventually grow into a colony of shrieker mushrooms.",
+		"value": 35,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9430"
+	},
+	{
+		"name": "Plaster, casting",
+		"description": "This white, dry powder mixes with water to form a paste, which hardens over the course of an hour to create a solid material. It can be used to make casts of footprints or carvings, fill in gaps or cracks in walls, or (if applied over a cloth wrapping) create a cast for a broken bone. Hardened plaster has hardness 1 and 5 hit points per inch of thickness. A 5-pound clay pot of plaster can cover about 5 square feet of flat space to a depth of 1 inch, five Medium forearm or lower-leg casts, two Medium full-arm or full-leg casts, or twice as many casts for a Small creature.",
+		"value": 0.5,
+		"weight": 5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Poison tattoo",
+		"description": "This henna-like paste creates a dark brown tattoo on the hands or feet that fades over the next 2d6 days. The tattoo temporarily boosts the strength of a vishkanya’s natural poison, increasing the DC of the next weapon envenomed with the vishkanya’s blood or saliva by +2 (once used, the tattoo is merely decorative and does not affect the creature’s poison). A typical tattoo consists of intricate whorls and spiritual symbols on the hands or feet.",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Powder, flash",
+		"description": "This coarse gray powder ignites and burns almost instantly if exposed to flame, significant friction, or even a simple force such as throwing it against a floor (a standard action). Creatures within the 10-foot-radius burst are blinded for 1 round (Fortitude DC 13 negates).",
+		"value": 50,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Powder, foaming",
+		"description": "When you add this 1-pound bag of green powder to a gallon of water, the two combine to form 50 cubic feet of thick green foam. Unless contained, in 1 round the foam fills a 5-foot-square to a depth of 2 feet. When multiple pounds of powder are used, the foam expands at a rate of one 5-foot square per round. Ground covered with the foam is treated as difficult terrain, but is otherwise harmless. After 1 hour, the foam hardens to form a buoyant material roughly the density of honeycomb. The cured foam is easy to cut, with hardness 0 and 5 hit points per foot of thickness. The cured foam breaks down over a few days, and even faster if exposed to water. Casting transmute mud to rock on uncured foam converts it into a soft, pumice-like stone (hardness 2, 5 hit points per inch of thickness).",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Powder, insomnia",
+		"description": "This fine white powder is a powerful stimulant that affects the nervous systems of any creatures that inhale or ingest it, preventing them from sleeping for 24 hours. A packet of insomnia powder can be thrown as a splash weapon with a range increment of 10 feet. A creature struck by a direct hit must succeed at a DC 12 Fortitude save to avoid the effect, while those in the splash radius must succeed at DC 8 Fortitude saves. This is a poison effect. Although it causes no severe damage, insomnia can cause a creature to be more prone to fatigue or exhaustion. Though it prevents sleep (and thus prevents wizards and some other spellcasters from regaining their spells), insomnia powder does not prevent a creature from meditating or praying. The effects of insomnia powder can be countered by sleep, neutralize poison, or similar effects.",
+		"value": 60,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9430"
+	},
+	{
+		"name": "Powder, itching",
+		"description": "This fine gray powder causes targets to suffer from uncontrollable itching until they spend at least 1 round washing it off. Throwing a packet of itching powder is a splash attack with a range increment of 10 feet. Anyone standing on the square of impact must succeed on a DC 12 Fortitude save to resist the powder, while those in adjacent squares must make a DC 8 Fortitude save. Creatures that fail the save take a –2 penalty on attack rolls, saving throws, skill checks, and ability checks. Create: Craft (alchemy) DC 25",
+		"value": 60,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Powder, normal",
+		"description": "Powdered chalk, flour, and similar materials are popular with adventurers for their utility in pinpointing invisible creatures. Throwing a bag of powder into a square is an attack against AC 5, and momentarily reveals if there is an invisible creature there. A much more effective method is to spread powder on a surface (which takes 1 full round) and look for footprints.",
+		"value": 0.01,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Powder, rusting",
+		"description": "This flaky brown powder derived from rust monster fluids causes iron and similar metals to corrode and fall apart. If you apply a dose of rusting powder to a metal lock or trap as part of using the Disable Device skill, you gain a +5 alchemical bonus to open the lock or disable the trap, but there is a 75% chance that the mechanism is destroyed and cannot be used afterward. If the check fails, the mechanism is destroyed. A destroyed lock cannot be unlocked (but still counts as locked for the purpose opening the locked object). A destroyed trap mechanism immediately triggers the trap. If you fail the DC by 5 or more, the powder also lands on an object in your square (including possibly your armor or weapon), dealing 5 hit points of damage to the object. Rusting powder is sold in a paper tube; you apply it by tearing the ends off the tube and blowing the flakes into the target device. Rusting powder does not affect gold, silver, copper, bronze, brass, or mithral, but easily affects iron, steel, and adamantine.",
+		"value": 60,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Powder, sneezing",
+		"description": "This coarse yellowish-red powder is a splash weapon that causes uncontrollable sneezing for 1d4+1 rounds. Anyone standing in the square of impact must succeed on a DC 12 Fortitude save to resist the powder, while those in adjacent squares must make DC 8 Fortitude saves. Creatures affected by sneezing powder must make a DC 10 Fortitude save every round for the duration or be staggered until their next turn. Create: Craft (alchemy) DC 25",
+		"value": 60,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Reanimating fluid",
+		"description": "This viscous, translucent green fluid is typically stored in a large syringe. When injected into a mostly intact corpse of a Medium or smaller creature that has been dead for no more than 1 day (time spent under effects like gentle repose don’t count against this time), the fluid gives the corpse a rudimentary semblance of life, reactivating its nerves and muscle tissue. This causes the corpse to reanimate and shamble around erratically for 1 minute. The result is not an undead creature, nor is it a construct. The reanimated corpse remains utterly lifeless and is driven only by muscular spasms that cause it shuffle 20 feet in a random direction each round, gasping and blinking eerily as it goes. When the corpse hits a solid barrier or is attacked, it stops moving. On its next turn, roll 1d8 to determine where it goes next. On a 1, it continues forward in the same direction it had been previously moving (or runs up against the same barrier). On a 2, it turns 45º clockwise and heads in that direction; on a 3, it turns 90º clockwise and heads in that direction; and so on. The corpse can’t attack, doesn’t defend itself, and—as an object—has AC 10 and 12 hit points. Crafting a syringe of reanimating fluid requires a successful DC 25 Craft (alchemy) check.",
+		"value": 100,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1135"
+	},
+	{
+		"name": "Powder Ball",
+		"description": "This steel sphere is about the size of a standard cannon ball, though it’s significantly lighter. Small holes pock the surface of the sphere, which can be unscrewed into two hemispherical pieces. By filling the intricate hollows in an opened powder ball with a specific mixture of volatile chemical reagents (which can typically be purchased for around 200 gp) and inserting a proprietary fuse, an individual can use the weapon as a time-delayed explosive device, throwing it as a splash weapon or simply placing it where she wants it to explode. The fuse can be ignited as a move action; 1d4 rounds afterward, the powder ball explodes, dealing 2d6 points of fire damage to anything in a 10-foot-radius burst (DC 15 for half). A powder ball explodes in this way three times— the second explosion occurs 1d3 rounds after the initial explosion, and the third explosion occurs 1d2 rounds after the second. After the third explosion, the empty powder ball can be refilled and used again.",
+		"value": 400,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9257"
+	},
+	{
+		"name": "Repellent, vermin",
+		"description": "This vile-smelling white paste keeps vermin at bay if spread on the skin. Normal-sized (Fine) vermin avoid you. Swarms of vermin must make a DC 15 Fortitude saving throw in order to enter your square. Once applied, vermin repellent remains effective for 4 hours or until you spend 1 round washing it off. Create: Craft (alchemy) DC 20",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Salve, exemplar weapon",
+		"description": "This alchemical salve strengthens the material of a weapon, improves its balance, gives it greater flexibility without sacrificing resilience, and enhances its ability to hold an edge or point and survive an impact. An application turns a typical non-magical melee weapon into a masterwork weapon. A double weapon requires 2 doses of exemplar weapon salve, and 50 arrows, bolts, or similar ammunition can be enhanced by a single application.",
+		"value": 350,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9455"
+	},
+	{
+		"name": "Salve, stonechipper",
+		"description": "This gritty, gray ointment weakens rocky materials. When applied to an object made of stone, it reduces the object’s hardness by 3 for 10 minutes. As a standard action, a creature can apply the paste to affect one 5-foot-square or a Medium or smaller creature. The paste only affects hardness, not damage reduction or similar defenses.",
+		"value": 150,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Scent cloak",
+		"description": "This collection of coarsely ground spices, seeds, and alchemical reagents overrides your scent, increasing the DC of tracking you by scent by +10 for 24 hours. Because you still have a smell, creatures with scent can still detect and pinpoint if you are cloaked; they just can’t identify your smell as something unique. Washing for 1 full round removes the scent cloak",
+		"value": 20,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Shadowcloy (flask)",
+		"description": "This thin black liquid is stored in airtight flasks because it evaporates quickly when exposed to air. Its cloying vapors cling to a target, obscuring vision for a short period of time. You can throw a shadowcloy flask as a splash weapon with a range increment of 10 feet. A direct hit means the target treats the ambient light as one category darker than normal, with a creature already in natural darkness treating it as supernatural darkness. This effect lasts for 1 round. A thrown shadowcloy flask has no effect on adjacent creatures or if it misses.",
+		"value": 25,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Silversheen",
+		"description": "Blades made of this special metal count as alchemical silver weapons and are immune to rust, including that of rust monsters, the rusting grasp spell, and so on. They are always masterwork weapons—most often scimitars or longswords; the listed price includes the cost of the masterwork bonus. Requirements Craft (alchemy) 5 ranks, Craft (weaponsmithing) 5 ranks;",
+		"value": 750,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9406"
+	},
+	{
+		"name": "Sky Mine",
+		"description": "Dwarves fill these 20-foot-diameter cloth balloons with a secret and highly flammable gas (included in the price) and then release them into the sky over their enemies. To transform the balloons into decoys, dwarven siege warriors place dummies in cargo baskets beneath the balloons to look like balloonist scouts or snipers. Whoever releases the balloon can attempt a DC 15 Profession (driver), Knowledge (nature), or Wisdom check; if the check is successful, the balloon can be guided out to a maximum range of 300 feet, a far enough distance for archers to safely shoot the balloon with flaming arrows, causing it to explode in a devastating ball of fire. A detonated sky mine creates a 50-foot-radius burst of flame that deals 10d6 points of fire damage to anything in the area.",
+		"value": 1000,
+		"weight": 500,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9257"
+	},
+	{
+		"name": "Smoke Pellet",
+		"description": "This small clay sphere contains two alchemical substances separated by a thin barrier. When you break the sphere, the substances mingle and fill a 5-foot square with a cloud of foul but harmless yellow smoke. The smoke pellet acts as a smokestick, except the smoke only lasts for 1 round before dispersing. You may throw a smoke pellet as a ranged touch attack with a range increment of 10 feet. Create: Craft (alchemy) DC 20",
+		"value": 25,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9430"
+	},
+	{
+		"name": "Smoke pellet, pepper",
+		"description": "The smoke from a pepper pellet is an ocular and respiratory irritant, and creatures that are hit by a pepper pellet or pass through the smoke must succeed at a DC 12 Fortitude save or be sickened for 1 round.",
+		"value": 60,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9430"
+	},
+	{
+		"name": "Smoke Pellet",
+		"description": "The smoke from a smog pellet is oily, and creatures that are hit by a smog pellet or pass through the smoke are covered in thick residue. This residue makes invisible creatures visible for 1d4 rounds.",
+		"value": 40,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9430"
+	},
+	{
+		"name": "Smokestick",
+		"description": "This alchemically treated wooden stick instantly creates thick, opaque smoke when burned. The smoke fills a 10-foot cube (treat the effect as a fog cloud spell, except that a moderate or stronger wind dissipates the smoke in 1 round). The stick is consumed after 1 round, and the smoke dissipates naturally after 1 minute.",
+		"value": 20,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Soul stimulant",
+		"description": "This soothing elixir was created to counter the energy-draining effects of vampires, wights, and similar horrible creatures. If you have a negative level (whether temporary or permanent), you can drink a dose of soul stimulant, negating the negative level’s penalty for 12 hours. You can only benefit from 1 dose of soul stimulant at a time, though you can continue to take a dose every 12 hours to stave off the negative level’s effects.",
+		"value": 300,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Spellscorch",
+		"description": "Refined from rare underground crystals, this poison causes a burning headache that impedes spellcasting. If the target fails its Fortitude save, for the next minute the target must make a Concentration check with a DC equal to 10 + spell level to cast a spell, and all other concentration checks to cast spells take a –5 penalty. Type poison (injury); Save Fort DC 14; Onset —; Frequency 1/rd. for 4 rds.; Effect see text; Cure 1 save;",
+		"value": 200,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Spider sac",
+		"description": "Despite their name, spider sacs have nothing to do with spiders but rather are alchemical devices with a unique delivery system. Used for climbing as well as combat, these grayish, gourd-like pouches are made of a specially grown fungus with a tough but rubbery exterior. The fungoid is carefully harvested, pierced at one end, hollowed out, and then injected with a strong alchemical adhesive that hardens to a fibrous material almost instantly when exposed to air. When squeezed, a spider sac’s adhesive shoots out to a maximum range of 10 feet and sticks to whatever it strikes, whereupon the strand dries instantly into a durable fibrous rope. For the purposes of climbing, treat a spider sac as a grappling hook except that all surfaces are AC 5. A spider sac can also be used as a lasso except with AC 10, 4 hit points, and a DC 24 Strength check to burst. A spider sac is a single-use item.",
+		"value": 30,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Sunderblock",
+		"description": "This lumpy, lard-like, alchemical substance is designed to protect armor and weapons from dents and cracks that commonly develop in close-combat equipment. When liberally applied to armor or weapons, the material provides a greasy surface that blunts impacts, causes blades to slide aside, and strengthens the gear it is applied to. A single container holds enough sunderblock to coat a single weapon or suit of armor as a full-round action. The effects aren’t pronounced enough to increase the Armor Class bonus of a suit of armor, but the hardness of armors and weapons coated with sunderblock increases by 5. This bonus lasts for 12 hours, at which point the greasy substance dries and flakes away.",
+		"value": 35,
+		"weight": 2,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9455"
+	},
+	{
+		"name": "Terrap sap (distilled)",
+		"description": "When first opened, this sealed jar releases such an overwhelmingly antiseptic odor that it covers other smells until it disperses (1d6 rounds after opening). Creatures within 20 feet of the jar get a +5 alchemical bonus on all saves against scent-based attacks while the sap’s odor remains, but they automatically fail any scent-based Perception checks during that time. Create: Craft (alchemy) DC 15",
+		"value": 30,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Unguent, fiendgore",
+		"description": "When this unguent—prepared with vile alchemical reagents and the gore of fiends—is applied to a wounded tiefling or evil outsider (not currently at maximum hit points), it momentarily transforms the essence of the target into something even more fearsome and demonic. While under the effects of a fiendgore unguent, a tiefling or an evil outsider gains a +2 circumstance bonus on Intimidate checks and a +1 circumstance bonus to the DC of all spells with the fear descriptor that they cast. Applying the unguent is a delicate process, requiring a full-round action, and can only be properly applied to a willing or helpless creature. If applied to a creature other than a tiefling or an evil outsider, it sickens the creature instead. The unguent’s effects (either beneficial or harmful) last for 1 minute.",
+		"value": 75,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Unstable Accelerant",
+		"description": "A volatile mix of incendiary reagents, unstable accelerant can be thrown just like alchemist’s fire. In the hands of an alchemist, a flask of unstable accelerant can be used as part of creating a bomb, increasing its fire damage by +1d6 points. It has no effect on bombs that do not deal fire damage. If the bomb lasts for more than an instant, the extra damage only applies to the first round’s damage. Create: Craft (alchemy) DC 25",
+		"value": 50,
+		"weight": 0.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Vitus (flask)",
+		"description": "Drinking this crystal-clear liquid accelerates the natural process of healing Constitution damage. Resting for 1 hour after drinking a vial heals the drinker of 1 point of Constitution damage as if the drinker had benefited from a full night’s rest. Taking multiple doses in an hour does not increase the rate of healing; as each dose must be taken individually, followed by an hour of rest, for it to have any effect. Using more than 4 doses in 1 day has no effect.",
+		"value": 80,
+		"weight": 0,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Weapon blanch, adamantine",
+		"description": "These alchemical powders have a gritty consistency. When poured on a weapon and placed over a hot flame for a full round, they melt and form a temporary coating on the weapon. The blanching gives the weapon the ability to bypass one kind of material-based damage reduction, such as adamantine, cold iron, or silver. The blanching remains effective until the weapon makes a successful attack. Each dose of blanching can coat one weapon or up to 10 pieces of ammunition. Only one kind of weapon blanch can be on a weapon at one time, though a weapon made of one special material (such as adamantine) can have a different material blanch (such as silver), and counts as both materials for the first successful hit.",
+		"value": 100,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Weapon blanch, cold iron",
+		"description": "These alchemical powders have a gritty consistency. When poured on a weapon and placed over a hot flame for a full round, they melt and form a temporary coating on the weapon. The blanching gives the weapon the ability to bypass one kind of material-based damage reduction, such as adamantine, cold iron, or silver. The blanching remains effective until the weapon makes a successful attack. Each dose of blanching can coat one weapon or up to 10 pieces of ammunition. Only one kind of weapon blanch can be on a weapon at one time, though a weapon made of one special material (such as adamantine) can have a different material blanch (such as silver), and counts as both materials for the first successful hit.",
+		"value": 20,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Weapon blanch, ghost salt",
+		"description": "This gritty alchemical powder is made from exotic minerals mixed with an infusion crafted from the ectoplasmic remains of destroyed incorporeal undead. When rubbed onto a weapon that is then placed over a hot flame for a full round, ghost salt melts and forms a temporary coating on the weapon. The blanching gives the weapon the ability to do full damage to incorporeal creatures, even if the weapon itself is non-magical. An application of ghost salt remains effective until the weapon makes a successful attack. Each dose of weapon blanch can coat one weapon or up to 10 pieces of ammunition. Only one kind of weapon blanch can be on a weapon at one time.",
+		"value": 200,
+		"weight": 10.5,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO9235"
+	},
+	{
+		"name": "Weapon blanch, silver",
+		"description": "These alchemical powders have a gritty consistency. When poured on a weapon and placed over a hot flame for a full round, they melt and form a temporary coating on the weapon. The blanching gives the weapon the ability to bypass one kind of material-based damage reduction, such as adamantine, cold iron, or silver. The blanching remains effective until the weapon makes a successful attack. Each dose of blanching can coat one weapon or up to 10 pieces of ammunition. Only one kind of weapon blanch can be on a weapon at one time, though a weapon made of one special material (such as adamantine) can have a different material blanch (such as silver), and counts as both materials for the first successful hit.",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Alchemist’s",
+		"description": "Alchemist’s",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Alchemical Items",
+		"categoryTwo": "Misc. Substances",
+		"categoryThree": "",
+		"source": "PZO1110"
+	}
 ]
