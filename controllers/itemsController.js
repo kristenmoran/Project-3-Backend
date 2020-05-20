@@ -50,7 +50,35 @@ router.get('/adventuring/hunting', (req, res, next) => {
 		categoryTwo: 'Hunting and Fishing',
 	})
 		.then((items) => res.json(items))
-		.catch(next);
+		.catch(next); //Test Delete by ID
+	describe('/shop/items/:id', () => {
+		let itemToDeleteId;
+		before((done) => {
+			api
+				.get('/shop/items/')
+				.set('Accept', 'application/json')
+				.end((error, response) => {
+					const items = response.body;
+					itemToDeleteId = items[items.length - 1]._id;
+					done();
+				});
+		});
+		before((done) => {
+			api.delete(`/shop/items/${itemToDeleteId}`).end(done);
+		});
+		it('should check ID deleted', (done) => {
+			api
+				.get('/shop/items/')
+				.set('Accept', 'application/json')
+				.end((error, response) => {
+					const itemToFind = response.body.find(
+						(item) => item.id === itemToDeleteId
+					);
+					expect(itemToFind).to.equal(undefined);
+					done();
+				});
+		});
+	});
 });
 
 //Adventuring Gear/Misc. Outdoors Gear
@@ -661,14 +689,14 @@ router.get('/:id', (req, res, next) => {
 });
 
 //Post New
-router.post('/new', (req, res, next) => {
+router.post('/admin/new', (req, res, next) => {
 	Item.create(req.body)
 		.then((item) => res.json(item))
 		.catch(next);
 });
 
 //Edit by ID
-router.put('/:id', (req, res, next) => {
+router.put('/admin/:id', (req, res, next) => {
 	Item.findOneAndUpdate({ _id: req.params.id }, req.body, {
 		new: true,
 	})
@@ -677,14 +705,11 @@ router.put('/:id', (req, res, next) => {
 });
 
 //Delete by ID
-router.delete('/:id', (req, res, next) => {
+router.delete('/admin/:id', (req, res, next) => {
 	Item.findOneAndDelete({
 		_id: req.params.id,
 	})
 		.then((item) => res.json(item))
 		.catch(next);
 });
-{
-}
-
 module.exports = router;

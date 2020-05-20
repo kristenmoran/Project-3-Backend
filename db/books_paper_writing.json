@@ -1,8 +1,28 @@
 [
 	{
-		"name": "Books test",
-		"description": "A Books test ",
-		"value": 0.02,
+		"name": "Book, adventurer’s chronicle",
+		"description": "Numerous volumes and editions of the Adventurer’s Chronicles exist. When used as a reference (an action that typically takes 1d4 full rounds of searching the text), an Adventurer’s Chronicle grants a +2 circumstance bonus on a specific Knowledge check. Each Adventurer’s Chronicle grants this bonus to a different type of Knowledge, but regardless of which type that particular chronicle is focused on, the overall cost of the book remains the same. Price 50 gp; Weight 1 lb. Source PZO9226 *Are you looking for the “official” version of this item? Click here to find it!",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO9226"
+	},
+	{
+		"name": "Book, arcane family workbook",
+		"description": "The elven predilection for becoming wizards and the social benefits that elven wizards enjoy often encourages families to dedicate themselves to wizardly studies for multiple generations. Older elven wizards take note of their own insights into the secrets of arcane magic and compile these thoughts with the ideas of earlier generations to form family workbooks. When used as a reference (an action that typically takes 1d4 full rounds of searching the text), an arcane family workbook grants a +2 circumstance bonus on a Spellcraft checks. This bonus increases to +4 if 1d4 hours are spent referencing the book.",
+		"value": 300,
+		"weight": 3,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Book, blue",
+		"description": "This book details the seedier entertainment establishments in one major city. It contains the names of brothels, burlesque houses, and gambling halls in that city. By consulting the book for 1 hour, for the next 24 hours you gain a +2 circumstance bonus on Knowledge (local), Bluff, and Diplomacy checks to gather or use information in that city. At the GM’s discretion, you can use it in settlements near that city for a +1 bonus",
+		"value": 5,
 		"weight": 1,
 		"categoryOne": "Books, Paper, & Writing Supplies",
 		"categoryTwo": "Books",
@@ -10,33 +30,453 @@
 		"source": "PZO1123"
 	},
 	{
-		"name": "Inks and Writing Utensils test",
-		"description": "A Inks and Writing Utensils test ",
-		"value": 0.02,
+		"name": "Book, cypher",
+		"description": "These books, always sold in identical pairs, contain numbered grids on each page which simply and easily catalog random lists of words. This allows a user to write messages which substitute letters and numbers that reference the page, row, and column of a particular word found within the cypher book. A creature without access to the appropriate cypher book takes a –10 penalty on Linguistic checks made to decipher each page of a coded message. Writing a message using the cipher takes 10 times as long as writing an uncoded message, and decoding it with the cipher book takes as much time as writing the original coded message.",
+		"value": 150,
+		"weight": 2,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Book, footprints",
+		"description": "This 50-page tome contains accurate drawings of various common animal, humanoid, and monster tracks, as well as notes on stride length, tread depth, and similarly useful information. The book gives you a +2 circumstance bonus to identify a creature by its tracks, though the use of shoes makes identifying many humanoids difficult or impossible. Though the book can’t help you identify unique individuals, it can help you tell an ogre footprint from a troll footprint, or an elf’s track from an orc’s. Books sold in different areas may have different footprints, depending on what creatures are common to that location.",
+		"value": 50,
+		"weight": 3,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Book, heritage",
+		"description": "This collection of genealogical tables, descriptions of common traits found in particular noble families, heraldry, scurrilous rumors, and ancestral deeds provides readers with a great deal of insight into the aristocracy. Consulting this book grants a +2 circumstance bonus on Knowledge (nobility) checks.",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Book, hollow",
+		"description": "Book, hollow",
+		"value": 15,
+		"weight": 13,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1134"
+	},
+	{
+		"name": "Book, journal",
+		"description": "This is a blank, lightweight book with an oilskin cover. It has 50 paper pages.",
+		"value": 10,
 		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Book, obsession log",
+		"description": "Gnomes use these small books to record information about their obsessions. When a gnome consults her obsession log (taking 1 minute), she gains a +2 circumstance bonus on the next Craft or Profession check she makes, as long as that skill was the one chosen for her obsessive racial trait.",
+		"value": 25,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Book, of letters",
+		"description": "This portfolio contains examples of official letters along with proper forms of address, etiquette, and turns of phrase. Used by bureaucrats, diplomats, and clerks, it’s also useful for counterfeiting official correspondence. It provides a +2 circumstance bonus on Diplomacy checks when dealing with city officials and a +2 circumstance bonus on Linguistics checks when creating forgeries. A book of letters is only accurate for a particular region, such as a country or even a town, and only provides its bonus relating to that region. Price 50 gp; Weight 3 lbs.",
+		"value": 50,
+		"weight": 3,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Book, of puzzles",
+		"description": "Each book contains 10 puzzles made to test the mind and stir the intellect. Solving a single puzzle requires at least an hour and a successful DC 10 Intelligence check, though every 5 points by which you exceed the check reduces the amount of time you need to solve the puzzle by 10 minutes (to a minimum of 10 minutes to solve an individual puzzle). Once you solve a puzzle, for the next 24 hours you can choose to roll twice on a single Disable Device, Knowledge, or Sense Motive skill check and take the higher result. Once all the puzzles are solved, the book is useless, though you can purchase another puzzle book with different",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1129"
+	},
+	{
+		"name": "Book, of War Prayers",
+		"description": "This small, leather-bound collection of war prayers features pages of fine vellum. If you have a Charisma of 13 or higher, or at least 1 rank in Perform (oratory), you can read aloud prayers from the book before battle to hearten others for the trials to come. Reading prayers for this effect takes 10 minutes. You grant those who hear your prayers a +2 morale bonus on the next saving throw against fear they attempt, as long as that saving throw is made in the next 24 hours.",
+		"value": 50,
+		"weight": 0.5,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1129"
+	},
+	{
+		"name": "Book, portrait",
+		"description": "This 100-page book contains face drawings of male and female dwarves, elves, gnomes, half-elves, half-orcs, halflings, and humans. By selecting an appropriate drawing and adding hair, beard, or other small features such as moles or scars, even a poor artist can quickly create a reasonable likeness of a specific person— for example, an inquisitor making wanted posters of a half-elven witch.",
+		"value": 10,
+		"weight": 3,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Book, dream prophecies",
+		"description": "This is the religious text of a group who worship the ideals of cleanliness and sexual abstinence. It details the extremely strict dietary, sexual, and clothing restrictions which followers must follow.",
+		"value": 75,
+		"weight": 10,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Book, Tome of Epics",
+		"description": "This hefty book is bound in oilskin and decorated with scenes of glorious combat between ancient heroes and ferocious monsters. It contains several tales of valor, defeat, and victory, all with brightly colored illustrations. After consulting the book for 1 hour, for the next 24 hours you gain a +2 bonus on Perform (oratory) and Perform (sing) checks and a +2 circumstance bonus on Knowledge (nobility) checks pertaining to heroic lineages.",
+		"value": 50,
+		"weight": 3,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Book, traveler’s dictionary",
+		"description": "Each of these books references a specific language and has two sections. The first presents a wide variety of useful phrases and words in Common (arranged by category) followed by a phonetic representation of the same in the language that the book deals with. The second section provides an alphabetical (by phonetic spelling) collection of words and phrases in the second language and their approximate Common translation. Using this book does not grant a bonus on rolls to communicate, but at the GM’s discretion it can negate or reduce a penalty if the other creature is patient enough to wait for the translation.",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Book, Dungeon Guide (“Grave Journal“)",
+		"description": "Accuracy +6; Associated Skill Knowledge (religion) (DC 25); DESCRIPTION This long-lost tome contains the detailed accounts of the mysterious and terrible things found when exploring a haunted burial ground centuries ago. SKILL BONUSES See through a vampire or dhampir’s disguise (Perception +4)",
+		"value": 4600,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PPC:DHB"
+	},
+	{
+		"name": "Book, Dungeon Guide (“Observations of the Drowned City“)",
+		"description": "Accuracy +5; Associated Skill Knowledge (geography) (DC 25); DESCRIPTION Compiled from the recovered diaries of a clerk, this waterproof volume is a useful guide to those exploring the drowned city. Most of the information is dated, but the sketched maps and descriptions of major buildings remain useful. SKILL BONUSES Balance on slippery surface (Acrobatics +4)",
+		"value": 3500,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PPC:DHB"
+	},
+	{
+		"name": "Book, Dungeon Guide (“A Thread Of Silver“)",
+		"description": "Accuracy +7; Associated Skill Knowledge (engineering) (DC 25); DESCRIPTION This thick leather-bound book was stolen by unknown hands, and describes one of the earliest surveys of a famous mountain and nearby ruins. Assassins brutally hunt down anyone with a copy. SKILL BONUSES Disable clockwork traps (Disable Device +2) Evaluate certain relics (Appraise +4) Identify construct creature (Knowledge [arcana] +4)",
+		"value": 6700,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PPC:DHB"
+	},
+	{
+		"name": "Spellbook",
+		"description": "A spellbook has 100 pages of parchment, and each spell takes up one page per spell level (one page each for 0-level spells).",
+		"value": 15,
+		"weight": 3,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Spellbook, compact",
+		"description": "Compact Spellbook The need to be able to record and travel with dozens or even hundreds of spells often forces some wizards to seek lighter spellbooks. Compact spellbooks hold only 70 pages of spells, but they weigh significantly less than an ordinary spellbook.",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Spellbook, traveling",
+		"description": "Compact Spellbook The need to be able to record and travel with dozens or even hundreds of spells often forces some wizards to seek lighter spellbooks. Compact spellbooks hold only 70 pages of spells, but they weigh significantly less than an ordinary spellbook.",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Book Lariat",
+		"description": " This braided metal cord comes with a clasp that affixes to the lock of a standard spellbook. The other end of the cord attaches to a belt or belt loop. The cord is 10 feet long and retractable. If you drop your spellbook while it’s attached to the lariat, you can recover the spellbook as a standard action. While attached to you, the book can never be farther than 10 feet from you. Unclasping the book requires a move action, or the cord can be cut to free the book (hardness 5, hp 10).",
+		"value": 0.3,
+		"weight": 0.5,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1129"
+	},
+	{
+		"name": "Chalk (1 piece)",
+		"description": "This fat piece of white chalk easily marks wood, metal, or stone. You can write with it for about 24 hours before it is expended. Chalk also comes in other colors, but these are rarer and can be more expensive.",
+		"value": 0.01,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Charcoal (1 stick)",
+		"description": "Sticks of charcoal are useful for marking floors and walls, writing on paper or parchment, and making rubbings of engravings or other markings. In a pinch, they can even be burned to stay warm. A good quality rubbing generally takes 1 minute per sheet of paper.",
+		"value": 0.5,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PCS:SOS"
+	},
+	{
+		"name": "Ink",
+		"description": "This vial contains 1 ounce of ink. Ink in colors other than black costs twice as much.",
+		"value": 8,
+		"weight": 0,
 		"categoryOne": "Books, Paper, & Writing Supplies",
 		"categoryTwo": "Inks and Writing Utensils",
 		"categoryThree": "",
 		"source": "PZO1123"
 	},
 	{
-		"name": "Things to Write, Paint, or Draw On test",
-		"description": "A Things to Write, Paint, or Draw On test ",
-		"value": 0.02,
-		"weight": 1,
+		"name": "Ink, ghost",
+		"description": "Pale blue when wet, ghost ink quickly dries to near transparency 1 minute after application. Ghost ink is most often used to blaze trails and mark locations in a subtle manner. The pigment shines with a warm red glow under the light shed by fire beetle glands and sunrods, but under optimal normal conditions (such as a pale surface like parchment or a plaster wall) can only be noticed with a successful DC 25 Perception check. One vial of ghost ink is the size of a potion vial and sufficient for writing a page’s worth of characters.",
+		"value": 25,
+		"weight": 0,
 		"categoryOne": "Books, Paper, & Writing Supplies",
-		"categoryTwo": "Things to Write, Paint, or Draw On",
+		"categoryTwo": "Inks and Writing Utensils",
 		"categoryThree": "",
-		"source": "PZO1123"
+		"source": "PCS:SOS"
 	},
 	{
-		"name": "Other Writing Supplies and Tools test",
-		"description": "A Other Writing Supplies and Tools test ",
-		"value": 0.02,
+		"name": "Ink, glowing (vial)",
+		"description": "Glowing ink emits a faint but steady light (typically red or green) that allows you to read it even in normal darkness. You have a +2 bonus on Perception checks to locate objects with glowing ink. Mixing glowing ink with marker dye makes the dye glow in the dark until it fades.",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ink, invisible (simple)",
+		"description": " Craft (alchemy) DC 15; This ink is keyed to a single, fairly common trigger, such heat or vinegar. A successful DC 20 Craft (alchemy) check takes 1 hour and reveals the message without the proper trigger.",
+		"value": 2,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ink, invisible (average)",
+		"description": "Create Craft (alchemy) DC 20; This ink is keyed to either two common triggers or one uncommon trigger, such as blood or acid. A successful DC 25 Craft (alchemy) check takes 1 hour and reveals the message without the proper trigger.",
+		"value": 10,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ink, invisible (good)",
+		"description": "Create Craft (alchemy) DC 20; This ink is keyed to either two uncommon triggers or one rare trigger, such as a specific vintage of wine or a specific kind of monster’s blood. A successful DC 30 Craft (alchemy) check takes 1 hour and reveals the message without the proper trigger.",
+		"value": 25,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ink, invisible (superior)",
+		"description": "Create Craft (alchemy) DC 25; This ink is keyed to either two rare triggers or one unique trigger, such as the blood of a specific person. A successful DC 35 Craft (alchemy) check takes 1 hour and reveals the message without the proper trigger.",
+		"value": 75,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ink, light fire (vial)",
+		"description": "This alchemically infused ink ensures secret messages destroy themselves after being read. If light strikes the ink after it has dried, chemicals cause it to spontaneously combust within about a minute. The combustion is small—not significant enough to ignite anything but paper. Ink used on other materials such as stone or wood simply vanishes, leaving no trace of the writing. A vial of this ink holds enough to write 10 brief messages of no more than 50 words each. Light fire ink can be created with a DC 25 Craft (alchemy) check.",
+		"value": 40,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1129"
+	},
+	{
+		"name": "Ink, stink",
+		"description": "Stink ink is a special, pungent, musk-based ink that allows its user to encode information with smell rather than visually. Stink ink dries clear but its sharp, extremely localized smell can be picked out by those with sensitive enough noses to make it possible to read by sense of smell. Only creatures with the keen senses trait or scent ability can read stink ink without aid of some form of magic. Reading or writing something with stink ink takes twice as long as going through the same amount of information written in normal ink.",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Ink, stink (arcane)",
+		"description": "Most common among ratfolk alchemists, arcane stink ink is used to inscribe formulae or spells into formula books and spellbooks. Like normal stink ink, the arcane version can only be read by creatures with the scent ability (although read magic works normally on spells and arcane formulae inscribed with stink ink). Using arcane stink ink to inscribe a spell or formula into a book costs +10% of the normal amount.",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Ink, fire",
+		"description": "This rich yellow ink reacts with a creature’s body heat to create a flickering, flame-like glow. It takes 10 minutes to apply fire ink, and 1 dose covers an approximately hand-sized area. Once applied, the ink glows as a candle for 24 hours. Four or more doses applied to the same part of the body glow as a torch for 24 hours. The alchemical reaction of the ink to the target’s skin and body heat is painful and irritating, giving the target the sickened condition while the glow lasts. A DC 15 Heal check can temporarily soothe these sensations, negating the sickened condition for 1 hour. Creatures immune or resistant to fire are immune to this sickening effect. Ifrits are especially known for their fondness for fire ink, and ifrit fire-dancers often decorate their skin with flaming designs before performing. A concentrated version of the ink costs 10 times as much and can be used to make permanently glowing tattoos.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Inkpen",
+		"description": "This is a wooden stylus with a metal tip that retains a small amount of ink after you dip it in a vial of ink.",
+		"value": 0.1,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Chalkboard",
+		"description": "A wooden frame approximately the same size as a large book surrounds this thinly sliced piece of polished black stone. Rubbing a simple damp cloth over the slate erases anything scribed with chalk on its surface.",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Paper (1 sheet)",
+		"description": "A sheet of ordinary paper typically measures 9 inches by 6 inches and is unsuitable for making magical scrolls. It has hardness 0, 1 hit point, and a break DC of 5.",
+		"value": 0.4,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Paper, glue (1 sheet)",
+		"description": "This 1-foot-square piece of paper is coated on one side with a weak glue or sticky material such as tree sap or even honey. It is stored folded in half. If you apply glue paper to a window before you break it, the broken pieces stick to the glue rather than noisily falling to the ground. Glue paper is good for a single use.",
+		"value": 0.1,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Paper, rice (1 sheet)",
+		"description": "This sheet of paper is made of rice, straw, or tree bark. It has hardness 0, 1 hit point, and a break DC of 2.",
+		"value": 0.05,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Parchment (1 sheet)",
+		"description": "This sheet of thin, treated animal skin is a durable writing surface and is suitable for making magic scrolls. It has hardness 0, 2 hit points, and a break DC of 5.",
+		"value": 0.2,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Stationery",
+		"description": "Generally used only by the wealthy, fancy stationery is a finer-quality 9-inch-by-6-inch paper, often embossed or engraved with the owner’s personal seal.",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Case, map or scroll",
+		"description": "A bone, leather, or wooden scroll case easily holds four scrolls; you can cram more inside but retrieving any of them becomes a full-round action rather than a move action. You must destroy the scroll case to damage its contents (hardness 2 for leather or 5 for wood, 2 hit points, Break DC 15). A scroll case is not water-tight.",
+		"value": 1,
+		"weight": 0.5,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Other Writing Supplies and Tools",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Pantograph",
+		"description": "This metal framework of parallel strips is used to duplicate drawings, allowing enlarging (up to twice the original size) or shrinking (down to half the original size) of the copy in the process. The pantograph is anchored, then fitted with a stylus and a writing implement such as chalk, an ink pen, or a pencil. As the stylus is traced over the drawing or other item to be duplicated, the pantograph reproduces the motions, creating a copy. While handy for making quick, accurate copies of ancient carvings, runes, and drawings, a pantograph is unable to produce a convincing forgery. More elaborate and expensive pantographs allow even larger or smaller copies to be made, or multiple copies to be made at the same time.",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Other Writing Supplies and Tools",
+		"categoryThree": "",
+		"source": "PCS:SOS"
+	},
+	{
+		"name": "Printing press (1 page)",
+		"description": "A hand-cranked press uses a plate on which all of the text on a page is carved in reverse. Changing the plate is a simple process, but creating a new one is expensive and labor-intensive. The press prints one page at a time, at a rate of about five pages per minute. A stationer then needs to cut and trim the pages and bind the book.",
+		"value": 250,
+		"weight": 150,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Other Writing Supplies and Tools",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Quill, Poisoned",
+		"description": "This long pen is made from a delicate feather and has a thin and unusually long nib. The quill is typically white in color, though variations that are crimson, onyx, or some combination of these colors also exist. A hidden compartment inside the nib allows the quill to hold a single dose of poison that is dispensable with a small squeeze. Additionally, this provides a +2 circumstance bonus on Sleight of Hand checks to conceal poisons inside the quill. If this quill is used with vector ink, it increases the DC of a poison mixed with the ink by 1. This quill can be used as a small shiv to deal 1d3 points of damage and deliver its contained poison. However, because of the fragility of the nib, using the quill in this way destroys it.",
+		"value": 30,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Other Writing Supplies and Tools",
+		"categoryThree": "",
+		"source": "PPC:P&P"
+	},
+	{
+		"name": "Sealing wax",
+		"description": "Solid wax used for sealing scroll tubes or scrolls together.",
+		"value": 1,
 		"weight": 1,
 		"categoryOne": "Books, Paper, & Writing Supplies",
 		"categoryTwo": "Other Writing Supplies and Tools",
 		"categoryThree": "",
-		"source": "PZO1123"
+		"source": "PZO1110"
 	}
 ]
