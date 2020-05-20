@@ -689,14 +689,14 @@ router.get('/:id', (req, res, next) => {
 });
 
 //Post New
-router.post('/new', (req, res, next) => {
+router.post('/admin/new', (req, res, next) => {
 	Item.create(req.body)
 		.then((item) => res.json(item))
 		.catch(next);
 });
 
 //Edit by ID
-router.put('/:id', (req, res, next) => {
+router.put('/admin/:id', (req, res, next) => {
 	Item.findOneAndUpdate({ _id: req.params.id }, req.body, {
 		new: true,
 	})
@@ -705,7 +705,7 @@ router.put('/:id', (req, res, next) => {
 });
 
 //Delete by ID
-router.delete('/:id', (req, res, next) => {
+router.delete('/admin/:id', (req, res, next) => {
 	Item.findOneAndDelete({
 		_id: req.params.id,
 	})
