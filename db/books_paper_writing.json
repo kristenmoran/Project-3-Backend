@@ -1,8 +1,28 @@
 [
 	{
-		"name": "Books test",
-		"description": "A Books test ",
-		"value": 0.02,
+		"name": "Book, adventurer’s chronicle",
+		"description": "Book, adventurer’s chronicle",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO9226"
+	},
+	{
+		"name": "Book, arcane family workbook",
+		"description": "Book, arcane family workbook",
+		"value": 300,
+		"weight": 13,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Book, blue",
+		"description": "Book, blue",
+		"value": 5,
 		"weight": 1,
 		"categoryOne": "Books, Paper, & Writing Supplies",
 		"categoryTwo": "Books",
@@ -10,33 +30,443 @@
 		"source": "PZO1123"
 	},
 	{
-		"name": "Inks and Writing Utensils test",
-		"description": "A Inks and Writing Utensils test ",
-		"value": 0.02,
+		"name": "Book, cypher",
+		"description": "Book, cypher",
+		"value": 150,
+		"weight": 2,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Book, footprints",
+		"description": "Book, footprints",
+		"value": 50,
+		"weight": 3,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Book, heritage",
+		"description": "Book, heritage",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Book, hollow",
+		"description": "Book, hollow",
+		"value": 15,
+		"weight": 13,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1134"
+	},
+	{
+		"name": "Book, journal",
+		"description": "Book, journal",
+		"value": 10,
 		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Book, obsession log",
+		"description": "Book, obsession log",
+		"value": 25,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Book, of letters",
+		"description": "Book, of letters",
+		"value": 50,
+		"weight": 3,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Book, of puzzles",
+		"description": "Book, of puzzles",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1129"
+	},
+	{
+		"name": "Book, of War Prayers",
+		"description": "Book, of War Prayers",
+		"value": 50,
+		"weight": 0.5,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1129"
+	},
+	{
+		"name": "Book, portrait",
+		"description": "Book, portrait",
+		"value": 10,
+		"weight": 3,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Book, dream prophecies",
+		"description": "Book, dream prophecies",
+		"value": 75,
+		"weight": 10,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Book, traveler’s dictionary",
+		"description": "Book, traveler’s dictionary",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1123"
+	},
+	{
+		"name": "Book, Dungeon Guide (“Grave Journal“)",
+		"description": "Book, Dungeon Guide (“Grave Journal“)",
+		"value": 4600,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PPC:DHB"
+	},
+	{
+		"name": "Book, Dungeon Guide (“Observations of the Drowned City“)",
+		"description": "Book, Dungeon Guide (“Observations of the Drowned City“)",
+		"value": 3500,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PPC:DHB"
+	},
+	{
+		"name": "Book, Dungeon Guide (“A Thread Of Silver“)",
+		"description": "Book, Dungeon Guide (“A Thread Of Silver“)",
+		"value": 6700,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PPC:DHB"
+	},
+	{
+		"name": "Spellbook",
+		"description": "Spellbook",
+		"value": 15,
+		"weight": 3,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Spellbook, compact",
+		"description": "Spellbook, compact",
+		"value": 50,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Spellbook, traveling",
+		"description": "Spellbook, traveling",
+		"value": 10,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Book Lariat",
+		"description": "Book Lariat",
+		"value": 0.3,
+		"weight": 0.5,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Books",
+		"categoryThree": "",
+		"source": "PZO1129"
+	},
+	{
+		"name": "Chalk (1 piece)",
+		"description": "Chalk (1 piece)",
+		"value": 0.01,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Charcoal (1 stick)",
+		"description": "Charcoal (1 stick)",
+		"value": 0.5,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PCS:SOS"
+	},
+	{
+		"name": "Ink",
+		"description": "Ink",
+		"value": 8,
+		"weight": 0,
 		"categoryOne": "Books, Paper, & Writing Supplies",
 		"categoryTwo": "Inks and Writing Utensils",
 		"categoryThree": "",
 		"source": "PZO1123"
 	},
 	{
-		"name": "Things to Write, Paint, or Draw On test",
-		"description": "A Things to Write, Paint, or Draw On test ",
-		"value": 0.02,
-		"weight": 1,
+		"name": "Ink, ghost",
+		"description": "Ink, ghost",
+		"value": 25,
+		"weight": 0,
 		"categoryOne": "Books, Paper, & Writing Supplies",
-		"categoryTwo": "Things to Write, Paint, or Draw On",
+		"categoryTwo": "Inks and Writing Utensils",
 		"categoryThree": "",
-		"source": "PZO1123"
+		"source": "PCS:SOS"
 	},
 	{
-		"name": "Other Writing Supplies and Tools test",
-		"description": "A Other Writing Supplies and Tools test ",
-		"value": 0.02,
+		"name": "Ink, glowing (vial)",
+		"description": "Ink, glowing (vial)",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ink, invisible (simple)",
+		"description": "Ink, invisible (simple)",
+		"value": 2,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ink, invisible (average)",
+		"description": "Ink, invisible (average)",
+		"value": 10,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ink, invisible (good)",
+		"description": "Ink, invisible (good)",
+		"value": 25,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ink, invisible (superior)",
+		"description": "Ink, invisible (superior)",
+		"value": 75,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Ink, light fire (vial)",
+		"description": "Ink, light fire (vial)",
+		"value": 40,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1129"
+	},
+	{
+		"name": "Ink, stink",
+		"description": "Ink, stink",
+		"value": 5,
+		"weight": 1,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Ink, stink (arcane)",
+		"description": "Ink, stink (arcane)",
+		"value": 5,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Ink, fire",
+		"description": "Ink, fire",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1121"
+	},
+	{
+		"name": "Inkpen",
+		"description": "Inkpen",
+		"value": 0.1,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Chalkboard",
+		"description": "Chalkboard",
+		"value": 1,
+		"weight": 2,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Paper (1 sheet)",
+		"description": "Paper (1 sheet)",
+		"value": 0.4,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Paper, glue (1 sheet)",
+		"description": "Paper, glue (1 sheet)",
+		"value": 0.1,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Paper, rice (1 sheet)",
+		"description": "Paper, rice (1 sheet)",
+		"value": 0.05,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Parchment (1 sheet)",
+		"description": "Parchment (1 sheet)",
+		"value": 0.2,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO1115"
+	},
+	{
+		"name": "Stationery",
+		"description": "Stationery",
+		"value": 1,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Inks and Writing Utensils",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Case, map or scroll",
+		"description": "Case, map or scroll",
+		"value": 1,
+		"weight": 0.5,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Other Writing Supplies and Tools",
+		"categoryThree": "",
+		"source": "PZO1110"
+	},
+	{
+		"name": "Pantograph",
+		"description": "Pantograph",
+		"value": 50,
+		"weight": 2,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Other Writing Supplies and Tools",
+		"categoryThree": "",
+		"source": "PCS:SOS"
+	},
+	{
+		"name": "Printing press (1 page)",
+		"description": "Printing press (1 page)",
+		"value": 250,
+		"weight": 150,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Other Writing Supplies and Tools",
+		"categoryThree": "",
+		"source": "PZO9410"
+	},
+	{
+		"name": "Quill, Poisoned",
+		"description": "Quill, Poisoned",
+		"value": 30,
+		"weight": 0,
+		"categoryOne": "Books, Paper, & Writing Supplies",
+		"categoryTwo": "Other Writing Supplies and Tools",
+		"categoryThree": "",
+		"source": "PPC:P&P"
+	},
+	{
+		"name": "Sealing wax",
+		"description": "Sealing wax",
+		"value": 1,
 		"weight": 1,
 		"categoryOne": "Books, Paper, & Writing Supplies",
 		"categoryTwo": "Other Writing Supplies and Tools",
 		"categoryThree": "",
-		"source": "PZO1123"
+		"source": "PZO1110"
 	}
 ]

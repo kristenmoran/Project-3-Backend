@@ -50,7 +50,35 @@ router.get('/adventuring/hunting', (req, res, next) => {
 		categoryTwo: 'Hunting and Fishing',
 	})
 		.then((items) => res.json(items))
-		.catch(next);
+		.catch(next); //Test Delete by ID
+	describe('/shop/items/:id', () => {
+		let itemToDeleteId;
+		before((done) => {
+			api
+				.get('/shop/items/')
+				.set('Accept', 'application/json')
+				.end((error, response) => {
+					const items = response.body;
+					itemToDeleteId = items[items.length - 1]._id;
+					done();
+				});
+		});
+		before((done) => {
+			api.delete(`/shop/items/${itemToDeleteId}`).end(done);
+		});
+		it('should check ID deleted', (done) => {
+			api
+				.get('/shop/items/')
+				.set('Accept', 'application/json')
+				.end((error, response) => {
+					const itemToFind = response.body.find(
+						(item) => item.id === itemToDeleteId
+					);
+					expect(itemToFind).to.equal(undefined);
+					done();
+				});
+		});
+	});
 });
 
 //Adventuring Gear/Misc. Outdoors Gear
@@ -684,7 +712,4 @@ router.delete('/:id', (req, res, next) => {
 		.then((item) => res.json(item))
 		.catch(next);
 });
-{
-}
-
 module.exports = router;
