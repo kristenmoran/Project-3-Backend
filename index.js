@@ -3,7 +3,6 @@ const app = express();
 const cors = require('cors');
 const itemsController = require('./controllers/itemsController');
 const { handleErrors } = require('./middleware/custom_errors');
-// 
 
 app.set('port', process.env.PORT || 8000);
 
