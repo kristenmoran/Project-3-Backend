@@ -271,7 +271,7 @@
 	},
 	{
 		"name": "Coffee, common",
-		"description": "This drink is brewed by pouring boiling water through crushed, roasted coffee beans. A very strong form is potent enough to reduce the penalties from the fatigued condition from –2 to –1 for 1 hour. Note that to gain any special benefits, a drinker typically must consume two cups.",
+		"description": "This drink is brewed by pouring boiling water through crushed, roasted coffee beans. A very strong form is potent enough to reduce the penalties from the fatigued condition from –2 to –1 for 1 hour. Note that to gain any special benefits, a drinicker typically must consume two cups.",
 		"value": 0.01,
 		"weight": 0.5,
 		"categoryOne": "Food and Drink",

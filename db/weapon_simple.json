@@ -176,7 +176,7 @@
 		"weight": 3,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "One-handed",
+		"categoryThree": "One-Handed",
 		"source": "PZO1110"
 	},
 	{
@@ -186,7 +186,7 @@
 		"weight": 2,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "One-handed",
+		"categoryThree": "One-Handed",
 		"source": "PPZO9410"
 	},
 	{
@@ -196,7 +196,7 @@
 		"weight": 8,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "One-handed",
+		"categoryThree": "One-Handed",
 		"source": "PZO1110"
 	},
 	{
@@ -206,7 +206,7 @@
 		"weight": 6,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "One-handed",
+		"categoryThree": "One-Handed",
 		"source": "PZO1110"
 	},
 	{
@@ -216,7 +216,7 @@
 		"weight": 3,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "One-handed",
+		"categoryThree": "One-Handed",
 		"source": "PZO1110"
 	},
 	{
@@ -226,7 +226,7 @@
 		"weight": 1,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Two-Handed",
 		"source": "PZO1115"
 	},
 	{
@@ -236,7 +236,7 @@
 		"weight": 9,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Two-Handed",
 		"source": "PPC:Pirates"
 	},
 	{
@@ -246,7 +246,7 @@
 		"weight": 4,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Two-Handed",
 		"source": "PZO9468"
 	},
 	{
@@ -256,7 +256,7 @@
 		"weight": 4,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Two-Handed",
 		"source": "PZO9468"
 	},
 	{
@@ -266,7 +266,7 @@
 		"weight": 9,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Two-Handed",
 		"source": "PPZO94102"
 	},
 	{
@@ -276,7 +276,7 @@
 		"weight": 9,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Two-Handed",
 		"source": "PZO1110"
 	},
 	{
@@ -286,7 +286,7 @@
 		"weight": 4,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Two-Handed",
 		"source": "PZO1110"
 	},
 	{
@@ -296,7 +296,7 @@
 		"weight": 6,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Two-Handed",
 		"source": "PZO1110"
 	},
 	{
@@ -306,7 +306,7 @@
 		"weight": 8,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Two-Handed",
 		"source": "PZO1115"
 	},
 	{
@@ -316,7 +316,7 @@
 		"weight": 8,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Two-Handed",
 		"source": "PZO9468"
 	},
 	{
@@ -326,7 +326,7 @@
 		"weight": 1,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Ranged",
 		"source": "PZO1110"
 	},
 	{
@@ -336,7 +336,7 @@
 		"weight": 8,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Ranged",
 		"source": "PZO1110"
 	},
 	{
@@ -346,7 +346,7 @@
 		"weight": 8,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Ranged",
 		"source": "PZO1121"
 	},
 	{
@@ -356,7 +356,7 @@
 		"weight": 4,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Ranged",
 		"source": "PZO1110"
 	},
 	{
@@ -366,7 +366,7 @@
 		"weight": 4,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Ranged",
 		"source": "PZO1121"
 	},
 	{
@@ -386,7 +386,7 @@
 		"weight": 2,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Ranged",
 		"source": "PZO1110"
 	},
 	{
@@ -396,7 +396,7 @@
 		"weight": 0,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Ranged",
 		"source": "PZO1110"
 	},
 	{
@@ -406,7 +406,7 @@
 		"weight": 9,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Ranged",
 		"source": "PPZO9410"
 	},
 	{
@@ -416,7 +416,7 @@
 		"weight": 4,
 		"categoryOne": "Weapon",
 		"categoryTwo": "Simple",
-		"categoryThree": "Two-handed",
+		"categoryThree": "Ranged",
 		"source": "PPC:RTT"
 	},
 	{

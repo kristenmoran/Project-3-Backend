@@ -921,7 +921,7 @@
 	},
 	{
 		"name": "Javelin, stormshaft",
-		"description": "Damage 1d4 (small), 1d6 (medium) Critical ×2 Type piercing Range Increment 30 ft. (projectile) Category ranged Proficiency exotic Weapon Groups spears, thrown; This single-use javelin bears a thunderstone just behind the head. If you successfully strike a target with one of these javelins, the creature takes damage as normal and is the center of the thunderstone’s effect. If you miss, roll to see where the javelin lands (as if determining a miss with a splash weapon); that square becomes the center of the thunderstone’s effect.",
+		"description": "Damage 1d4 (small), 1d6 (medium) Critical ×2 Type piercing Range Increment 30 ft. (projectile) Category weapons/exotic/tworanged Proficiency exotic Weapon Groups spears, thrown; This single-use javelin bears a thunderstone just behind the head. If you successfully strike a target with one of these javelins, the creature takes damage as normal and is the center of the thunderstone’s effect. If you miss, roll to see where the javelin lands (as if determining a miss with a splash weapon); that square becomes the center of the thunderstone’s effect.",
 		"value": 35,
 		"weight": 3,
 		"categoryOne": "Weapon",
@@ -1075,7 +1075,7 @@
 		"value": 1,
 		"weight": 1,
 		"categoryOne": "Weapon",
-		"categoryTwo": "Ammunitation",
+		"categoryTwo": "Ammunition",
 		"categoryThree": "Bolt",
 		"source": "PZO1110"
 	},
@@ -1085,7 +1085,7 @@
 		"value": 0.05,
 		"weight": 2,
 		"categoryOne": "Weapon",
-		"categoryTwo": "Ammunitation",
+		"categoryTwo": "Ammunition",
 		"categoryThree": "Bullet",
 		"source": "PPC:Halflings"
 	},
@@ -1095,7 +1095,7 @@
 		"value": 1,
 		"weight": 5,
 		"categoryOne": "Weapon",
-		"categoryTwo": "Ammunitation",
+		"categoryTwo": "Ammunition",
 		"categoryThree": "Bullet",
 		"source": "PPC:Halflings"
 	},
@@ -1105,7 +1105,7 @@
 		"value": 0.1,
 		"weight": 4,
 		"categoryOne": "Weapon",
-		"categoryTwo": "Ammunitation",
+		"categoryTwo": "Ammunition",
 		"categoryThree": "Bolt",
 		"source": "PPC:Halflings"
 	},
@@ -1115,7 +1115,7 @@
 		"value": 1,
 		"weight": 1,
 		"categoryOne": "Weapon",
-		"categoryTwo": "Ammunitation",
+		"categoryTwo": "Ammunition",
 		"categoryThree": "Bullet",
 		"source": "PPC:Halflings"
 	},
@@ -1125,7 +1125,7 @@
 		"value": 1,
 		"weight": 1,
 		"categoryOne": "Weapon",
-		"categoryTwo": "Ammunitation",
+		"categoryTwo": "Ammunition",
 		"categoryThree": "Bullet",
 		"source": "PPC:Halflings"
 	}
