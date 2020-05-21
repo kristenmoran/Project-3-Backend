@@ -17,7 +17,7 @@ describe('GET /shop/items', () => {
 });
 
 // Test by ID
-describe('GET /shop/items/:id', () => {
+describe('GET /shop/items/id/:id', () => {
 	let itemId;
 	before((done) => {
 		api
@@ -32,7 +32,7 @@ describe('GET /shop/items/:id', () => {
 
 	it('should check that the :id equals last id', (done) => {
 		api
-			.get(`/shop/items/${itemId}`)
+			.get(`/shop/items/id/${itemId}`)
 			.set('Accept', 'application/json')
 			.end((error, response) => {
 				expect(response.body._id).to.equal(itemId);
@@ -75,7 +75,7 @@ describe('POST /shop/items/admin/new', () => {
 	});
 	it('should check that the :id name equals test', (done) => {
 		api
-			.get(`/shop/items/${itemId}`)
+			.get(`/shop/items/id/${itemId}`)
 			.set('Accept', 'application/json')
 			.end((error, response) => {
 				expect(response.body.name).to.equal('test');
@@ -85,7 +85,7 @@ describe('POST /shop/items/admin/new', () => {
 });
 
 //Test Update by id
-describe('PUT /shop/items/admin/:id', () => {
+describe('PUT /shop/items/admin/id/:id', () => {
 	let itemToUpdate;
 	before((done) => {
 		api
@@ -107,7 +107,7 @@ describe('PUT /shop/items/admin/:id', () => {
 	});
 	it('should update item', (done) => {
 		api
-			.get(`/shop/items/${itemToUpdate._id}`)
+			.get(`/shop/items/id/${itemToUpdate._id}`)
 			.set('Accept', 'application/json')
 			.end((error, response) => {
 				// assert that name has been updated
@@ -118,7 +118,7 @@ describe('PUT /shop/items/admin/:id', () => {
 });
 
 //Test Delete by ID
-describe('/shop/items/:id', () => {
+describe('/shop/items/id/:id', () => {
 	let itemToDeleteId;
 	before((done) => {
 		api
