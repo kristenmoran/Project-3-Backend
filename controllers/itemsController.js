@@ -3,6 +3,36 @@ const router = express.Router();
 // const { requireToken } = require('../middleware/auth');
 const Item = require('../models/Items');
 
+
+categoryOneTranslate = (text) => {
+    switch (text) {
+			case 'adventuring':
+				text = 'Adventuring Gear';
+				break;
+			case 'food_drink':
+				text = 'Food and Drink';
+				break;
+			case 'armor_shield':
+				text = 'Armor and Shields';
+				break;
+			case 'weapons':
+				text = 'Weapon';
+				break;
+			case 'food_drink':
+				text = 'Armor and Shields';
+				break;
+			case 'food_drink':
+				text = 'Food and Drink';
+				break;
+			case 'food_drink':
+				text = 'Food and Drink';
+				break;
+			default:
+				text = 'No value found';
+		} 
+}
+
+
 //All Items
 router.get('/', (req, res, next) => {
 	Item.find()
@@ -50,35 +80,7 @@ router.get('/adventuring/hunting', (req, res, next) => {
 		categoryTwo: 'Hunting and Fishing',
 	})
 		.then((items) => res.json(items))
-		.catch(next); //Test Delete by ID
-	describe('/shop/items/:id', () => {
-		let itemToDeleteId;
-		before((done) => {
-			api
-				.get('/shop/items/')
-				.set('Accept', 'application/json')
-				.end((error, response) => {
-					const items = response.body;
-					itemToDeleteId = items[items.length - 1]._id;
-					done();
-				});
-		});
-		before((done) => {
-			api.delete(`/shop/items/${itemToDeleteId}`).end(done);
-		});
-		it('should check ID deleted', (done) => {
-			api
-				.get('/shop/items/')
-				.set('Accept', 'application/json')
-				.end((error, response) => {
-					const itemToFind = response.body.find(
-						(item) => item.id === itemToDeleteId
-					);
-					expect(itemToFind).to.equal(undefined);
-					done();
-				});
-		});
-	});
+		.catch(next);
 });
 
 //Adventuring Gear/Misc. Outdoors Gear
@@ -220,19 +222,19 @@ router.get('/armor_shield/extra', (req, res, next) => {
 });
 
 //Weapon
-router.get('/weapons', (req, res, next) => {
+router.get('/:catOne', (req, res, next) => {
 	Item.find({
-		categoryOne: 'Weapon',
+		categoryOne: req.params.catOne,
 	})
 		.then((items) => res.json(items))
 		.catch(next);
 });
 
 //Weapon/Simple
-router.get('/weapons/simple', (req, res, next) => {
+router.get('/:catOne/:catTwo', (req, res, next) => {
 	Item.find({
-		categoryOne: 'Weapon',
-		categoryTwo: 'Simple',
+		categoryOne: req.params.catOne,
+		categoryTwo: req.params.catTwo,
 	})
 		.then((items) => res.json(items))
 		.catch(next);
