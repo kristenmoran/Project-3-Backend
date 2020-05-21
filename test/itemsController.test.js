@@ -128,7 +128,6 @@ describe('/shop/items/id/:id', () => {
 				const items = response.body;
 
 				itemToDeleteId = items[items.length - 1]._id;
-				console.log(itemToDeleteId);
 				done();
 			});
 	});
@@ -143,7 +142,6 @@ describe('/shop/items/id/:id', () => {
 				const itemToFind = response.body.find(
 					(item) => item.id === itemToDeleteId
 				);
-				console.log(itemToFind);
 				expect(itemToFind).to.equal(undefined);
 				done();
 			});
