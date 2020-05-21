@@ -204,35 +204,6 @@ router.get('/search/:text', (req, res, next) => {
 		.then((items) => res.json(items))
 		.catch(next);
 });
-
-router.get('/:catOne', (req, res, next) => {
-	Item.find({
-		categoryOne: categoryOneTranslate(req.params.catOne),
-	}).then((items) => res.json(items));
-});
-
-router.get('/:catOne/:catTwo', (req, res, next) => {
-	Item.find({
-		categoryOne: categoryOneTranslate(req.params.catOne),
-		categoryTwo: categoryTwoTranslate(req.params.catTwo),
-	}).then((items) => res.json(items));
-});
-
-router.get('/:catOne/:catTwo/:catThree', (req, res, next) => {
-	Item.find({
-		categoryOne: categoryOneTranslate(req.params.catOne),
-		categoryTwo: categoryTwoTranslate(req.params.catTwo),
-		categoryThree: categoryThreeTranslate(req.params.catThree),
-	}).then((items) => res.json(items));
-});
-
-//Get by ID
-router.get('/:id', (req, res, next) => {
-	Item.findById(req.params.id)
-		.then((item) => res.json(item))
-		.catch(next);
-});
-
 //Post New
 router.post('/admin/new', (req, res, next) => {
 	Item.create(req.body)
@@ -257,4 +228,33 @@ router.delete('/admin/:id', (req, res, next) => {
 		.then((item) => res.json(item))
 		.catch(next);
 });
+
+//Get by ID
+router.get('/id/:id', (req, res, next) => {
+	Item.findById(req.params.id)
+		.then((item) => res.json(item))
+		.catch(next);
+});
+
+router.get('/:catOne', (req, res, next) => {
+	Item.find({
+		categoryOne: categoryOneTranslate(req.params.catOne),
+	}).then((items) => res.json(items));
+});
+
+router.get('/:catOne/:catTwo', (req, res, next) => {
+	Item.find({
+		categoryOne: categoryOneTranslate(req.params.catOne),
+		categoryTwo: categoryTwoTranslate(req.params.catTwo),
+	}).then((items) => res.json(items));
+});
+
+router.get('/:catOne/:catTwo/:catThree', (req, res, next) => {
+	Item.find({
+		categoryOne: categoryOneTranslate(req.params.catOne),
+		categoryTwo: categoryTwoTranslate(req.params.catTwo),
+		categoryThree: categoryThreeTranslate(req.params.catThree),
+	}).then((items) => res.json(items));
+});
+
 module.exports = router;
