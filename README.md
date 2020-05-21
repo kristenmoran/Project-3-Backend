@@ -30,3 +30,5 @@ Software used
 
 To run built in tests
 
+use "npm test"
+
