@@ -236,12 +236,14 @@ router.get('/id/:id', (req, res, next) => {
 		.catch(next);
 });
 
+//Get by Category One
 router.get('/:catOne', (req, res, next) => {
 	Item.find({
 		categoryOne: categoryOneTranslate(req.params.catOne),
 	}).then((items) => res.json(items));
 });
 
+//Get by Category One, Two
 router.get('/:catOne/:catTwo', (req, res, next) => {
 	Item.find({
 		categoryOne: categoryOneTranslate(req.params.catOne),
@@ -249,6 +251,7 @@ router.get('/:catOne/:catTwo', (req, res, next) => {
 	}).then((items) => res.json(items));
 });
 
+//Get by Category One, Two, Three
 router.get('/:catOne/:catTwo/:catThree', (req, res, next) => {
 	Item.find({
 		categoryOne: categoryOneTranslate(req.params.catOne),
