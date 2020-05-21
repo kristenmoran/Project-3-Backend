@@ -285,7 +285,7 @@
 		"value": 200,
 		"weight": 40,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
+		"categoryTwo": "Tools and Devices",
 		"categoryThree": "",
 		"source": "PZO1110"
 	},
@@ -295,7 +295,7 @@
 		"value": 75,
 		"weight": 20,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
+		"categoryTwo": "Tools and Devices",
 		"categoryThree": "",
 		"source": "PZO1110"
 	},
@@ -305,7 +305,7 @@
 		"value": 300,
 		"weight": 40,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
+		"categoryTwo": "Tools and Devices",
 		"categoryThree": "",
 		"source": "PZO1121"
 	},
@@ -315,7 +315,7 @@
 		"value": 10,
 		"weight": 0.5,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
+		"categoryTwo": "Tools and Devices",
 		"categoryThree": "",
 		"source": "PZO1121"
 	},
@@ -325,7 +325,7 @@
 		"value": 10,
 		"weight": 1,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
+		"categoryTwo": "Tools and Devices",
 		"categoryThree": "",
 		"source": "PZO1123"
 	},
@@ -335,7 +335,7 @@
 		"value": 1,
 		"weight": 1,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
+		"categoryTwo": "Tools and Devices",
 		"categoryThree": "",
 		"source": "PZO1123"
 	},
@@ -345,7 +345,7 @@
 		"value": 1,
 		"weight": 0,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
+		"categoryTwo": "Tools and Devices",
 		"categoryThree": "",
 		"source": "PZO1123"
 	},
@@ -355,7 +355,7 @@
 		"value": 50,
 		"weight": 1,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
+		"categoryTwo": "Tools and Devices",
 		"categoryThree": "",
 		"source": "PZO1121"
 	},
@@ -366,7 +366,7 @@
 		"value": 25,
 		"weight": 1,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Tools, Devices and Kits",
+		"categoryTwo": "Tools and Devices",
 		"categoryThree": "",
 		"source": "PZO1123"
 	},
@@ -1436,7 +1436,7 @@
 		"value": 30,
 		"weight": 0.5,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Hunting Aids",
+		"categoryTwo": "Hunting and Fishing",
 		"categoryThree": "",
 		"source": "PZO9410"
 	},
@@ -1446,7 +1446,7 @@
 		"value": 75,
 		"weight": 0.5,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Hunting Aids",
+		"categoryTwo": "Hunting and Fishing",
 		"categoryThree": "",
 		"source": "PZO9211"
 	},
@@ -1456,7 +1456,7 @@
 		"value": 2,
 		"weight": 0,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Hunting Aids",
+		"categoryTwo": "Hunting and Fishing",
 		"categoryThree": "",
 		"source": "RotRLPG"
 	},
@@ -1466,7 +1466,7 @@
 		"value": 40,
 		"weight": 0.5,
 		"categoryOne": "Alchemical Items",
-		"categoryTwo": "Hunting Aids",
+		"categoryTwo": "Hunting and Fishing",
 		"categoryThree": "",
 		"source": "PZO9410"
 	},

@@ -49,7 +49,7 @@ describe('POST /shop/items/admin/new', () => {
 		value: '1',
 		weight: '1',
 		categoryOne: 'Weapon',
-		categoryTwo: 'Ammunitation',
+		categoryTwo: 'Ammunition',
 		categoryThree: 'Bullet',
 		source: 'test',
 	};
@@ -125,10 +125,10 @@ describe('/shop/items/:id', () => {
 			.get('/shop/items/')
 			.set('Accept', 'application/json')
 			.end((error, response) => {
-                const items = response.body;
-                
-                itemToDeleteId = items[items.length - 1]._id;
-                console.log(itemToDeleteId);
+				const items = response.body;
+
+				itemToDeleteId = items[items.length - 1]._id;
+				console.log(itemToDeleteId);
 				done();
 			});
 	});
@@ -142,8 +142,8 @@ describe('/shop/items/:id', () => {
 			.end((error, response) => {
 				const itemToFind = response.body.find(
 					(item) => item.id === itemToDeleteId
-                );
-                console.log(itemToFind);
+				);
+				console.log(itemToFind);
 				expect(itemToFind).to.equal(undefined);
 				done();
 			});

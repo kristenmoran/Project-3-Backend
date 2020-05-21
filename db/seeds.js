@@ -24,8 +24,6 @@ Item.deleteMany()
 	.then(() => Item.insertMany(weaponSimple))
 	.then(() => Item.insertMany(weaponExotic))
 
-	.then(console.log)
-
 	.catch(console.error)
 
 	.finally(process.exit);
