@@ -240,7 +240,9 @@ router.get('/id/:id', (req, res, next) => {
 router.get('/:catOne', (req, res, next) => {
 	Item.find({
 		categoryOne: categoryOneTranslate(req.params.catOne),
-	}).then((items) => res.json(items));
+	})
+		.then((items) => res.json(items))
+		.catch(next);;
 });
 
 //Get by Category One, Two
@@ -248,7 +250,9 @@ router.get('/:catOne/:catTwo', (req, res, next) => {
 	Item.find({
 		categoryOne: categoryOneTranslate(req.params.catOne),
 		categoryTwo: categoryTwoTranslate(req.params.catTwo),
-	}).then((items) => res.json(items));
+	})
+		.then((items) => res.json(items))
+		.catch(next);;
 });
 
 //Get by Category One, Two, Three
@@ -257,7 +261,9 @@ router.get('/:catOne/:catTwo/:catThree', (req, res, next) => {
 		categoryOne: categoryOneTranslate(req.params.catOne),
 		categoryTwo: categoryTwoTranslate(req.params.catTwo),
 		categoryThree: categoryThreeTranslate(req.params.catThree),
-	}).then((items) => res.json(items));
+	})
+		.then((items) => res.json(items))
+		.catch(next);;
 });
 
 module.exports = router;
